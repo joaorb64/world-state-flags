@@ -28,7 +28,9 @@ jobs:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
-        run: python get_flags.py
+        run: |
+          python get_flags.py
+          python generate_readme.py
           
       - name: commit files
         run: |
