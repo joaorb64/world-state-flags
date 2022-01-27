@@ -1,11 +1,7 @@
-from logging import exception
-from sys import path
-from typing import Text
 from bs4 import BeautifulSoup
 import json
 import re
 import unicodedata
-import shutil
 import os
 import requests
 
@@ -47,12 +43,6 @@ def GenStateNameTries(stateName):
         stateNameReduced+" Canton"
     ]
 
-    if countryname in state_remap.keys():
-        if remove_accents_lower(stateName) in state_remap[countryname].keys():
-            stateName = state_remap[countryname][remove_accents_lower(
-                stateName)]
-            stateNameTries = [stateName]
-
     return stateNameTries
 
 
@@ -73,20 +63,17 @@ data = json.load(f)
 f = open('country_name_remapping.json')
 remap = json.load(f)
 
-f = open('state_name_remapping.json')
-state_remap = json.load(f)
-
 url = 'https://en.wikipedia.org/wiki/Flags_of_country_subdivisions'
 page = requests.get(url).text
 soup = BeautifulSoup(page, features="lxml")
 
-countries = soup.select('h2 > span.mw-headline')
+countries = soup.select('h2 > span.mw-headline, h3 > span.mw-headline')
 
 for country in countries:
     countryname = country.text.strip()
 
     if countryname in remap.keys():
-        countryname = remap[countryname]
+       countryname = remap[countryname]
 
     found = next((c for c in data if c["name"] == countryname), None)
 
@@ -179,41 +166,49 @@ for country in countries:
                             if dataState and dataState["state_code"] != None and (
                                     (dataState["state_code"] not in foundStateCodes) or (
                                         tableLink.text.strip().lower().startswith("flag of") and dataState["state_code"] not in foundStateCodesOverrided)):
-                                
-                                if tableLink.text.strip().lower().startswith("flag of"):
-                                    foundStateCodesOverrided.append(dataState["state_code"])
-
                                 print("=> Found "+tableLink.text)
                                 try:
                                     imagesInRow = tableLink.parent.parent.select(
                                         "img")
 
                                     if len(imagesInRow) > 0:
-                                        flagElement = imagesInRow[0]
+                                        for flagElement in imagesInRow:
+                                            # Has alt and "Flag" is not in it, probably not the flag
+                                            if flagElement["alt"] and "flag" not in flagElement["alt"].lower():
+                                                continue
 
-                                        response = requests.get("http:"+re.sub(r'\d*px', "64px", flagElement["src"]),
-                                                                headers={'User-Agent': "Magic Browser"})
-                                        if response.status_code == 200:
-                                            with open("./out/"+found["iso2"]+"/"+dataState["state_code"]+".png", 'wb') as f:
-                                                f.write(response.content)
-                                        else:
-                                            print(response.status_code)
-                                            response = requests.get("http:"+flagElement["src"],
+                                            # If there's no "flag" in the link itself, probably not the flag
+                                            if "flag" not in flagElement["src"].lower():
+                                                continue
+
+                                            response = requests.get("http:"+re.sub(r'\d*px', "64px", flagElement["src"]),
                                                                     headers={'User-Agent': "Magic Browser"})
                                             if response.status_code == 200:
                                                 with open("./out/"+found["iso2"]+"/"+dataState["state_code"]+".png", 'wb') as f:
                                                     f.write(response.content)
                                             else:
                                                 print(response.status_code)
+                                                response = requests.get("http:"+flagElement["src"],
+                                                                        headers={'User-Agent': "Magic Browser"})
+                                                if response.status_code == 200:
+                                                    with open("./out/"+found["iso2"]+"/"+dataState["state_code"]+".png", 'wb') as f:
+                                                        f.write(response.content)
+                                                else:
+                                                    print(response.status_code)
 
-                                        '''shutil.copy(
-                                            state.find("img")["src"],
-                                            "./out/"+found["iso2"]+"/"+dataState["state_code"]+".png"
-                                        )'''
+                                            '''shutil.copy(
+                                                state.find("img")["src"],
+                                                "./out/"+found["iso2"]+"/"+dataState["state_code"]+".png"
+                                            )'''
+
+                                            foundStateCodes.append(dataState["state_code"])
+
+                                            if tableLink.text.strip().lower().startswith("flag of"):
+                                                foundStateCodesOverrided.append(dataState["state_code"])
+
+                                            break
                                 except Exception as e:
                                     print(e)
-
-                                foundStateCodes.append(dataState["state_code"])
 
                                 break
 

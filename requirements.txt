@@ -1,0 +1,6 @@
+bs4
+json
+re
+unicodedata
+os
+requests
