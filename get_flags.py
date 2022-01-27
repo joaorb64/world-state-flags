@@ -1,0 +1,230 @@
+from logging import exception
+from sys import path
+from typing import Text
+from bs4 import BeautifulSoup
+import json
+import re
+import unicodedata
+import shutil
+import os
+import requests
+
+
+def GenStateNameTries(stateName):
+    stateName = stateName.strip()
+    stateName = re.sub(r'\([^)]*\)', "", stateName).strip()
+    stateName = stateName.split(",")[0]
+
+    stateNameReduced = re.sub(
+        r'(Flag of|Region|Municipality|Province|Province of|Governorate|Department|Country|Republic|District|Oblast|Voblast|Territory|City|Metropolitan City of|Metropolitan|Special|Self-Governing)', "", stateName, flags=re.IGNORECASE
+    ).strip()
+
+    stateNameTries = [
+        stateName,
+        stateNameReduced,
+        "Flag of "+stateName,
+        "Flag of "+stateNameReduced,
+        stateNameReduced+" Region",
+        stateNameReduced+" Municipality",
+        stateNameReduced+" Province",
+        stateNameReduced+" Governorate",
+        stateNameReduced+" Department",
+        stateNameReduced+" Country",
+        stateNameReduced+" Republic",
+        stateNameReduced+" District",
+        stateNameReduced+" District Municipality",
+        "Canton of "+stateNameReduced,
+        "Province of "+stateNameReduced,
+        "City of "+stateNameReduced,
+        "Metropolitan City of "+stateNameReduced,
+        "Federal State of "+stateNameReduced,
+        stateNameReduced+" Oblast",
+        stateNameReduced+" Voblast",
+        stateNameReduced+" Prefecture",
+        stateNameReduced+" Territory",
+        stateNameReduced+" City",
+        stateNameReduced+" Emirate",
+        stateNameReduced+" Canton"
+    ]
+
+    if countryname in state_remap.keys():
+        if remove_accents_lower(stateName) in state_remap[countryname].keys():
+            stateName = state_remap[countryname][remove_accents_lower(
+                stateName)]
+            stateNameTries = [stateName]
+
+    return stateNameTries
+
+
+url = 'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/countries%2Bstates%2Bcities.json'
+
+r = requests.get(url, allow_redirects=True)
+open('countries+states+cities.json', 'wb').write(r.content)
+
+
+def remove_accents_lower(input_str):
+    nfkd_form = unicodedata.normalize('NFKD', input_str)
+    return u"".join([c for c in nfkd_form if not unicodedata.combining(c)]).lower()
+
+
+f = open('countries+states+cities.json')
+data = json.load(f)
+
+f = open('country_name_remapping.json')
+remap = json.load(f)
+
+f = open('state_name_remapping.json')
+state_remap = json.load(f)
+
+url = 'https://en.wikipedia.org/wiki/Flags_of_country_subdivisions'
+page = requests.get(url).text
+soup = BeautifulSoup(page, features="lxml")
+
+countries = soup.select('h2 > span.mw-headline')
+
+for country in countries:
+    countryname = country.text.strip()
+
+    if countryname in remap.keys():
+        countryname = remap[countryname]
+
+    found = next((c for c in data if c["name"] == countryname), None)
+
+    if found:
+        print(countryname)
+
+        if not os.path.isdir("./out/"+found["iso2"]):
+            os.mkdir("./out/"+found["iso2"])
+
+        nextElement = country.findNext()
+
+        foundStates = 0
+        foundStateCodes = []
+        foundStateCodesOverrided = []
+
+        dataStates = found["states"]
+
+        while nextElement != None:
+            # Title for the next country. Break
+            if nextElement.name == "h2":
+                break
+
+            # if it's a list of flags in the same page
+            if nextElement.name == "ul":
+                stateList = nextElement
+
+                for state in stateList.select("li"):
+                    stateName = state.select("a")[-1].text
+                    stateNameTries = GenStateNameTries(stateName)
+
+                    dataState = None
+
+                    for stateNameTry in stateNameTries:
+                        dataState = next((s for s in dataStates if remove_accents_lower(
+                            s["name"]) == remove_accents_lower(stateNameTry)), None)
+                        if dataState and dataState["state_code"] != None:
+                            response = requests.get("http:"+re.sub(r'\d*px', "64px", state.find("img")["src"]),
+                                                    headers={'User-Agent': "Magic Browser"})
+                            if response.status_code == 200:
+                                with open("./out/"+found["iso2"]+"/"+dataState["state_code"]+".png", 'wb') as f:
+                                    f.write(response.content)
+                            else:
+                                print(response.status_code)
+                                response = requests.get("http:"+state.find("img")["src"],
+                                                        headers={'User-Agent': "Magic Browser"})
+                                if response.status_code == 200:
+                                    with open("./out/"+found["iso2"]+"/"+dataState["state_code"]+".png", 'wb') as f:
+                                        f.write(response.content)
+                                else:
+                                    print(response.status_code)
+
+                            '''shutil.copy(
+                                state.find("img")["src"],
+                                "./out/"+found["iso2"]+"/"+dataState["state_code"]+".png"
+                            )'''
+                            break
+
+                    if not dataState:
+                        print("> Not found: "+remove_accents_lower(stateName))
+                    else:
+                        foundStates += 1
+            # If it's a redirect to a flags page instead
+            if nextElement.name == "div":
+                linkElements = nextElement.select('a')
+                links = set()
+
+                for link in linkElements:
+                    links.add(link["href"].split("#")[0])
+
+                for link in links:
+                    print(link)
+
+                    url = f'https://en.wikipedia.org{link}'
+                    page = requests.get(url).text
+                    subSoup = BeautifulSoup(page, features="lxml")
+
+                    linksInTables = subSoup.select("td > a")
+
+                    dataState = None
+
+                    for tableLink in linksInTables:
+                        stateName = tableLink.text
+
+                        stateNameTries = GenStateNameTries(stateName)
+
+                        for stateNameTry in stateNameTries:
+                            dataState = next((s for s in dataStates if remove_accents_lower(
+                                s["name"]) == remove_accents_lower(stateNameTry)), None)
+
+                            if dataState and dataState["state_code"] != None and (
+                                    (dataState["state_code"] not in foundStateCodes) or (
+                                        tableLink.text.strip().lower().startswith("flag of") and dataState["state_code"] not in foundStateCodesOverrided)):
+                                
+                                if tableLink.text.strip().lower().startswith("flag of"):
+                                    foundStateCodesOverrided.append(dataState["state_code"])
+
+                                print("=> Found "+tableLink.text)
+                                try:
+                                    imagesInRow = tableLink.parent.parent.select(
+                                        "img")
+
+                                    if len(imagesInRow) > 0:
+                                        flagElement = imagesInRow[0]
+
+                                        response = requests.get("http:"+re.sub(r'\d*px', "64px", flagElement["src"]),
+                                                                headers={'User-Agent': "Magic Browser"})
+                                        if response.status_code == 200:
+                                            with open("./out/"+found["iso2"]+"/"+dataState["state_code"]+".png", 'wb') as f:
+                                                f.write(response.content)
+                                        else:
+                                            print(response.status_code)
+                                            response = requests.get("http:"+flagElement["src"],
+                                                                    headers={'User-Agent': "Magic Browser"})
+                                            if response.status_code == 200:
+                                                with open("./out/"+found["iso2"]+"/"+dataState["state_code"]+".png", 'wb') as f:
+                                                    f.write(response.content)
+                                            else:
+                                                print(response.status_code)
+
+                                        '''shutil.copy(
+                                            state.find("img")["src"],
+                                            "./out/"+found["iso2"]+"/"+dataState["state_code"]+".png"
+                                        )'''
+                                except Exception as e:
+                                    print(e)
+
+                                foundStateCodes.append(dataState["state_code"])
+
+                                break
+
+                        if not dataState:
+                            print("> Not found: " +
+                                  remove_accents_lower(stateName))
+                        else:
+                            foundStates += 1
+
+            nextElement = nextElement.findNext()
+
+        print("Coverage: "+str(foundStates)+"/"+str(len(found["states"])))
+    else:
+        print("Not found: "+countryname)
