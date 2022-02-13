@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 1818
+FLAGS: 1819
 
 ### Afghanistan
 
@@ -898,7 +898,7 @@ Flags: 0
 
 ### Thailand
 
-Flags: 70
+Flags: 71
 
 ### Togo
 
