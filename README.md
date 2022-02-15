@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 1819
+FLAGS: 1842
 
 ### Afghanistan
 
@@ -194,7 +194,7 @@ Flags: 16
 
 ### China
 
-Flags: 8
+Flags: 31
 
 ### Christmas Island
 
