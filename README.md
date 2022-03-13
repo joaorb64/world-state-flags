@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 1842
+FLAGS: 1848
 
 ### Afghanistan
 
@@ -73,10 +73,6 @@ Flags: 8
 Flags: 9
 
 ### Azerbaijan
-
-Flags: 0
-
-### Bahamas The
 
 Flags: 0
 
@@ -318,7 +314,7 @@ Flags: 10
 
 ### France
 
-Flags: 129
+Flags: 133
 
 ### French Guiana
 
@@ -438,7 +434,7 @@ Flags: 2
 
 ### Ireland
 
-Flags: 6
+Flags: 7
 
 ### Israel
 
@@ -646,7 +642,7 @@ Flags: 4
 
 ### Nicaragua
 
-Flags: 16
+Flags: 17
 
 ### Niger
 
@@ -899,6 +895,10 @@ Flags: 0
 ### Thailand
 
 Flags: 71
+
+### The Bahamas
+
+Flags: 0
 
 ### Togo
 
