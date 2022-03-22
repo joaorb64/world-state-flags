@@ -10,11 +10,11 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 1848
+FLAGS: 1886
 
 ### Afghanistan
 
-Flags: 0
+Flags: 6
 
 ### Aland Islands
 
@@ -242,7 +242,7 @@ Flags: 0
 
 ### Czech Republic
 
-Flags: 75
+Flags: 82
 
 ### Democratic Republic of the Congo
 
@@ -434,7 +434,7 @@ Flags: 2
 
 ### Ireland
 
-Flags: 7
+Flags: 29
 
 ### Israel
 
@@ -854,7 +854,7 @@ Flags: 9
 
 ### Sudan
 
-Flags: 0
+Flags: 3
 
 ### Suriname
 
