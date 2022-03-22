@@ -174,12 +174,12 @@ for country in countries:
                                     if len(imagesInRow) > 0:
                                         for flagElement in imagesInRow:
                                             # Has alt and "Flag" is not in it, probably not the flag
-                                            if flagElement["alt"] and "flag" not in flagElement["alt"].lower():
-                                                continue
+                                            # if flagElement["alt"] and "flag" not in flagElement["alt"].lower():
+                                            #     continue
 
                                             # If there's no "flag" in the link itself, probably not the flag
-                                            if "flag" not in flagElement["src"].lower():
-                                                continue
+                                            # if "flag" not in flagElement["src"].lower():
+                                            #     continue
 
                                             response = requests.get("http:"+re.sub(r'\d*px', "64px", flagElement["src"]),
                                                                     headers={'User-Agent': "Magic Browser"})
