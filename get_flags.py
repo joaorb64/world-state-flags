@@ -168,19 +168,28 @@ for country in countries:
                                         tableLink.text.strip().lower().startswith("flag of") and dataState["state_code"] not in foundStateCodesOverrided)):
                                 print("=> Found "+tableLink.text)
                                 try:
-                                    imagesInRow = tableLink.parent.parent.select(
-                                        "img")
+                                    tableRow = tableLink.find_parent("tr")
+
+                                    # Try to find table column with title "Flag"
+                                    tableCols = tableRow.parent.findChildren("th")
+                                    tableCol = None
+                                    for i, c in enumerate(tableCols):
+                                        if c.get_text().strip().lower() == "flag":
+                                            print("Found by table column:", c.get_text().strip().lower())
+                                            tableCol = i
+                                            tableRow = tableRow.findChildren("td")[i]
+                                            break
+
+                                    imagesInRow = tableRow.select("img")
 
                                     if len(imagesInRow) > 0:
+                                        # If
+                                        # Has alt and "Flag" is not in it, probably not the flag or
+                                        # There's "flag" in the link itself
+                                        # Order image first
+                                        imagesInRow.sort(key=lambda x: -1 if (x["alt"] and "flag" in x["alt"].lower()) or ("flag" in x["src"].lower()) else 1)
+
                                         for flagElement in imagesInRow:
-                                            # Has alt and "Flag" is not in it, probably not the flag
-                                            # if flagElement["alt"] and "flag" not in flagElement["alt"].lower():
-                                            #     continue
-
-                                            # If there's no "flag" in the link itself, probably not the flag
-                                            # if "flag" not in flagElement["src"].lower():
-                                            #     continue
-
                                             response = requests.get("http:"+re.sub(r'\d*px', "64px", flagElement["src"]),
                                                                     headers={'User-Agent': "Magic Browser"})
                                             if response.status_code == 200:
