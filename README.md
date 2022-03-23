@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 1886
+FLAGS: 1897
 
 ### Afghanistan
 
@@ -586,7 +586,7 @@ Flags: 4
 
 ### Moldova
 
-Flags: 18
+Flags: 29
 
 ### Monaco
 
