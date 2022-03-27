@@ -69,6 +69,38 @@ soup = BeautifulSoup(page, features="lxml")
 
 countries = soup.select('h2 > span.mw-headline, h3 > span.mw-headline')
 
+def get_flag_url_from_infobox(url):
+    page = requests.get(url).text
+    soup = BeautifulSoup(page, features="lxml")
+
+    infobox = soup.select_one(".infobox.ib-settlement.vcard")
+
+    if infobox:
+        images = infobox.select("img")
+
+        for img in images:
+            if (img["alt"] and "flag" in img["alt"].lower()):
+                print("> Found flag in infobox!")
+                return img["src"]
+    
+    return None
+
+def download_flag(url, country_code, state_code):
+    response = requests.get("http:"+re.sub(r'\d*px', "64px", url),
+                            headers={'User-Agent': "Magic Browser"})
+    if response.status_code == 200:
+        with open("./out/"+country_code+"/"+state_code+".png", 'wb') as f:
+            f.write(response.content)
+    else:
+        print(response.status_code)
+        response = requests.get("http:"+url,
+                                headers={'User-Agent': "Magic Browser"})
+        if response.status_code == 200:
+            with open("./out/"+country_code+"/"+state_code+".png", 'wb') as f:
+                f.write(response.content)
+        else:
+            print(response.status_code)
+
 for country in countries:
     countryname = country.text.strip()
 
@@ -110,33 +142,18 @@ for country in countries:
                         dataState = next((s for s in dataStates if remove_accents_lower(
                             s["name"]) == remove_accents_lower(stateNameTry)), None)
                         if dataState and dataState["state_code"] != None:
-                            response = requests.get("http:"+re.sub(r'\d*px', "64px", state.find("img")["src"]),
-                                                    headers={'User-Agent': "Magic Browser"})
-                            if response.status_code == 200:
-                                with open("./out/"+found["iso2"]+"/"+dataState["state_code"]+".png", 'wb') as f:
-                                    f.write(response.content)
-                            else:
-                                print(response.status_code)
-                                response = requests.get("http:"+state.find("img")["src"],
-                                                        headers={'User-Agent': "Magic Browser"})
-                                if response.status_code == 200:
-                                    with open("./out/"+found["iso2"]+"/"+dataState["state_code"]+".png", 'wb') as f:
-                                        f.write(response.content)
-                                else:
-                                    print(response.status_code)
-
-                            '''shutil.copy(
-                                state.find("img")["src"],
-                                "./out/"+found["iso2"]+"/"+dataState["state_code"]+".png"
-                            )'''
+                            if dataState["state_code"] not in foundStateCodes:
+                                download_flag(state.find("img")["src"], found["iso2"], dataState["state_code"])
+                                foundStateCodes.append(dataState["state_code"])
                             break
 
                     if not dataState:
                         print("> Not found: "+remove_accents_lower(stateName))
                     else:
                         foundStates += 1
-            # If it's a redirect to a flags page instead
+            # If it's a redirect to a flags page
             if nextElement.name == "div":
+                # Page with lots of flags?
                 linkElements = nextElement.select('a')
                 links = set()
 
@@ -168,6 +185,14 @@ for country in countries:
                                         tableLink.text.strip().lower().startswith("flag of") and dataState["state_code"] not in foundStateCodesOverrided)):
                                 print("=> Found "+tableLink.text)
                                 try:
+                                    tryGet = get_flag_url_from_infobox(url)
+
+                                    if tryGet:
+                                        download_flag(flagElement["src"], found["iso2"], dataState["state_code"])
+                                        foundStateCodes.append(dataState["state_code"])
+                                        foundStateCodesOverrided.append(dataState["state_code"])
+                                        continue
+
                                     tableRow = tableLink.find_parent("tr")
 
                                     # Try to find table column with title "Flag"
@@ -187,28 +212,16 @@ for country in countries:
                                         # Has alt and "Flag" is not in it, probably not the flag or
                                         # There's "flag" in the link itself
                                         # Order image first
-                                        imagesInRow.sort(key=lambda x: -1 if (x["alt"] and "flag" in x["alt"].lower()) or ("flag" in x["src"].lower()) else 1)
+                                        imagesInRow.sort(key=lambda x: -1 if (x["alt"] and "flag" in x["alt"].lower()) else 1)
 
                                         for flagElement in imagesInRow:
-                                            response = requests.get("http:"+re.sub(r'\d*px', "64px", flagElement["src"]),
-                                                                    headers={'User-Agent': "Magic Browser"})
-                                            if response.status_code == 200:
-                                                with open("./out/"+found["iso2"]+"/"+dataState["state_code"]+".png", 'wb') as f:
-                                                    f.write(response.content)
-                                            else:
-                                                print(response.status_code)
-                                                response = requests.get("http:"+flagElement["src"],
-                                                                        headers={'User-Agent': "Magic Browser"})
-                                                if response.status_code == 200:
-                                                    with open("./out/"+found["iso2"]+"/"+dataState["state_code"]+".png", 'wb') as f:
-                                                        f.write(response.content)
-                                                else:
-                                                    print(response.status_code)
-
-                                            '''shutil.copy(
-                                                state.find("img")["src"],
-                                                "./out/"+found["iso2"]+"/"+dataState["state_code"]+".png"
-                                            )'''
+                                            if (flagElement["src"] and "no_flag" in flagElement["src"].lower()):
+                                                continue
+                                        
+                                            if dataState["state_code"] in foundStateCodes:
+                                                continue
+                                            
+                                            download_flag(flagElement["src"], found["iso2"], dataState["state_code"])
 
                                             foundStateCodes.append(dataState["state_code"])
 

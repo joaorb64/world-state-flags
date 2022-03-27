@@ -10,11 +10,11 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 1897
+FLAGS: 1888
 
 ### Afghanistan
 
-Flags: 6
+Flags: 0
 
 ### Aland Islands
 
@@ -122,7 +122,7 @@ Flags: 0
 
 ### Bosnia and Herzegovina
 
-Flags: 13
+Flags: 12
 
 ### Botswana
 
@@ -242,7 +242,7 @@ Flags: 0
 
 ### Czech Republic
 
-Flags: 82
+Flags: 87
 
 ### Democratic Republic of the Congo
 
@@ -374,7 +374,7 @@ Flags: 0
 
 ### Guatemala
 
-Flags: 20
+Flags: 21
 
 ### Guernsey and Alderney
 
@@ -490,7 +490,7 @@ Flags: 0
 
 ### Latvia
 
-Flags: 26
+Flags: 18
 
 ### Lebanon
 
@@ -558,7 +558,7 @@ Flags: 0
 
 ### Marshall Islands
 
-Flags: 0
+Flags: 1
 
 ### Martinique
 
@@ -586,7 +586,7 @@ Flags: 4
 
 ### Moldova
 
-Flags: 29
+Flags: 31
 
 ### Monaco
 
@@ -662,7 +662,7 @@ Flags: 0
 
 ### North Korea
 
-Flags: 1
+Flags: 2
 
 ### Northern Mariana Islands
 
@@ -670,7 +670,7 @@ Flags: 0
 
 ### Norway
 
-Flags: 18
+Flags: 17
 
 ### Oman
 
@@ -706,7 +706,7 @@ Flags: 25
 
 ### Philippines
 
-Flags: 79
+Flags: 78
 
 ### Pitcairn Island
 
@@ -878,7 +878,7 @@ Flags: 24
 
 ### Syria
 
-Flags: 0
+Flags: 1
 
 ### Taiwan
 
@@ -950,7 +950,7 @@ Flags: 7
 
 ### United Kingdom
 
-Flags: 72
+Flags: 69
 
 ### United States
 
