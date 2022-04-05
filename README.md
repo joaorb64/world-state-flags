@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 1888
+FLAGS: 1889
 
 ### Afghanistan
 
@@ -354,7 +354,7 @@ Flags: 0
 
 ### Greece
 
-Flags: 3
+Flags: 4
 
 ### Greenland
 
