@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 1893
+FLAGS: 1900
 
 ### Afghanistan
 
@@ -402,7 +402,7 @@ Flags: 0
 
 ### Honduras
 
-Flags: 10
+Flags: 17
 
 ### Hong Kong S.A.R.
 
