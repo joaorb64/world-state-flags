@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 1900
+FLAGS: 1901
 
 ### Afghanistan
 
@@ -262,7 +262,7 @@ Flags: 0
 
 ### Dominican Republic
 
-Flags: 1
+Flags: 2
 
 ### East Timor
 
