@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 1903
+FLAGS: 1916
 
 ### Afghanistan
 
@@ -474,7 +474,7 @@ Flags: 0
 
 ### Kosovo
 
-Flags: 1
+Flags: 2
 
 ### Kuwait
 
@@ -598,7 +598,7 @@ Flags: 21
 
 ### Montenegro
 
-Flags: 0
+Flags: 6
 
 ### Montserrat
 
@@ -794,7 +794,7 @@ Flags: 0
 
 ### Serbia
 
-Flags: 2
+Flags: 8
 
 ### Seychelles
 
