@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 1916
+FLAGS: 1993
 
 ### Afghanistan
 
@@ -146,7 +146,7 @@ Flags: 0
 
 ### Bulgaria
 
-Flags: 0
+Flags: 1
 
 ### Burkina Faso
 
@@ -438,7 +438,7 @@ Flags: 29
 
 ### Israel
 
-Flags: 0
+Flags: 2
 
 ### Italy
 
@@ -490,7 +490,7 @@ Flags: 0
 
 ### Latvia
 
-Flags: 18
+Flags: 49
 
 ### Lebanon
 
@@ -734,7 +734,7 @@ Flags: 0
 
 ### Romania
 
-Flags: 0
+Flags: 1
 
 ### Russia
 
@@ -818,7 +818,7 @@ Flags: 8
 
 ### Slovenia
 
-Flags: 0
+Flags: 42
 
 ### Solomon Islands
 
