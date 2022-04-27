@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 1993
+FLAGS: 2000
 
 ### Afghanistan
 
@@ -462,7 +462,7 @@ Flags: 0
 
 ### Kazakhstan
 
-Flags: 0
+Flags: 7
 
 ### Kenya
 
