@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2000
+FLAGS: 2023
 
 ### Afghanistan
 
@@ -230,7 +230,7 @@ Flags: 18
 
 ### Cuba
 
-Flags: 0
+Flags: 3
 
 ### Curaçao
 
@@ -510,7 +510,7 @@ Flags: 0
 
 ### Liechtenstein
 
-Flags: 0
+Flags: 11
 
 ### Lithuania
 
@@ -778,7 +778,7 @@ Flags: 0
 
 ### San Marino
 
-Flags: 0
+Flags: 9
 
 ### Sao Tome and Principe
 
