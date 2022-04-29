@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2023
+FLAGS: 2075
 
 ### Afghanistan
 
@@ -58,7 +58,7 @@ Flags: 23
 
 ### Armenia
 
-Flags: 0
+Flags: 5
 
 ### Aruba
 
@@ -178,7 +178,7 @@ Flags: 0
 
 ### Central African Republic
 
-Flags: 0
+Flags: 1
 
 ### Chad
 
@@ -230,7 +230,7 @@ Flags: 18
 
 ### Cuba
 
-Flags: 3
+Flags: 6
 
 ### Curaçao
 
@@ -250,7 +250,7 @@ Flags: 0
 
 ### Denmark
 
-Flags: 2
+Flags: 4
 
 ### Djibouti
 
@@ -266,7 +266,7 @@ Flags: 4
 
 ### East Timor
 
-Flags: 0
+Flags: 12
 
 ### Ecuador
 
@@ -354,7 +354,7 @@ Flags: 0
 
 ### Greece
 
-Flags: 4
+Flags: 7
 
 ### Greenland
 
@@ -442,7 +442,7 @@ Flags: 2
 
 ### Italy
 
-Flags: 18
+Flags: 39
 
 ### Jamaica
 
@@ -610,7 +610,7 @@ Flags: 0
 
 ### Mozambique
 
-Flags: 0
+Flags: 1
 
 ### Myanmar
 
@@ -734,7 +734,7 @@ Flags: 0
 
 ### Romania
 
-Flags: 1
+Flags: 5
 
 ### Russia
 
