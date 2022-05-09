@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2076
+FLAGS: 2078
 
 ### Afghanistan
 
@@ -170,7 +170,7 @@ Flags: 13
 
 ### Cape Verde
 
-Flags: 0
+Flags: 1
 
 ### Cayman Islands
 
@@ -950,7 +950,7 @@ Flags: 7
 
 ### United Kingdom
 
-Flags: 70
+Flags: 71
 
 ### United States
 
