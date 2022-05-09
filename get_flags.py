@@ -1,3 +1,4 @@
+from time import sleep, time
 from bs4 import BeautifulSoup
 import json
 import re
@@ -243,5 +244,6 @@ for country in countries:
             nextElement = nextElement.findNext()
 
         print("Coverage: "+str(foundStates)+"/"+str(len(found["states"])))
+        sleep(30)
     else:
         print("Not found: "+countryname)
