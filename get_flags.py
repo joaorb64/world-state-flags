@@ -1,4 +1,3 @@
-from time import sleep, time
 from bs4 import BeautifulSoup
 import json
 import re
@@ -162,88 +161,90 @@ for country in countries:
                     links.add(link["href"].split("#")[0])
 
                 for link in links:
-                    print(link)
+                    try:
+                        print(link)
 
-                    url = f'https://en.wikipedia.org{link}'
-                    page = requests.get(url).text
-                    subSoup = BeautifulSoup(page, features="lxml")
+                        url = f'https://en.wikipedia.org{link}'
+                        page = requests.get(url).text
+                        subSoup = BeautifulSoup(page, features="lxml")
 
-                    linksInTables = subSoup.select("td > a")
+                        linksInTables = subSoup.select("td > a")
 
-                    dataState = None
+                        dataState = None
 
-                    for tableLink in linksInTables:
-                        stateName = tableLink.text
+                        for tableLink in linksInTables:
+                            stateName = tableLink.text
 
-                        stateNameTries = GenStateNameTries(stateName)
+                            stateNameTries = GenStateNameTries(stateName)
 
-                        for stateNameTry in stateNameTries:
-                            dataState = next((s for s in dataStates if remove_accents_lower(
-                                s["name"]) == remove_accents_lower(stateNameTry)), None)
+                            for stateNameTry in stateNameTries:
+                                dataState = next((s for s in dataStates if remove_accents_lower(
+                                    s["name"]) == remove_accents_lower(stateNameTry)), None)
 
-                            if dataState and dataState["state_code"] != None and (
-                                    (dataState["state_code"] not in foundStateCodes) or (
-                                        tableLink.text.strip().lower().startswith("flag of") and dataState["state_code"] not in foundStateCodesOverrided)):
-                                print("=> Found "+tableLink.text)
-                                try:
-                                    tryGet = get_flag_url_from_infobox(url)
+                                if dataState and dataState["state_code"] != None and (
+                                        (dataState["state_code"] not in foundStateCodes) or (
+                                            tableLink.text.strip().lower().startswith("flag of") and dataState["state_code"] not in foundStateCodesOverrided)):
+                                    print("=> Found "+tableLink.text)
+                                    try:
+                                        tryGet = get_flag_url_from_infobox(url)
 
-                                    if tryGet:
-                                        download_flag(flagElement["src"], found["iso2"], dataState["state_code"])
-                                        foundStateCodes.append(dataState["state_code"])
-                                        foundStateCodesOverrided.append(dataState["state_code"])
-                                        continue
-
-                                    tableRow = tableLink.find_parent("tr")
-
-                                    # Try to find table column with title "Flag"
-                                    tableCols = tableRow.parent.findChildren("th")
-                                    tableCol = None
-                                    for i, c in enumerate(tableCols):
-                                        if c.get_text().strip().lower() == "flag":
-                                            print("Found by table column:", c.get_text().strip().lower())
-                                            tableCol = i
-                                            tableRow = tableRow.findChildren("td")[i]
-                                            break
-
-                                    imagesInRow = tableRow.select("img")
-
-                                    if len(imagesInRow) > 0:
-                                        # If
-                                        # Has alt and "Flag" is not in it, probably not the flag or
-                                        # There's "flag" in the link itself
-                                        # Order image first
-                                        imagesInRow.sort(key=lambda x: -1 if (x["alt"] and "flag" in x["alt"].lower()) else 1)
-
-                                        for flagElement in imagesInRow:
-                                            if (flagElement["src"] and "no_flag" in flagElement["src"].lower()):
-                                                continue
-                                        
-                                            if dataState["state_code"] in foundStateCodes:
-                                                continue
-                                            
+                                        if tryGet:
                                             download_flag(flagElement["src"], found["iso2"], dataState["state_code"])
-
                                             foundStateCodes.append(dataState["state_code"])
+                                            foundStateCodesOverrided.append(dataState["state_code"])
+                                            continue
 
-                                            if tableLink.text.strip().lower().startswith("flag of"):
-                                                foundStateCodesOverrided.append(dataState["state_code"])
+                                        tableRow = tableLink.find_parent("tr")
 
-                                            break
-                                except Exception as e:
-                                    print(e)
+                                        # Try to find table column with title "Flag"
+                                        tableCols = tableRow.parent.findChildren("th")
+                                        tableCol = None
+                                        for i, c in enumerate(tableCols):
+                                            if c.get_text().strip().lower() == "flag":
+                                                print("Found by table column:", c.get_text().strip().lower())
+                                                tableCol = i
+                                                tableRow = tableRow.findChildren("td")[i]
+                                                break
 
-                                break
+                                        imagesInRow = tableRow.select("img")
 
-                        if not dataState:
-                            print("> Not found: " +
-                                  remove_accents_lower(stateName))
-                        else:
-                            foundStates += 1
+                                        if len(imagesInRow) > 0:
+                                            # If
+                                            # Has alt and "Flag" is not in it, probably not the flag or
+                                            # There's "flag" in the link itself
+                                            # Order image first
+                                            imagesInRow.sort(key=lambda x: -1 if (x["alt"] and "flag" in x["alt"].lower()) else 1)
+
+                                            for flagElement in imagesInRow:
+                                                if (flagElement["src"] and "no_flag" in flagElement["src"].lower()):
+                                                    continue
+                                            
+                                                if dataState["state_code"] in foundStateCodes:
+                                                    continue
+                                                
+                                                download_flag(flagElement["src"], found["iso2"], dataState["state_code"])
+
+                                                foundStateCodes.append(dataState["state_code"])
+
+                                                if tableLink.text.strip().lower().startswith("flag of"):
+                                                    foundStateCodesOverrided.append(dataState["state_code"])
+
+                                                break
+                                    except Exception as e:
+                                        print(e)
+
+                                    break
+
+                            if not dataState:
+                                print("> Not found: " +
+                                    remove_accents_lower(stateName))
+                            else:
+                                foundStates += 1
+                    except Exception as e:
+                        print("Error:", e)
 
             nextElement = nextElement.findNext()
 
         print("Coverage: "+str(foundStates)+"/"+str(len(found["states"])))
-        sleep(30)
     else:
         print("Not found: "+countryname)
