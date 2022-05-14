@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2078
+FLAGS: 2081
 
 ### Afghanistan
 
@@ -790,7 +790,7 @@ Flags: 0
 
 ### Senegal
 
-Flags: 0
+Flags: 3
 
 ### Serbia
 
