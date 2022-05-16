@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2088
+FLAGS: 2093
 
 ### Afghanistan
 
@@ -950,7 +950,7 @@ Flags: 7
 
 ### United Kingdom
 
-Flags: 78
+Flags: 83
 
 ### United States
 
