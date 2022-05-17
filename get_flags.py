@@ -168,7 +168,23 @@ for country in countries:
                         page = requests.get(url).text
                         subSoup = BeautifulSoup(page, features="lxml")
 
-                        linksInTables = subSoup.select("td > a")
+                        # See if it's the easy case
+                        allImages = subSoup.select("img")
+
+                        for image in allImages:
+                            if image["alt"] and image["alt"].strip().lower().startswith("flag of"):
+                                for state in dataStates:
+                                    tries = GenStateNameTries(state["name"])
+                                    for _try in tries:
+                                        if image["alt"].strip().lower() in [_try.lower()+".svg", _try.lower()+".png"]:
+                                            print("=> Found image: ", image["alt"])
+                                            download_flag(image["src"], found["iso2"], state["state_code"])
+                                            foundStateCodes.append(state["state_code"])
+                                            foundStateCodesOverrided.append(state["state_code"])
+                                            continue
+
+                        # Try tables instead
+                        linksInTables = subSoup.select("table a")
 
                         dataState = None
 
@@ -186,13 +202,13 @@ for country in countries:
                                             tableLink.text.strip().lower().startswith("flag of") and dataState["state_code"] not in foundStateCodesOverrided)):
                                     print("=> Found "+tableLink.text)
                                     try:
-                                        tryGet = get_flag_url_from_infobox(url)
+                                        # tryGet = get_flag_url_from_infobox(url)
 
-                                        if tryGet:
-                                            download_flag(flagElement["src"], found["iso2"], dataState["state_code"])
-                                            foundStateCodes.append(dataState["state_code"])
-                                            foundStateCodesOverrided.append(dataState["state_code"])
-                                            continue
+                                        # if tryGet:
+                                        #     download_flag(tryGet, found["iso2"], dataState["state_code"])
+                                        #     foundStateCodes.append(dataState["state_code"])
+                                        #     foundStateCodesOverrided.append(dataState["state_code"])
+                                        #     continue
 
                                         tableRow = tableLink.find_parent("tr")
 
