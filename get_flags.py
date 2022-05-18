@@ -67,6 +67,12 @@ url = 'https://en.wikipedia.org/wiki/Flags_of_country_subdivisions'
 page = requests.get(url).text
 soup = BeautifulSoup(page, features="lxml")
 
+additionalURLs = {
+    "PT": [
+        "https://en.wikipedia.org/wiki/List_of_Portuguese_municipal_flags"
+    ]
+}
+
 countries = soup.select('h2 > span.mw-headline, h3 > span.mw-headline')
 
 def get_flag_url_from_infobox(url):
@@ -132,155 +138,157 @@ for country in countries:
                 break
 
             # if it's a list of flags in the same page
-            if nextElement.name == "ul":
-                stateList = nextElement
+            stateList = nextElement
 
-                # See if it's the easy case
-                allImages = stateList.select("img")
+            # See if it's the easy case
+            allImages = stateList.select("img")
 
-                for image in allImages:
-                    if image["alt"]:
-                        for state in dataStates:
-                            if state["state_code"] in foundStateCodes:
-                                continue
-                            tries = GenStateNameTries(state["name"])
-                            for _try in tries:
-                                if image["alt"].strip().lower() == "flag of "+_try.lower():
-                                    print("=> Found image: ", image["alt"])
-                                    download_flag(image["src"], found["iso2"], state["state_code"])
-                                    foundStateCodes.append(state["state_code"])
-                                    foundStateCodesOverrided.append(state["state_code"])
-                                    break
+            for image in allImages:
+                if image["alt"]:
+                    for state in dataStates:
+                        if state["state_code"] in foundStateCodes:
+                            continue
+                        tries = GenStateNameTries(state["name"])
+                        for _try in tries:
+                            if image["alt"].strip().lower() == "flag of "+_try.lower():
+                                print("=> Found image: ", image["alt"])
+                                download_flag(image["src"], found["iso2"], state["state_code"])
+                                foundStateCodes.append(state["state_code"])
+                                foundStateCodesOverrided.append(state["state_code"])
+                                break
 
-                for state in stateList.select("li"):
-                    stateName = state.select("a")[-1].text
-                    stateNameTries = GenStateNameTries(stateName)
+            for state in stateList.select("li"):
+                stateName = state.select("a")[-1].text
+                stateNameTries = GenStateNameTries(stateName)
+
+                dataState = None
+
+                for stateNameTry in stateNameTries:
+                    dataState = next((s for s in dataStates if remove_accents_lower(
+                        s["name"]) == remove_accents_lower(stateNameTry)), None)
+                    if dataState and dataState["state_code"] != None:
+                        if dataState["state_code"] not in foundStateCodes:
+                            download_flag(state.find("img")["src"], found["iso2"], dataState["state_code"])
+                            foundStateCodes.append(dataState["state_code"])
+                        break
+
+                if not dataState:
+                    print("> Not found: "+remove_accents_lower(stateName))
+                else:
+                    foundStates += 1
+            
+            # If it's a redirect to a flags page
+            # Page with lots of flags?
+            linkElements = nextElement.select('a')
+            links = set()
+
+            for link in linkElements:
+                links.add(link["href"].split("#")[0])
+            
+            for link in additionalURLs.get(found["iso2"], []):
+                links.add(link)
+
+            for link in links:
+                try:
+                    url = link
+
+                    if not url.startswith("http"):
+                        url = f'https://en.wikipedia.org{link}'
+
+                    print(url)
+
+                    page = requests.get(url, verify=False, allow_redirects=True).text
+                    subSoup = BeautifulSoup(page, features="lxml")
+
+                    # See if it's the easy case
+                    allImages = subSoup.select("img")
+
+                    for image in allImages:
+                        if image["alt"]:
+                            for state in dataStates:
+                                if state["state_code"] in foundStateCodes:
+                                    continue
+                                tries = GenStateNameTries(state["name"])
+                                for _try in tries:
+                                    if image["alt"].strip().lower() in ["flag of "+_try.lower(), "flag of "+_try.lower()+".svg", "flag of "+_try.lower()+".png"]:
+                                        print("=> Found image: ", image["alt"])
+                                        download_flag(image["src"], found["iso2"], state["state_code"])
+                                        foundStateCodes.append(state["state_code"])
+                                        foundStateCodesOverrided.append(state["state_code"])
+                                        break
+
+                    # Try tables instead
+                    linksInTables = subSoup.select("table a")
 
                     dataState = None
 
-                    for stateNameTry in stateNameTries:
-                        dataState = next((s for s in dataStates if remove_accents_lower(
-                            s["name"]) == remove_accents_lower(stateNameTry)), None)
-                        if dataState and dataState["state_code"] != None:
-                            if dataState["state_code"] not in foundStateCodes:
-                                download_flag(state.find("img")["src"], found["iso2"], dataState["state_code"])
-                                foundStateCodes.append(dataState["state_code"])
-                            break
+                    for tableLink in linksInTables:
+                        stateName = tableLink.text
 
-                    if not dataState:
-                        print("> Not found: "+remove_accents_lower(stateName))
-                    else:
-                        foundStates += 1
-            # If it's a redirect to a flags page
-            if nextElement.name == "div":
-                # Page with lots of flags?
-                linkElements = nextElement.select('a')
-                links = set()
+                        stateNameTries = GenStateNameTries(stateName)
 
-                for link in linkElements:
-                    links.add(link["href"].split("#")[0])
+                        for stateNameTry in stateNameTries:
+                            dataState = next((s for s in dataStates if remove_accents_lower(
+                                s["name"]) == remove_accents_lower(stateNameTry)), None)
 
-                for link in links:
-                    try:
-                        url = link
+                            if dataState and dataState["state_code"] != None and (
+                                    (dataState["state_code"] not in foundStateCodes) or (
+                                        tableLink.text.strip().lower().startswith("flag of") and dataState["state_code"] not in foundStateCodesOverrided)):
+                                print("=> Found "+tableLink.text)
+                                try:
+                                    # tryGet = get_flag_url_from_infobox(url)
 
-                        if not url.startswith("http"):
-                            url = f'https://en.wikipedia.org{link}'
+                                    # if tryGet:
+                                    #     download_flag(tryGet, found["iso2"], dataState["state_code"])
+                                    #     foundStateCodes.append(dataState["state_code"])
+                                    #     foundStateCodesOverrided.append(dataState["state_code"])
+                                    #     continue
 
-                        print(url)
+                                    tableRow = tableLink.find_parent("tr")
 
-                        page = requests.get(url, verify=False, allow_redirects=True).text
-                        subSoup = BeautifulSoup(page, features="lxml")
-
-                        # See if it's the easy case
-                        allImages = subSoup.select("img")
-
-                        for image in allImages:
-                            if image["alt"]:
-                                for state in dataStates:
-                                    if state["state_code"] in foundStateCodes:
-                                        continue
-                                    tries = GenStateNameTries(state["name"])
-                                    for _try in tries:
-                                        if image["alt"].strip().lower() in ["flag of "+_try.lower(), "flag of "+_try.lower()+".svg", "flag of "+_try.lower()+".png"]:
-                                            print("=> Found image: ", image["alt"])
-                                            download_flag(image["src"], found["iso2"], state["state_code"])
-                                            foundStateCodes.append(state["state_code"])
-                                            foundStateCodesOverrided.append(state["state_code"])
+                                    # Try to find table column with title "Flag"
+                                    tableCols = tableRow.parent.findChildren("th")
+                                    tableCol = None
+                                    for i, c in enumerate(tableCols):
+                                        if c.get_text().strip().lower() == "flag":
+                                            print("Found by table column:", c.get_text().strip().lower())
+                                            tableCol = i
+                                            tableRow = tableRow.findChildren("td")[i]
                                             break
 
-                        # Try tables instead
-                        linksInTables = subSoup.select("table a")
+                                    imagesInRow = tableRow.select("img")
 
-                        dataState = None
+                                    if len(imagesInRow) > 0:
+                                        # If
+                                        # Has alt and "Flag" is not in it, probably not the flag or
+                                        # There's "flag" in the link itself
+                                        # Order image first
+                                        imagesInRow.sort(key=lambda x: -1 if (x["alt"] and "flag" in x["alt"].lower()) else 1)
 
-                        for tableLink in linksInTables:
-                            stateName = tableLink.text
-
-                            stateNameTries = GenStateNameTries(stateName)
-
-                            for stateNameTry in stateNameTries:
-                                dataState = next((s for s in dataStates if remove_accents_lower(
-                                    s["name"]) == remove_accents_lower(stateNameTry)), None)
-
-                                if dataState and dataState["state_code"] != None and (
-                                        (dataState["state_code"] not in foundStateCodes) or (
-                                            tableLink.text.strip().lower().startswith("flag of") and dataState["state_code"] not in foundStateCodesOverrided)):
-                                    print("=> Found "+tableLink.text)
-                                    try:
-                                        # tryGet = get_flag_url_from_infobox(url)
-
-                                        # if tryGet:
-                                        #     download_flag(tryGet, found["iso2"], dataState["state_code"])
-                                        #     foundStateCodes.append(dataState["state_code"])
-                                        #     foundStateCodesOverrided.append(dataState["state_code"])
-                                        #     continue
-
-                                        tableRow = tableLink.find_parent("tr")
-
-                                        # Try to find table column with title "Flag"
-                                        tableCols = tableRow.parent.findChildren("th")
-                                        tableCol = None
-                                        for i, c in enumerate(tableCols):
-                                            if c.get_text().strip().lower() == "flag":
-                                                print("Found by table column:", c.get_text().strip().lower())
-                                                tableCol = i
-                                                tableRow = tableRow.findChildren("td")[i]
-                                                break
-
-                                        imagesInRow = tableRow.select("img")
-
-                                        if len(imagesInRow) > 0:
-                                            # If
-                                            # Has alt and "Flag" is not in it, probably not the flag or
-                                            # There's "flag" in the link itself
-                                            # Order image first
-                                            imagesInRow.sort(key=lambda x: -1 if (x["alt"] and "flag" in x["alt"].lower()) else 1)
-
-                                            for flagElement in imagesInRow:
-                                                if (flagElement["src"] and "no_flag" in flagElement["src"].lower()):
-                                                    continue
+                                        for flagElement in imagesInRow:
+                                            if (flagElement["src"] and "no_flag" in flagElement["src"].lower()):
+                                                continue
+                                        
+                                            if dataState["state_code"] in foundStateCodes:
+                                                continue
                                             
-                                                if dataState["state_code"] in foundStateCodes:
-                                                    continue
-                                                
-                                                download_flag(flagElement["src"], found["iso2"], dataState["state_code"])
+                                            download_flag(flagElement["src"], found["iso2"], dataState["state_code"])
 
-                                                foundStateCodes.append(dataState["state_code"])
+                                            foundStateCodes.append(dataState["state_code"])
 
-                                                if tableLink.text.strip().lower().startswith("flag of"):
-                                                    foundStateCodesOverrided.append(dataState["state_code"])
+                                            if tableLink.text.strip().lower().startswith("flag of"):
+                                                foundStateCodesOverrided.append(dataState["state_code"])
 
-                                                break
-                                    except Exception as e:
-                                        print(e)
+                                            break
+                                except Exception as e:
+                                    print(e)
 
-                                    break
+                                break
 
-                            if dataState:
-                                foundStates += 1
-                    except Exception as e:
-                        print("Error:", e)
+                        if dataState:
+                            foundStates += 1
+                except Exception as e:
+                    print("Error:", e)
 
             nextElement = nextElement.findNext()
 
