@@ -95,6 +95,9 @@ def download_flag(url, country_code, state_code):
     if not url.startswith("http"):
         url = "http:"+url
     
+    if state_code == "CON":
+        state_code = "_CON"
+    
     response = requests.get(re.sub(r'\d*px', "64px", url),
                             headers={'User-Agent': "Magic Browser"})
     if response.status_code == 200:
