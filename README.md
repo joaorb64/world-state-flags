@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2512
+FLAGS: 2531
 
 ### Afghanistan
 
@@ -718,7 +718,7 @@ Flags: 15
 
 ### Portugal
 
-Flags: 2
+Flags: 19
 
 ### Puerto Rico
 
@@ -950,7 +950,7 @@ Flags: 7
 
 ### United Kingdom
 
-Flags: 89
+Flags: 91
 
 ### United States
 
