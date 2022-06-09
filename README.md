@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2537
+FLAGS: 2539
 
 ### Afghanistan
 
@@ -22,7 +22,7 @@ Flags: 0
 
 ### Albania
 
-Flags: 7
+Flags: 8
 
 ### Algeria
 
@@ -938,7 +938,7 @@ Flags: 0
 
 ### Uganda
 
-Flags: 0
+Flags: 1
 
 ### Ukraine
 
