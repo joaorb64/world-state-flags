@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2539
+FLAGS: 2548
 
 ### Afghanistan
 
@@ -330,7 +330,7 @@ Flags: 0
 
 ### Gabon
 
-Flags: 0
+Flags: 9
 
 ### Gambia The
 
