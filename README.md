@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2548
+FLAGS: 2551
 
 ### Afghanistan
 
@@ -22,7 +22,7 @@ Flags: 0
 
 ### Albania
 
-Flags: 8
+Flags: 9
 
 ### Algeria
 
@@ -518,7 +518,7 @@ Flags: 10
 
 ### Luxembourg
 
-Flags: 1
+Flags: 2
 
 ### Macau S.A.R.
 
@@ -706,7 +706,7 @@ Flags: 25
 
 ### Philippines
 
-Flags: 92
+Flags: 93
 
 ### Pitcairn Island
 
