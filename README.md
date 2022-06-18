@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2552
+FLAGS: 2564
 
 ### Afghanistan
 
@@ -670,7 +670,7 @@ Flags: 0
 
 ### Norway
 
-Flags: 17
+Flags: 19
 
 ### Oman
 
@@ -714,7 +714,7 @@ Flags: 0
 
 ### Poland
 
-Flags: 15
+Flags: 16
 
 ### Portugal
 
@@ -826,11 +826,11 @@ Flags: 10
 
 ### Somalia
 
-Flags: 0
+Flags: 1
 
 ### South Africa
 
-Flags: 0
+Flags: 1
 
 ### South Georgia
 
@@ -846,7 +846,7 @@ Flags: 9
 
 ### Spain
 
-Flags: 24
+Flags: 31
 
 ### Sri Lanka
 
