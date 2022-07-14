@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2578
+FLAGS: 2579
 
 ### Afghanistan
 
@@ -466,7 +466,7 @@ Flags: 8
 
 ### Kenya
 
-Flags: 17
+Flags: 18
 
 ### Kiribati
 
