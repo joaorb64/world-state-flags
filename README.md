@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2580
+FLAGS: 2582
 
 ### Afghanistan
 
@@ -854,7 +854,7 @@ Flags: 9
 
 ### Sudan
 
-Flags: 3
+Flags: 5
 
 ### Suriname
 
