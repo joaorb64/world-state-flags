@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2590
+FLAGS: 2591
 
 ### Afghanistan
 
@@ -430,7 +430,7 @@ Flags: 0
 
 ### Iraq
 
-Flags: 8
+Flags: 9
 
 ### Ireland
 
