@@ -34,10 +34,11 @@ jobs:
           
       - name: commit files
         run: |
+          git config core.filemode false
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "update data" -a
+          git add .
+          git commit -m "Daily update"
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
