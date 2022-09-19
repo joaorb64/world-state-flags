@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2614
+FLAGS: 2626
 
 ### Afghanistan
 
@@ -846,7 +846,7 @@ Flags: 9
 
 ### Spain
 
-Flags: 54
+Flags: 66
 
 ### Sri Lanka
 
