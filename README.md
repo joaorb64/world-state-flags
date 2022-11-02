@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2656
+FLAGS: 2686
 
 ### Afghanistan
 
@@ -650,7 +650,7 @@ Flags: 0
 
 ### Nigeria
 
-Flags: 7
+Flags: 37
 
 ### Niue
 
