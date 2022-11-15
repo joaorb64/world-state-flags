@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2687
+FLAGS: 2689
 
 ### Afghanistan
 
@@ -570,7 +570,7 @@ Flags: 0
 
 ### Mauritius
 
-Flags: 3
+Flags: 4
 
 ### Mayotte
 
@@ -670,7 +670,7 @@ Flags: 0
 
 ### Norway
 
-Flags: 19
+Flags: 20
 
 ### Oman
 
