@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2982
+FLAGS: 2987
 
 ### Afghanistan
 
@@ -270,7 +270,7 @@ Flags: 12
 
 ### Ecuador
 
-Flags: 23
+Flags: 24
 
 ### Egypt
 
@@ -894,7 +894,7 @@ Flags: 0
 
 ### Thailand
 
-Flags: 76
+Flags: 77
 
 ### The Bahamas
 
@@ -922,7 +922,7 @@ Flags: 2
 
 ### Turkey
 
-Flags: 78
+Flags: 79
 
 ### Turkmenistan
 
@@ -982,7 +982,7 @@ Flags: 25
 
 ### Vietnam
 
-Flags: 61
+Flags: 63
 
 ### Virgin Islands (British)
 
