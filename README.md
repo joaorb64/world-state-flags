@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2988
+FLAGS: 2989
 
 ### Afghanistan
 
@@ -858,7 +858,7 @@ Flags: 8
 
 ### Suriname
 
-Flags: 3
+Flags: 4
 
 ### Svalbard And Jan Mayen Islands
 
