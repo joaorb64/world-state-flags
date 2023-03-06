@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2989
+FLAGS: 2990
 
 ### Afghanistan
 
@@ -524,10 +524,6 @@ Flags: 2
 
 Flags: 0
 
-### Macedonia
-
-Flags: 73
-
 ### Madagascar
 
 Flags: 0
@@ -663,6 +659,10 @@ Flags: 0
 ### North Korea
 
 Flags: 11
+
+### North Macedonia
+
+Flags: 73
 
 ### Northern Mariana Islands
 
@@ -870,7 +870,7 @@ Flags: 0
 
 ### Sweden
 
-Flags: 20
+Flags: 21
 
 ### Switzerland
 
