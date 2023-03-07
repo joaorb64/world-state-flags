@@ -28,7 +28,6 @@ jobs:
 
       - name: Join files
         run: |
-          python get_flags_wikipedia.py
           rm -rf out/*
           cp -r out_wikipedia/* out/
           cp -r out_flagsnet/* out/

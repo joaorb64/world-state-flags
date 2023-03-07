@@ -33,8 +33,6 @@ numCountries = len(data)
 i = 1
 
 for country in data:
-    if country.get("iso2") != "BR":
-        continue
     print(f'{country.get("name")} - {i}/{numCountries}')
     countryPath = f"./out_flagsnet/{country.get('iso2')}"
     os.makedirs(countryPath, exist_ok=True)
