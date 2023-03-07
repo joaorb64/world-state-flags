@@ -33,6 +33,8 @@ numCountries = len(data)
 i = 1
 
 for country in data:
+    if country.get("iso2") != "BR":
+        continue
     print(f'{country.get("name")} - {i}/{numCountries}')
     countryPath = f"./out_flagsnet/{country.get('iso2')}"
     os.makedirs(countryPath, exist_ok=True)
@@ -67,7 +69,7 @@ for country in data:
                     found = True
                     break
             except Exception as e:
-                print(e.with_traceback())
+                print(e)
         if not found:
             try:
                 regionName = remove_accents_lower(region.get("name"))
@@ -82,7 +84,7 @@ for country in data:
                 subpage = None
 
                 for link in links:
-                    if remove_accents_lower(link.text) == f"{regionName} ({regionCountry})":
+                    if remove_accents_lower(link.text) == f"{regionName} ({regionCountry})" and "href" in link:
                         subpage = "https://www.fotw.info/flags/" + link["href"]
                         break
             
@@ -103,5 +105,5 @@ for country in data:
                             f'{countryPath}/{region.get("state_code").upper()}.png'
                         )
             except Exception as e:
-                print(e.with_traceback())
+                print(e)
     i+=1
