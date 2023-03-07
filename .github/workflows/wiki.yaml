@@ -6,7 +6,7 @@ on:
     - cron: "0 12 * * *" # runs at 12:00 UTC everyday
 
 jobs:
-  clone:
+  wiki:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
@@ -22,18 +22,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-  wiki:
-    needs: clone
-    runs-on: ubuntu-latest
-    steps:
       - name: Get Wiki
         run: |
           python get_flags_wikipedia.py
 
-  join:
-    needs: wiki
-    runs-on: ubuntu-latest
-    steps:
       - name: Join files
         run: |
           python get_flags_wikipedia.py

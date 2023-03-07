@@ -6,7 +6,7 @@ on:
     - cron: "0 0 * * *" # runs at 00:00 UTC everyday
 
 jobs:
-  clone:
+  flagsnet:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
@@ -22,18 +22,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-  flagsnet:
-    needs: clone
-    runs-on: ubuntu-latest
-    steps:
       - name: Get Flagsnet
         run: |
           python get_flags_flagsnet.py
 
-  join:
-    needs: flagsnet
-    runs-on: ubuntu-latest
-    steps:
       - name: Join files
         run: |
           python get_flags_wikipedia.py
