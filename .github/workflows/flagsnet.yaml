@@ -23,6 +23,7 @@ jobs:
           pip install -r requirements.txt
 
   flagsnet:
+    needs: clone
     runs-on: ubuntu-latest
     steps:
       - name: Get Flagsnet
@@ -30,6 +31,7 @@ jobs:
           python get_flags_flagsnet.py
 
   join:
+    needs: flagsnet
     runs-on: ubuntu-latest
     steps:
       - name: Join files

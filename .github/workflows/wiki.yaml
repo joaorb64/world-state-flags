@@ -23,6 +23,7 @@ jobs:
           pip install -r requirements.txt
 
   wiki:
+    needs: clone
     runs-on: ubuntu-latest
     steps:
       - name: Get Wiki
@@ -30,6 +31,7 @@ jobs:
           python get_flags_wikipedia.py
 
   join:
+    needs: wiki
     runs-on: ubuntu-latest
     steps:
       - name: Join files
