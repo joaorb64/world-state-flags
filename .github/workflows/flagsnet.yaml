@@ -1,0 +1,59 @@
+name: dailyflow
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # runs at 00:00 UTC everyday
+
+jobs:
+  clone:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v4.5.0
+        with:
+          python-version: "3.9" # install the python version needed
+
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+  flagsnet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Flagsnet
+        run: |
+          python get_flags_flagsnet.py
+
+  join:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Join files
+        run: |
+          python get_flags_wikipedia.py
+          rm -rf out/*
+          cp -r out_wikipedia/* out/
+          cp -r out_flagsnet/* out/
+          python generate_readme.py
+
+      - name: commit files
+        env:
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
+        run: |
+          git config core.filemode false
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Daily update"
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
