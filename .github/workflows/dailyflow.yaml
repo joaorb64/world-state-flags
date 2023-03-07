@@ -22,6 +22,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
   wiki:
+    runs-on: ubuntu-latest
     steps:
       - name: Get Wiki
         run: |
@@ -32,12 +33,14 @@ jobs:
           python generate_readme.py
 
   flagsnet:
+    runs-on: ubuntu-latest
     steps:
       - name: Get Flagsnet
         run: |
         python get_flags_flagsnet.py
 
   join:
+    runs-on: ubuntu-latest
     steps:
       - name: Join files
         run: |
