@@ -30,6 +30,9 @@ jobs:
         run: |
           python get_flags_wikipedia.py
           python get_flags_flagsnet.py
+          rm -rf out/*
+          cp -r out_wikipedia/* out/
+          cp -r out_flagsnet/* out/
           python generate_readme.py
 
       - name: commit files

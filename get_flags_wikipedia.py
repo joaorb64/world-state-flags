@@ -101,14 +101,14 @@ def download_flag(url, country_code, state_code):
     response = requests.get(re.sub(r'\d*px', "64px", url),
                             headers={'User-Agent': "Magic Browser"})
     if response.status_code == 200:
-        with open("./out/"+country_code+"/"+state_code+".png", 'wb') as f:
+        with open("./out_wikipedia/"+country_code+"/"+state_code+".png", 'wb') as f:
             f.write(response.content)
     else:
         print(response.status_code)
         
         response = requests.get(url, headers={'User-Agent': "Magic Browser"})
         if response.status_code == 200:
-            with open("./out/"+country_code+"/"+state_code+".png", 'wb') as f:
+            with open("./out_wikipedia/"+country_code+"/"+state_code+".png", 'wb') as f:
                 f.write(response.content)
         else:
             print(response.status_code)
@@ -124,8 +124,8 @@ for country in countries:
     if found:
         print(countryname)
 
-        if not os.path.isdir("./out/"+found["iso2"]):
-            os.mkdir("./out/"+found["iso2"])
+        if not os.path.isdir("./out_wikipedia/"+found["iso2"]):
+            os.mkdir("./out_wikipedia/"+found["iso2"])
 
         nextElement = country.findNext()
 
