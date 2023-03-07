@@ -27,17 +27,13 @@ jobs:
       - name: Get Wiki
         run: |
           python get_flags_wikipedia.py
-          rm -rf out/*
-          cp -r out_wikipedia/* out/
-          cp -r out_flagsnet/* out/
-          python generate_readme.py
 
   flagsnet:
     runs-on: ubuntu-latest
     steps:
       - name: Get Flagsnet
         run: |
-        python get_flags_flagsnet.py
+          python get_flags_flagsnet.py
 
   join:
     runs-on: ubuntu-latest
@@ -49,7 +45,7 @@ jobs:
           cp -r out_wikipedia/* out/
           cp -r out_flagsnet/* out/
           python generate_readme.py
-      
+
       - name: commit files
         env:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
