@@ -1,4 +1,4 @@
-name: dailyflow
+name: wiki
 
 on:
   workflow_dispatch:
