@@ -124,8 +124,7 @@ for country in countries:
     if found:
         print(countryname)
 
-        if not os.path.isdir("./out_wikipedia/"+found["iso2"]):
-            os.mkdir("./out_wikipedia/"+found["iso2"])
+        os.makedirs("./out_wikipedia/"+found["iso2"], exist_ok=True)
 
         nextElement = country.findNext()
 
