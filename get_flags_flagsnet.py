@@ -40,6 +40,9 @@ for country in data:
     filePath = f'./images/{country.get("iso2").lower()[0]}/'
 
     for region in country.get("states"):
+        if region.get("state_code") == "CON":
+            region["state_code"] = "_CON"
+
         found = False
         tries = [region.get("state_code"), remove_accents_lower(region.get("name"))]
 
