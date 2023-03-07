@@ -6,7 +6,7 @@ on:
     - cron: "0 12 * * *" # runs at 12:00 UTC everyday
 
 jobs:
-  build:
+  clone:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
@@ -21,21 +21,37 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
-      - name: execute py script # get the latest data
-        env:
-          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
-          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-          EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
+  wiki:
+    steps:
+      - name: Get Wiki
         run: |
           python get_flags_wikipedia.py
-          python get_flags_flagsnet.py
           rm -rf out/*
           cp -r out_wikipedia/* out/
           cp -r out_flagsnet/* out/
           python generate_readme.py
 
+  flagsnet:
+    steps:
+      - name: Get Flagsnet
+        run: |
+        python get_flags_flagsnet.py
+
+  join:
+    steps:
+      - name: Join files
+        run: |
+          python get_flags_wikipedia.py
+          rm -rf out/*
+          cp -r out_wikipedia/* out/
+          cp -r out_flagsnet/* out/
+          python generate_readme.py
+      
       - name: commit files
+        env:
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
         run: |
           git config core.filemode false
           git config --local user.email "action@github.com"
