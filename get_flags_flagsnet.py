@@ -32,6 +32,16 @@ data = json.load(f)
 numCountries = len(data)
 i = 1
 
+keywordSoups = {}
+
+print("Fetching search...")
+for letter in [chr(i) for i in range(ord('a'),ord('z')+1)]:
+    url = f'https://www.fotw.info/flags/keyword{letter}.html'
+    page = requests.get(url).text
+    soup = BeautifulSoup(page, features="lxml")
+    keywordSoups[letter] = soup
+
+
 for country in data:
     print(f'{country.get("name")} - {i}/{numCountries}')
     countryPath = f"./out_flagsnet/{country.get('iso2')}"
@@ -73,9 +83,7 @@ for country in data:
                 regionName = remove_accents_lower(region.get("name"))
                 regionCountry = remove_accents_lower(country.get("name"))
 
-                url = f'https://www.fotw.info/flags/keyword{regionName[0]}.html'
-                page = requests.get(url).text
-                soup = BeautifulSoup(page, features="lxml")
+                soup = keywordSoups[regionName[0]]
 
                 links = soup.select("a")
 
