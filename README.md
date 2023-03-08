@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2022
+FLAGS: 2164
 
 ### Afghanistan
 
@@ -190,7 +190,7 @@ Flags: 11
 
 ### China
 
-Flags: 0
+Flags: 1
 
 ### Christmas Island
 
@@ -206,7 +206,7 @@ Flags: 33
 
 ### Comoros
 
-Flags: 0
+Flags: 2
 
 ### Congo
 
@@ -262,7 +262,7 @@ Flags: 0
 
 ### Dominican Republic
 
-Flags: 12
+Flags: 15
 
 ### East Timor
 
@@ -310,7 +310,7 @@ Flags: 0
 
 ### Finland
 
-Flags: 10
+Flags: 13
 
 ### France
 
@@ -410,7 +410,7 @@ Flags: 0
 
 ### Hungary
 
-Flags: 21
+Flags: 42
 
 ### Iceland
 
@@ -418,19 +418,19 @@ Flags: 0
 
 ### India
 
-Flags: 14
+Flags: 21
 
 ### Indonesia
 
-Flags: 23
+Flags: 31
 
 ### Iran
 
-Flags: 1
+Flags: 11
 
 ### Iraq
 
-Flags: 0
+Flags: 1
 
 ### Ireland
 
@@ -490,7 +490,7 @@ Flags: 0
 
 ### Latvia
 
-Flags: 0
+Flags: 32
 
 ### Lebanon
 
@@ -534,7 +534,7 @@ Flags: 0
 
 ### Malaysia
 
-Flags: 4
+Flags: 15
 
 ### Maldives
 
@@ -574,7 +574,7 @@ Flags: 0
 
 ### Mexico
 
-Flags: 22
+Flags: 29
 
 ### Micronesia
 
@@ -602,7 +602,7 @@ Flags: 0
 
 ### Morocco
 
-Flags: 35
+Flags: 36
 
 ### Mozambique
 
@@ -634,7 +634,7 @@ Flags: 0
 
 ### New Zealand
 
-Flags: 2
+Flags: 12
 
 ### Nicaragua
 
@@ -694,7 +694,7 @@ Flags: 11
 
 ### Papua new Guinea
 
-Flags: 20
+Flags: 21
 
 ### Paraguay
 
@@ -722,7 +722,7 @@ Flags: 18
 
 ### Puerto Rico
 
-Flags: 7
+Flags: 10
 
 ### Qatar
 
@@ -786,7 +786,7 @@ Flags: 0
 
 ### Saudi Arabia
 
-Flags: 0
+Flags: 2
 
 ### Senegal
 
@@ -870,7 +870,7 @@ Flags: 0
 
 ### Sweden
 
-Flags: 20
+Flags: 21
 
 ### Switzerland
 
@@ -890,11 +890,11 @@ Flags: 0
 
 ### Tanzania
 
-Flags: 0
+Flags: 3
 
 ### Thailand
 
-Flags: 51
+Flags: 53
 
 ### The Bahamas
 
@@ -914,7 +914,7 @@ Flags: 0
 
 ### Trinidad And Tobago
 
-Flags: 0
+Flags: 5
 
 ### Tunisia
 
@@ -922,7 +922,7 @@ Flags: 2
 
 ### Turkey
 
-Flags: 67
+Flags: 68
 
 ### Turkmenistan
 
@@ -946,11 +946,11 @@ Flags: 0
 
 ### United Arab Emirates
 
-Flags: 0
+Flags: 2
 
 ### United Kingdom
 
-Flags: 60
+Flags: 62
 
 ### United States
 
@@ -982,7 +982,7 @@ Flags: 24
 
 ### Vietnam
 
-Flags: 52
+Flags: 55
 
 ### Virgin Islands (British)
 
