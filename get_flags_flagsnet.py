@@ -10,7 +10,7 @@ import itertools
 
 def remove_accents_lower(input_str):
     nfkd_form = unicodedata.normalize('NFKD', input_str)
-    return u"".join([c for c in nfkd_form if not unicodedata.combining(c)]).lower()
+    return u"".join([c for c in nfkd_form if not unicodedata.combining(c)]).lower().strip()
 
 def download_flag(url, outfile):
     response = requests.get(url)
@@ -35,7 +35,7 @@ i = 1
 keywordSoups = {}
 
 print("Fetching search...")
-for letter in [chr(i) for i in range(ord('a'),ord('z')+1)]:
+for letter in [str(chr(i)) for i in range(ord('a'),ord('z')+1)]:
     url = f'https://www.fotw.info/flags/keyword{letter}.html'
     page = requests.get(url).text
     soup = BeautifulSoup(page, features="lxml")
@@ -78,6 +78,7 @@ for country in data:
                     break
             except Exception as e:
                 print(e)
+        
         if not found:
             try:
                 regionName = remove_accents_lower(region.get("name"))
@@ -90,7 +91,7 @@ for country in data:
                 subpage = None
 
                 for link in links:
-                    if remove_accents_lower(link.text) == f"{regionName} ({regionCountry})" and "href" in link:
+                    if remove_accents_lower(link.text) == f"{regionName} ({regionCountry})" and link.get("href"):
                         subpage = "https://www.fotw.info/flags/" + link["href"]
                         break
             
