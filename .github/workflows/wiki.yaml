@@ -42,7 +42,7 @@ jobs:
           git config core.filemode false
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull origin master
+          git pull origin main
           git add .
           git commit -m "Daily update"
 
