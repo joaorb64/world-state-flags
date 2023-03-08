@@ -10,11 +10,11 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 2990
+FLAGS: 1146
 
 ### Afghanistan
 
-Flags: 3
+Flags: 5
 
 ### Aland Islands
 
@@ -22,7 +22,7 @@ Flags: 0
 
 ### Albania
 
-Flags: 23
+Flags: 22
 
 ### Algeria
 
@@ -38,7 +38,7 @@ Flags: 7
 
 ### Angola
 
-Flags: 17
+Flags: 3
 
 ### Anguilla
 
@@ -50,15 +50,15 @@ Flags: 0
 
 ### Antigua And Barbuda
 
-Flags: 0
+Flags: 2
 
 ### Argentina
 
-Flags: 24
+Flags: 23
 
 ### Armenia
 
-Flags: 11
+Flags: 1
 
 ### Aruba
 
@@ -90,11 +90,11 @@ Flags: 0
 
 ### Belarus
 
-Flags: 7
+Flags: 3
 
 ### Belgium
 
-Flags: 13
+Flags: 0
 
 ### Belize
 
@@ -122,7 +122,7 @@ Flags: 0
 
 ### Bosnia and Herzegovina
 
-Flags: 12
+Flags: 0
 
 ### Botswana
 
@@ -146,7 +146,7 @@ Flags: 0
 
 ### Bulgaria
 
-Flags: 28
+Flags: 1
 
 ### Burkina Faso
 
@@ -166,11 +166,11 @@ Flags: 0
 
 ### Canada
 
-Flags: 13
+Flags: 0
 
 ### Cape Verde
 
-Flags: 4
+Flags: 2
 
 ### Cayman Islands
 
@@ -178,7 +178,7 @@ Flags: 0
 
 ### Central African Republic
 
-Flags: 1
+Flags: 0
 
 ### Chad
 
@@ -186,11 +186,11 @@ Flags: 0
 
 ### Chile
 
-Flags: 16
+Flags: 11
 
 ### China
 
-Flags: 31
+Flags: 0
 
 ### Christmas Island
 
@@ -202,15 +202,15 @@ Flags: 0
 
 ### Colombia
 
-Flags: 33
+Flags: 31
 
 ### Comoros
 
-Flags: 3
+Flags: 0
 
 ### Congo
 
-Flags: 1
+Flags: 0
 
 ### Cook Islands
 
@@ -218,7 +218,7 @@ Flags: 0
 
 ### Costa Rica
 
-Flags: 7
+Flags: 6
 
 ### Cote D'Ivoire (Ivory Coast)
 
@@ -226,11 +226,11 @@ Flags: 0
 
 ### Croatia
 
-Flags: 19
+Flags: 2
 
 ### Cuba
 
-Flags: 16
+Flags: 3
 
 ### Curaçao
 
@@ -238,11 +238,11 @@ Flags: 0
 
 ### Cyprus
 
-Flags: 1
+Flags: 0
 
 ### Czech Republic
 
-Flags: 87
+Flags: 23
 
 ### Democratic Republic of the Congo
 
@@ -262,7 +262,7 @@ Flags: 0
 
 ### Dominican Republic
 
-Flags: 31
+Flags: 3
 
 ### East Timor
 
@@ -270,7 +270,7 @@ Flags: 12
 
 ### Ecuador
 
-Flags: 24
+Flags: 0
 
 ### Egypt
 
@@ -282,7 +282,7 @@ Flags: 14
 
 ### Equatorial Guinea
 
-Flags: 9
+Flags: 0
 
 ### Eritrea
 
@@ -290,11 +290,11 @@ Flags: 0
 
 ### Estonia
 
-Flags: 15
+Flags: 0
 
 ### Ethiopia
 
-Flags: 11
+Flags: 2
 
 ### Falkland Islands
 
@@ -310,11 +310,11 @@ Flags: 0
 
 ### Finland
 
-Flags: 11
+Flags: 10
 
 ### France
 
-Flags: 133
+Flags: 114
 
 ### French Guiana
 
@@ -338,15 +338,15 @@ Flags: 0
 
 ### Georgia
 
-Flags: 4
+Flags: 0
 
 ### Germany
 
-Flags: 16
+Flags: 0
 
 ### Ghana
 
-Flags: 15
+Flags: 0
 
 ### Gibraltar
 
@@ -354,7 +354,7 @@ Flags: 0
 
 ### Greece
 
-Flags: 9
+Flags: 4
 
 ### Greenland
 
@@ -386,7 +386,7 @@ Flags: 0
 
 ### Guinea-Bissau
 
-Flags: 8
+Flags: 0
 
 ### Guyana
 
@@ -410,7 +410,7 @@ Flags: 0
 
 ### Hungary
 
-Flags: 23
+Flags: 15
 
 ### Iceland
 
@@ -418,23 +418,23 @@ Flags: 0
 
 ### India
 
-Flags: 36
+Flags: 4
 
 ### Indonesia
 
-Flags: 34
+Flags: 0
 
 ### Iran
 
-Flags: 2
+Flags: 0
 
 ### Iraq
 
-Flags: 9
+Flags: 0
 
 ### Ireland
 
-Flags: 29
+Flags: 0
 
 ### Israel
 
@@ -442,7 +442,7 @@ Flags: 3
 
 ### Italy
 
-Flags: 120
+Flags: 19
 
 ### Jamaica
 
@@ -450,7 +450,7 @@ Flags: 0
 
 ### Japan
 
-Flags: 47
+Flags: 0
 
 ### Jersey
 
@@ -458,15 +458,15 @@ Flags: 0
 
 ### Jordan
 
-Flags: 2
+Flags: 0
 
 ### Kazakhstan
 
-Flags: 9
+Flags: 8
 
 ### Kenya
 
-Flags: 45
+Flags: 43
 
 ### Kiribati
 
@@ -474,7 +474,7 @@ Flags: 0
 
 ### Kosovo
 
-Flags: 3
+Flags: 0
 
 ### Kuwait
 
@@ -490,7 +490,7 @@ Flags: 0
 
 ### Latvia
 
-Flags: 51
+Flags: 0
 
 ### Lebanon
 
@@ -502,7 +502,7 @@ Flags: 0
 
 ### Liberia
 
-Flags: 15
+Flags: 0
 
 ### Libya
 
@@ -534,7 +534,7 @@ Flags: 0
 
 ### Malaysia
 
-Flags: 16
+Flags: 0
 
 ### Maldives
 
@@ -546,7 +546,7 @@ Flags: 0
 
 ### Malta
 
-Flags: 67
+Flags: 59
 
 ### Man (Isle of)
 
@@ -554,7 +554,7 @@ Flags: 0
 
 ### Marshall Islands
 
-Flags: 2
+Flags: 0
 
 ### Martinique
 
@@ -566,7 +566,7 @@ Flags: 0
 
 ### Mauritius
 
-Flags: 4
+Flags: 1
 
 ### Mayotte
 
@@ -574,15 +574,15 @@ Flags: 0
 
 ### Mexico
 
-Flags: 32
+Flags: 22
 
 ### Micronesia
 
-Flags: 4
+Flags: 0
 
 ### Moldova
 
-Flags: 35
+Flags: 31
 
 ### Monaco
 
@@ -590,11 +590,11 @@ Flags: 0
 
 ### Mongolia
 
-Flags: 21
+Flags: 20
 
 ### Montenegro
 
-Flags: 22
+Flags: 0
 
 ### Montserrat
 
@@ -602,11 +602,11 @@ Flags: 0
 
 ### Morocco
 
-Flags: 39
+Flags: 2
 
 ### Mozambique
 
-Flags: 11
+Flags: 2
 
 ### Myanmar
 
@@ -614,7 +614,7 @@ Flags: 15
 
 ### Namibia
 
-Flags: 1
+Flags: 0
 
 ### Nauru
 
@@ -626,7 +626,7 @@ Flags: 0
 
 ### Netherlands
 
-Flags: 15
+Flags: 0
 
 ### New Caledonia
 
@@ -634,7 +634,7 @@ Flags: 0
 
 ### New Zealand
 
-Flags: 6
+Flags: 0
 
 ### Nicaragua
 
@@ -646,7 +646,7 @@ Flags: 0
 
 ### Nigeria
 
-Flags: 37
+Flags: 0
 
 ### Niue
 
@@ -658,11 +658,11 @@ Flags: 0
 
 ### North Korea
 
-Flags: 11
+Flags: 0
 
 ### North Macedonia
 
-Flags: 73
+Flags: 0
 
 ### Northern Mariana Islands
 
@@ -670,7 +670,7 @@ Flags: 0
 
 ### Norway
 
-Flags: 20
+Flags: 6
 
 ### Oman
 
@@ -678,15 +678,15 @@ Flags: 0
 
 ### Pakistan
 
-Flags: 8
+Flags: 7
 
 ### Palau
 
-Flags: 16
+Flags: 0
 
 ### Palestinian Territory Occupied
 
-Flags: 1
+Flags: 0
 
 ### Panama
 
@@ -702,11 +702,11 @@ Flags: 17
 
 ### Peru
 
-Flags: 25
+Flags: 17
 
 ### Philippines
 
-Flags: 94
+Flags: 90
 
 ### Pitcairn Island
 
@@ -714,15 +714,15 @@ Flags: 0
 
 ### Poland
 
-Flags: 16
+Flags: 3
 
 ### Portugal
 
-Flags: 20
+Flags: 18
 
 ### Puerto Rico
 
-Flags: 10
+Flags: 0
 
 ### Qatar
 
@@ -734,11 +734,11 @@ Flags: 0
 
 ### Romania
 
-Flags: 18
+Flags: 5
 
 ### Russia
 
-Flags: 72
+Flags: 0
 
 ### Rwanda
 
@@ -750,7 +750,7 @@ Flags: 0
 
 ### Saint Kitts And Nevis
 
-Flags: 2
+Flags: 1
 
 ### Saint Lucia
 
@@ -790,11 +790,11 @@ Flags: 0
 
 ### Senegal
 
-Flags: 4
+Flags: 0
 
 ### Serbia
 
-Flags: 26
+Flags: 1
 
 ### Seychelles
 
@@ -818,7 +818,7 @@ Flags: 8
 
 ### Slovenia
 
-Flags: 211
+Flags: 0
 
 ### Solomon Islands
 
@@ -826,11 +826,11 @@ Flags: 10
 
 ### Somalia
 
-Flags: 1
+Flags: 0
 
 ### South Africa
 
-Flags: 6
+Flags: 1
 
 ### South Georgia
 
@@ -838,15 +838,15 @@ Flags: 0
 
 ### South Korea
 
-Flags: 17
+Flags: 0
 
 ### South Sudan
 
-Flags: 9
+Flags: 0
 
 ### Spain
 
-Flags: 66
+Flags: 33
 
 ### Sri Lanka
 
@@ -854,11 +854,11 @@ Flags: 9
 
 ### Sudan
 
-Flags: 8
+Flags: 7
 
 ### Suriname
 
-Flags: 4
+Flags: 0
 
 ### Svalbard And Jan Mayen Islands
 
@@ -870,19 +870,19 @@ Flags: 0
 
 ### Sweden
 
-Flags: 21
+Flags: 20
 
 ### Switzerland
 
-Flags: 26
+Flags: 0
 
 ### Syria
 
-Flags: 4
+Flags: 0
 
 ### Taiwan
 
-Flags: 21
+Flags: 11
 
 ### Tajikistan
 
@@ -894,7 +894,7 @@ Flags: 0
 
 ### Thailand
 
-Flags: 77
+Flags: 0
 
 ### The Bahamas
 
@@ -918,11 +918,11 @@ Flags: 0
 
 ### Tunisia
 
-Flags: 2
+Flags: 0
 
 ### Turkey
 
-Flags: 79
+Flags: 0
 
 ### Turkmenistan
 
@@ -934,7 +934,7 @@ Flags: 0
 
 ### Tuvalu
 
-Flags: 1
+Flags: 0
 
 ### Uganda
 
@@ -942,19 +942,19 @@ Flags: 1
 
 ### Ukraine
 
-Flags: 22
+Flags: 0
 
 ### United Arab Emirates
 
-Flags: 7
+Flags: 0
 
 ### United Kingdom
 
-Flags: 92
+Flags: 58
 
 ### United States
 
-Flags: 58
+Flags: 0
 
 ### United States Minor Outlying Islands
 
@@ -962,11 +962,11 @@ Flags: 0
 
 ### Uruguay
 
-Flags: 19
+Flags: 17
 
 ### Uzbekistan
 
-Flags: 2
+Flags: 1
 
 ### Vanuatu
 
@@ -978,11 +978,11 @@ Flags: 0
 
 ### Venezuela
 
-Flags: 25
+Flags: 22
 
 ### Vietnam
 
-Flags: 63
+Flags: 0
 
 ### Virgin Islands (British)
 
@@ -1010,5 +1010,5 @@ Flags: 0
 
 ### Zimbabwe
 
-Flags: 10
+Flags: 2
 
