@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3041
+FLAGS: 3046
 
 ### Afghanistan
 
@@ -218,7 +218,7 @@ Flags: 0
 
 ### Costa Rica
 
-Flags: 6
+Flags: 7
 
 ### Cote D'Ivoire (Ivory Coast)
 
@@ -422,7 +422,7 @@ Flags: 36
 
 ### Indonesia
 
-Flags: 33
+Flags: 34
 
 ### Iran
 
@@ -602,7 +602,7 @@ Flags: 0
 
 ### Morocco
 
-Flags: 36
+Flags: 38
 
 ### Mozambique
 
@@ -922,7 +922,7 @@ Flags: 2
 
 ### Turkey
 
-Flags: 69
+Flags: 70
 
 ### Turkmenistan
 
