@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3046
+FLAGS: 3054
 
 ### Afghanistan
 
@@ -170,7 +170,7 @@ Flags: 13
 
 ### Cape Verde
 
-Flags: 3
+Flags: 4
 
 ### Cayman Islands
 
@@ -602,7 +602,7 @@ Flags: 0
 
 ### Morocco
 
-Flags: 38
+Flags: 39
 
 ### Mozambique
 
@@ -922,7 +922,7 @@ Flags: 2
 
 ### Turkey
 
-Flags: 70
+Flags: 73
 
 ### Turkmenistan
 
@@ -982,7 +982,7 @@ Flags: 25
 
 ### Vietnam
 
-Flags: 60
+Flags: 63
 
 ### Virgin Islands (British)
 
