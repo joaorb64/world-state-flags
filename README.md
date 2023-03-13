@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3054
+FLAGS: 3058
 
 ### Afghanistan
 
@@ -922,7 +922,7 @@ Flags: 2
 
 ### Turkey
 
-Flags: 73
+Flags: 77
 
 ### Turkmenistan
 
