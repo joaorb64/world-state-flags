@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3139
+FLAGS: 3146
 
 ### Afghanistan
 
@@ -566,7 +566,7 @@ Flags: 0
 
 ### Mauritius
 
-Flags: 4
+Flags: 6
 
 ### Mayotte
 
@@ -602,7 +602,7 @@ Flags: 0
 
 ### Morocco
 
-Flags: 39
+Flags: 41
 
 ### Mozambique
 
@@ -686,7 +686,7 @@ Flags: 16
 
 ### Palestinian Territory Occupied
 
-Flags: 1
+Flags: 4
 
 ### Panama
 
