@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3146
+FLAGS: 3147
 
 ### Afghanistan
 
@@ -670,7 +670,7 @@ Flags: 0
 
 ### Norway
 
-Flags: 20
+Flags: 21
 
 ### Oman
 
