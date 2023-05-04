@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3147
+FLAGS: 3148
 
 ### Afghanistan
 
@@ -518,7 +518,7 @@ Flags: 10
 
 ### Luxembourg
 
-Flags: 2
+Flags: 3
 
 ### Macau S.A.R.
 
