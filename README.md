@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3148
+FLAGS: 3149
 
 ### Afghanistan
 
@@ -798,7 +798,7 @@ Flags: 26
 
 ### Seychelles
 
-Flags: 0
+Flags: 1
 
 ### Sierra Leone
 
