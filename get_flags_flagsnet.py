@@ -8,6 +8,16 @@ import shutil
 import subprocess
 import itertools
 
+dont_download = [
+    "/misc/"
+]
+    
+def CanDownload(url):
+    for d in dont_download:
+        if d in url:
+            return False
+    return True
+
 def remove_accents_lower(input_str):
     nfkd_form = unicodedata.normalize('NFKD', input_str)
     return u"".join([c for c in nfkd_form if not unicodedata.combining(c)]).lower().strip()
@@ -63,7 +73,7 @@ for country in data:
                 soup = BeautifulSoup(page, features="lxml")
 
                 allImages = soup.select("img")
-                allImages = [img for img in allImages if "email.png" not in img.get("src") and not "fis_norm.gif" in img.get("src")]
+                allImages = [img for img in allImages if CanDownload(img.get("src"))]
 
                 if len(allImages) > 1:
                     imgSrc = allImages[1]["src"]
@@ -100,7 +110,7 @@ for country in data:
                     soup = BeautifulSoup(page, features="lxml")
 
                     allImages = soup.select("img")
-                    allImages = [img for img in allImages if "email.png" not in img.get("src") and not "fis_norm.gif" in img.get("src")]
+                    allImages = [img for img in allImages if CanDownload(img.get("src"))]
 
                     if len(allImages) > 1:
                         imgSrc = allImages[1]["src"]
