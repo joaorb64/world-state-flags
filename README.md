@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3149
+FLAGS: 3150
 
 ### Afghanistan
 
@@ -698,7 +698,7 @@ Flags: 21
 
 ### Paraguay
 
-Flags: 17
+Flags: 18
 
 ### Peru
 
