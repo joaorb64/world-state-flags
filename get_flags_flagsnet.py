@@ -11,16 +11,19 @@ import itertools
 dont_download = [
     "/misc/"
 ]
-    
+
+
 def CanDownload(url):
     for d in dont_download:
         if d in url:
             return False
     return True
 
+
 def remove_accents_lower(input_str):
     nfkd_form = unicodedata.normalize('NFKD', input_str)
     return u"".join([c for c in nfkd_form if not unicodedata.combining(c)]).lower().strip()
+
 
 def download_flag(url, outfile):
     response = requests.get(url)
@@ -28,8 +31,9 @@ def download_flag(url, outfile):
     if response.status_code == 200:
         with open("./tmp.gif", 'wb') as f:
             f.write(response.content)
-    
+
         subprocess.call(f'convert ./tmp.gif -resize 64x {outfile}', shell=True)
+
 
 url = 'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/countries%2Bstates%2Bcities.json'
 
@@ -45,7 +49,7 @@ i = 1
 keywordSoups = {}
 
 print("Fetching search...")
-for letter in [str(chr(i)) for i in range(ord('a'),ord('z')+1)]:
+for letter in [str(chr(i)) for i in range(ord('a'), ord('z')+1)]:
     url = f'https://www.fotw.info/flags/keyword{letter}.html'
     page = requests.get(url).text
     soup = BeautifulSoup(page, features="lxml")
@@ -64,7 +68,10 @@ for country in data:
             region["state_code"] = "_CON"
 
         found = False
-        tries = [region.get("state_code"), remove_accents_lower(region.get("name"))]
+        tries = [
+            remove_accents_lower(region.get("name")),
+            region.get("state_code")
+        ]
 
         for nameTry in tries:
             try:
@@ -73,13 +80,15 @@ for country in data:
                 soup = BeautifulSoup(page, features="lxml")
 
                 allImages = soup.select("img")
-                allImages = [img for img in allImages if CanDownload(img.get("src"))]
+                allImages = [
+                    img for img in allImages if CanDownload(img.get("src"))]
 
                 if len(allImages) > 1:
                     imgSrc = allImages[1]["src"]
                     if imgSrc.startswith("../"):
                         imgSrc = f'https://www.fotw.info/{imgSrc[2:]}'
-                    print(f'Found {countryPath}/{region.get("state_code")} - {imgSrc}')
+                    print(
+                        f'Found {countryPath}/{region.get("state_code")} - {imgSrc}')
                     download_flag(
                         imgSrc,
                         f'{countryPath}/{region.get("state_code").upper()}.png'
@@ -88,7 +97,7 @@ for country in data:
                     break
             except Exception as e:
                 print(e)
-        
+
         if not found:
             try:
                 regionName = remove_accents_lower(region.get("name"))
@@ -104,23 +113,25 @@ for country in data:
                     if remove_accents_lower(link.text) == f"{regionName} ({regionCountry})" and link.get("href"):
                         subpage = "https://www.fotw.info/flags/" + link["href"]
                         break
-            
+
                 if subpage:
                     page = requests.get(subpage).text
                     soup = BeautifulSoup(page, features="lxml")
 
                     allImages = soup.select("img")
-                    allImages = [img for img in allImages if CanDownload(img.get("src"))]
+                    allImages = [
+                        img for img in allImages if CanDownload(img.get("src"))]
 
                     if len(allImages) > 1:
                         imgSrc = allImages[1]["src"]
                         if imgSrc.startswith("../"):
                             imgSrc = f'https://www.fotw.info/{imgSrc[2:]}'
-                        print(f'Found alternative {countryPath}/{region.get("state_code")} - {imgSrc}')
+                        print(
+                            f'Found alternative {countryPath}/{region.get("state_code")} - {imgSrc}')
                         download_flag(
                             imgSrc,
                             f'{countryPath}/{region.get("state_code").upper()}.png'
                         )
             except Exception as e:
                 print(e)
-    i+=1
+    i += 1

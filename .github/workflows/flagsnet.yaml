@@ -31,6 +31,7 @@ jobs:
           rm -rf out/*
           cp -r out_wikipedia/* out/
           cp -r out_flagsnet/* out/
+          cp -r out_curated/* out/
           python generate_readme.py
 
       - name: commit files

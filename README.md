@@ -14,1001 +14,2021 @@ FLAGS: 3150
 
 ### Afghanistan
 
-Flags: 5
 
-### Aland Islands
+                <details>
+                <summary>5/33</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Albania
 
-Flags: 28
 
+                <details>
+                <summary>28/47</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Algeria
 
-Flags: 0
 
-### American Samoa
+                <details>
+                <summary>0/58</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Andorra
 
-Flags: 7
 
+                <details>
+                <summary>7/7</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Angola
 
-Flags: 17
 
-### Anguilla
+                <details>
+                <summary>17/17</summary>
 
-Flags: 0
-
-### Antarctica
-
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Antigua And Barbuda
 
-Flags: 2
 
+                <details>
+                <summary>2/8</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Argentina
 
-Flags: 24
 
+                <details>
+                <summary>24/24</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Armenia
 
-Flags: 11
 
-### Aruba
+                <details>
+                <summary>11/11</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Australia
 
-Flags: 8
 
+                <details>
+                <summary>8/8</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Austria
 
-Flags: 9
 
+                <details>
+                <summary>9/9</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Azerbaijan
 
-Flags: 1
 
+                <details>
+                <summary>1/75</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Bahrain
 
-Flags: 5
 
+                <details>
+                <summary>5/5</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Bangladesh
 
-Flags: 0
 
+                <details>
+                <summary>0/70</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Barbados
 
-Flags: 0
 
+                <details>
+                <summary>0/11</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Belarus
 
-Flags: 7
 
+                <details>
+                <summary>7/7</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Belgium
 
-Flags: 13
 
+                <details>
+                <summary>13/13</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Belize
 
-Flags: 0
 
+                <details>
+                <summary>0/6</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Benin
 
-Flags: 0
 
+                <details>
+                <summary>0/12</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Bermuda
 
-Flags: 0
 
+                <details>
+                <summary>0/9</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Bhutan
 
-Flags: 0
 
+                <details>
+                <summary>0/19</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Bolivia
 
-Flags: 9
 
+                <details>
+                <summary>9/9</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Bonaire, Sint Eustatius and Saba
 
-Flags: 0
 
+                <details>
+                <summary>0/3</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Bosnia and Herzegovina
 
-Flags: 12
 
+                <details>
+                <summary>12/13</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Botswana
 
-Flags: 0
 
-### Bouvet Island
+                <details>
+                <summary>0/10</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Brazil
 
-Flags: 27
 
-### British Indian Ocean Territory
+                <details>
+                <summary>27/27</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Brunei
 
-Flags: 0
 
+                <details>
+                <summary>0/4</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Bulgaria
 
-Flags: 28
 
+                <details>
+                <summary>28/28</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Burkina Faso
 
-Flags: 0
 
+                <details>
+                <summary>0/57</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Burundi
 
-Flags: 0
 
+                <details>
+                <summary>0/18</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Cambodia
 
-Flags: 0
 
+                <details>
+                <summary>0/24</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Cameroon
 
-Flags: 0
 
+                <details>
+                <summary>0/10</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Canada
 
-Flags: 13
 
+                <details>
+                <summary>13/13</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Cape Verde
 
-Flags: 4
 
-### Cayman Islands
+                <details>
+                <summary>4/23</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Central African Republic
 
-Flags: 1
 
+                <details>
+                <summary>1/17</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Chad
 
-Flags: 0
 
+                <details>
+                <summary>0/23</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Chile
 
-Flags: 16
 
+                <details>
+                <summary>16/16</summary>
+
+                ```
+                ```
+                </details>
+            
 ### China
 
-Flags: 31
 
-### Christmas Island
+                <details>
+                <summary>31/34</summary>
 
-Flags: 0
-
-### Cocos (Keeling) Islands
-
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Colombia
 
-Flags: 33
 
+                <details>
+                <summary>33/33</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Comoros
 
-Flags: 3
 
+                <details>
+                <summary>3/3</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Congo
 
-Flags: 1
 
-### Cook Islands
+                <details>
+                <summary>1/12</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Costa Rica
 
-Flags: 7
 
+                <details>
+                <summary>7/7</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Cote D'Ivoire (Ivory Coast)
 
-Flags: 0
 
+                <details>
+                <summary>0/31</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Croatia
 
-Flags: 19
 
+                <details>
+                <summary>19/21</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Cuba
 
-Flags: 16
 
-### Curaçao
+                <details>
+                <summary>16/16</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Cyprus
 
-Flags: 1
 
+                <details>
+                <summary>1/6</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Czech Republic
 
-Flags: 87
 
+                <details>
+                <summary>87/90</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Democratic Republic of the Congo
 
-Flags: 0
 
+                <details>
+                <summary>0/26</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Denmark
 
-Flags: 4
 
+                <details>
+                <summary>4/5</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Djibouti
 
-Flags: 0
 
+                <details>
+                <summary>0/6</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Dominica
 
-Flags: 0
 
+                <details>
+                <summary>0/10</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Dominican Republic
 
-Flags: 31
 
+                <details>
+                <summary>31/31</summary>
+
+                ```
+                ```
+                </details>
+            
 ### East Timor
 
-Flags: 12
 
+                <details>
+                <summary>12/12</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Ecuador
 
-Flags: 24
 
+                <details>
+                <summary>24/24</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Egypt
 
-Flags: 27
 
+                <details>
+                <summary>27/27</summary>
+
+                ```
+                ```
+                </details>
+            
 ### El Salvador
 
-Flags: 14
 
+                <details>
+                <summary>14/14</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Equatorial Guinea
 
-Flags: 9
 
+                <details>
+                <summary>9/9</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Eritrea
 
-Flags: 0
 
+                <details>
+                <summary>0/6</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Estonia
 
-Flags: 15
 
+                <details>
+                <summary>15/15</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Ethiopia
 
-Flags: 11
 
-### Falkland Islands
+                <details>
+                <summary>11/11</summary>
 
-Flags: 0
-
-### Faroe Islands
-
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Fiji Islands
 
-Flags: 0
 
+                <details>
+                <summary>0/19</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Finland
 
-Flags: 14
 
+                <details>
+                <summary>14/19</summary>
+
+                ```
+                ```
+                </details>
+            
 ### France
 
-Flags: 133
 
-### French Guiana
+                <details>
+                <summary>133/123</summary>
 
-Flags: 0
-
-### French Polynesia
-
-Flags: 0
-
-### French Southern Territories
-
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Gabon
 
-Flags: 9
 
+                <details>
+                <summary>9/9</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Gambia The
 
-Flags: 0
 
+                <details>
+                <summary>0/6</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Georgia
 
-Flags: 4
 
+                <details>
+                <summary>4/14</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Germany
 
-Flags: 16
 
+                <details>
+                <summary>16/16</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Ghana
 
-Flags: 15
 
-### Gibraltar
+                <details>
+                <summary>15/16</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Greece
 
-Flags: 9
 
-### Greenland
+                <details>
+                <summary>9/38</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Grenada
 
-Flags: 0
 
-### Guadeloupe
+                <details>
+                <summary>0/7</summary>
 
-Flags: 0
-
-### Guam
-
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Guatemala
 
-Flags: 21
 
-### Guernsey and Alderney
+                <details>
+                <summary>21/21</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Guinea
 
-Flags: 0
 
+                <details>
+                <summary>0/40</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Guinea-Bissau
 
-Flags: 8
 
+                <details>
+                <summary>8/11</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Guyana
 
-Flags: 0
 
+                <details>
+                <summary>0/10</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Haiti
 
-Flags: 0
 
-### Heard Island and McDonald Islands
+                <details>
+                <summary>0/10</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Honduras
 
-Flags: 18
 
+                <details>
+                <summary>18/18</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Hong Kong S.A.R.
 
-Flags: 0
 
+                <details>
+                <summary>0/18</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Hungary
 
-Flags: 43
 
+                <details>
+                <summary>43/43</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Iceland
 
-Flags: 0
 
+                <details>
+                <summary>0/8</summary>
+
+                ```
+                ```
+                </details>
+            
 ### India
 
-Flags: 36
 
+                <details>
+                <summary>36/36</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Indonesia
 
-Flags: 34
 
+                <details>
+                <summary>34/34</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Iran
 
-Flags: 11
 
+                <details>
+                <summary>11/31</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Iraq
 
-Flags: 9
 
+                <details>
+                <summary>9/18</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Ireland
 
-Flags: 29
 
+                <details>
+                <summary>29/29</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Israel
 
-Flags: 3
 
+                <details>
+                <summary>3/6</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Italy
 
-Flags: 120
 
+                <details>
+                <summary>120/111</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Jamaica
 
-Flags: 0
 
+                <details>
+                <summary>0/14</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Japan
 
-Flags: 47
 
-### Jersey
+                <details>
+                <summary>47/47</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Jordan
 
-Flags: 2
 
+                <details>
+                <summary>2/12</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Kazakhstan
 
-Flags: 9
 
+                <details>
+                <summary>9/17</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Kenya
 
-Flags: 45
 
+                <details>
+                <summary>45/47</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Kiribati
 
-Flags: 0
 
+                <details>
+                <summary>0/3</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Kosovo
 
-Flags: 3
 
+                <details>
+                <summary>3/7</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Kuwait
 
-Flags: 0
 
+                <details>
+                <summary>0/6</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Kyrgyzstan
 
-Flags: 9
 
+                <details>
+                <summary>9/9</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Laos
 
-Flags: 0
 
+                <details>
+                <summary>0/19</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Latvia
 
-Flags: 64
 
+                <details>
+                <summary>64/118</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Lebanon
 
-Flags: 0
 
+                <details>
+                <summary>0/8</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Lesotho
 
-Flags: 0
 
+                <details>
+                <summary>0/10</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Liberia
 
-Flags: 15
 
+                <details>
+                <summary>15/15</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Libya
 
-Flags: 0
 
+                <details>
+                <summary>0/21</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Liechtenstein
 
-Flags: 11
 
+                <details>
+                <summary>11/11</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Lithuania
 
-Flags: 10
 
+                <details>
+                <summary>10/69</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Luxembourg
 
-Flags: 3
 
-### Macau S.A.R.
+                <details>
+                <summary>3/15</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Madagascar
 
-Flags: 0
 
+                <details>
+                <summary>0/6</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Malawi
 
-Flags: 0
 
+                <details>
+                <summary>0/30</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Malaysia
 
-Flags: 16
 
+                <details>
+                <summary>16/16</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Maldives
 
-Flags: 0
 
+                <details>
+                <summary>0/26</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Mali
 
-Flags: 0
 
+                <details>
+                <summary>0/11</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Malta
 
-Flags: 67
 
-### Man (Isle of)
+                <details>
+                <summary>67/67</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Marshall Islands
 
-Flags: 2
 
-### Martinique
+                <details>
+                <summary>2/2</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Mauritania
 
-Flags: 0
 
+                <details>
+                <summary>0/15</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Mauritius
 
-Flags: 6
 
-### Mayotte
+                <details>
+                <summary>6/12</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Mexico
 
-Flags: 32
 
+                <details>
+                <summary>32/32</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Micronesia
 
-Flags: 4
 
+                <details>
+                <summary>4/4</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Moldova
 
-Flags: 35
 
+                <details>
+                <summary>35/36</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Monaco
 
-Flags: 0
 
+                <details>
+                <summary>0/3</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Mongolia
 
-Flags: 21
 
+                <details>
+                <summary>21/21</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Montenegro
 
-Flags: 22
 
-### Montserrat
+                <details>
+                <summary>22/22</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Morocco
 
-Flags: 41
 
+                <details>
+                <summary>41/87</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Mozambique
 
-Flags: 11
 
+                <details>
+                <summary>11/11</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Myanmar
 
-Flags: 15
 
+                <details>
+                <summary>15/15</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Namibia
 
-Flags: 1
 
+                <details>
+                <summary>1/14</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Nauru
 
-Flags: 0
 
+                <details>
+                <summary>0/14</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Nepal
 
-Flags: 0
 
+                <details>
+                <summary>0/19</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Netherlands
 
-Flags: 15
 
-### New Caledonia
+                <details>
+                <summary>15/15</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### New Zealand
 
-Flags: 13
 
+                <details>
+                <summary>13/17</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Nicaragua
 
-Flags: 17
 
+                <details>
+                <summary>17/17</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Niger
 
-Flags: 0
 
+                <details>
+                <summary>0/7</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Nigeria
 
-Flags: 37
 
-### Niue
+                <details>
+                <summary>37/37</summary>
 
-Flags: 0
-
-### Norfolk Island
-
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### North Korea
 
-Flags: 11
 
+                <details>
+                <summary>11/11</summary>
+
+                ```
+                ```
+                </details>
+            
 ### North Macedonia
 
-Flags: 73
 
-### Northern Mariana Islands
+                <details>
+                <summary>73/84</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Norway
 
-Flags: 21
 
+                <details>
+                <summary>21/13</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Oman
 
-Flags: 0
 
+                <details>
+                <summary>0/13</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Pakistan
 
-Flags: 8
 
+                <details>
+                <summary>8/8</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Palau
 
-Flags: 16
 
+                <details>
+                <summary>16/16</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Palestinian Territory Occupied
 
-Flags: 4
 
+                <details>
+                <summary>4/16</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Panama
 
-Flags: 11
 
+                <details>
+                <summary>11/13</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Papua new Guinea
 
-Flags: 21
 
+                <details>
+                <summary>21/21</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Paraguay
 
-Flags: 18
 
+                <details>
+                <summary>18/18</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Peru
 
-Flags: 25
 
+                <details>
+                <summary>25/25</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Philippines
 
-Flags: 94
 
-### Pitcairn Island
+                <details>
+                <summary>94/98</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Poland
 
-Flags: 16
 
+                <details>
+                <summary>16/16</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Portugal
 
-Flags: 20
 
+                <details>
+                <summary>20/20</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Puerto Rico
 
-Flags: 88
 
+                <details>
+                <summary>88/88</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Qatar
 
-Flags: 0
 
-### Reunion
+                <details>
+                <summary>0/8</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Romania
 
-Flags: 18
 
+                <details>
+                <summary>18/42</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Russia
 
-Flags: 72
 
+                <details>
+                <summary>72/84</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Rwanda
 
-Flags: 0
 
-### Saint Helena
+                <details>
+                <summary>0/5</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Saint Kitts And Nevis
 
-Flags: 2
 
+                <details>
+                <summary>2/15</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Saint Lucia
 
-Flags: 0
 
-### Saint Pierre and Miquelon
+                <details>
+                <summary>0/12</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Saint Vincent And The Grenadines
 
-Flags: 0
 
-### Saint-Barthelemy
+                <details>
+                <summary>0/6</summary>
 
-Flags: 0
-
-### Saint-Martin (French part)
-
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Samoa
 
-Flags: 0
 
+                <details>
+                <summary>0/11</summary>
+
+                ```
+                ```
+                </details>
+            
 ### San Marino
 
-Flags: 9
 
+                <details>
+                <summary>9/9</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Sao Tome and Principe
 
-Flags: 0
 
+                <details>
+                <summary>0/2</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Saudi Arabia
 
-Flags: 2
 
+                <details>
+                <summary>2/13</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Senegal
 
-Flags: 4
 
+                <details>
+                <summary>4/14</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Serbia
 
-Flags: 26
 
+                <details>
+                <summary>26/26</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Seychelles
 
-Flags: 1
 
+                <details>
+                <summary>1/24</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Sierra Leone
 
-Flags: 0
 
+                <details>
+                <summary>0/4</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Singapore
 
-Flags: 0
 
-### Sint Maarten (Dutch part)
+                <details>
+                <summary>0/5</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Slovakia
 
-Flags: 8
 
+                <details>
+                <summary>8/8</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Slovenia
 
-Flags: 211
 
+                <details>
+                <summary>211/211</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Solomon Islands
 
-Flags: 10
 
+                <details>
+                <summary>10/10</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Somalia
 
-Flags: 1
 
+                <details>
+                <summary>1/16</summary>
+
+                ```
+                ```
+                </details>
+            
 ### South Africa
 
-Flags: 6
 
-### South Georgia
+                <details>
+                <summary>6/9</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### South Korea
 
-Flags: 17
 
+                <details>
+                <summary>17/17</summary>
+
+                ```
+                ```
+                </details>
+            
 ### South Sudan
 
-Flags: 9
 
+                <details>
+                <summary>9/10</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Spain
 
-Flags: 66
 
+                <details>
+                <summary>66/50</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Sri Lanka
 
-Flags: 9
 
+                <details>
+                <summary>9/33</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Sudan
 
-Flags: 8
 
+                <details>
+                <summary>8/18</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Suriname
 
-Flags: 4
 
-### Svalbard And Jan Mayen Islands
+                <details>
+                <summary>4/10</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Swaziland
 
-Flags: 0
 
+                <details>
+                <summary>0/4</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Sweden
 
-Flags: 21
 
+                <details>
+                <summary>21/21</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Switzerland
 
-Flags: 26
 
+                <details>
+                <summary>26/26</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Syria
 
-Flags: 4
 
+                <details>
+                <summary>4/14</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Taiwan
 
-Flags: 21
 
+                <details>
+                <summary>21/22</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Tajikistan
 
-Flags: 0
 
+                <details>
+                <summary>0/4</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Tanzania
 
-Flags: 3
 
+                <details>
+                <summary>3/31</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Thailand
 
-Flags: 77
 
+                <details>
+                <summary>77/78</summary>
+
+                ```
+                ```
+                </details>
+            
 ### The Bahamas
 
-Flags: 0
 
+                <details>
+                <summary>0/42</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Togo
 
-Flags: 0
 
-### Tokelau
+                <details>
+                <summary>0/5</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Tonga
 
-Flags: 0
 
+                <details>
+                <summary>0/5</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Trinidad And Tobago
 
-Flags: 5
 
+                <details>
+                <summary>5/16</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Tunisia
 
-Flags: 2
 
+                <details>
+                <summary>2/24</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Turkey
 
-Flags: 79
 
+                <details>
+                <summary>79/81</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Turkmenistan
 
-Flags: 0
 
-### Turks And Caicos Islands
+                <details>
+                <summary>0/6</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Tuvalu
 
-Flags: 1
 
+                <details>
+                <summary>1/8</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Uganda
 
-Flags: 1
 
+                <details>
+                <summary>1/125</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Ukraine
 
-Flags: 22
 
+                <details>
+                <summary>22/26</summary>
+
+                ```
+                ```
+                </details>
+            
 ### United Arab Emirates
 
-Flags: 7
 
+                <details>
+                <summary>7/7</summary>
+
+                ```
+                ```
+                </details>
+            
 ### United Kingdom
 
-Flags: 92
 
+                <details>
+                <summary>92/247</summary>
+
+                ```
+                ```
+                </details>
+            
 ### United States
 
-Flags: 58
 
+                <details>
+                <summary>58/66</summary>
+
+                ```
+                ```
+                </details>
+            
 ### United States Minor Outlying Islands
 
-Flags: 0
 
+                <details>
+                <summary>0/9</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Uruguay
 
-Flags: 19
 
+                <details>
+                <summary>19/19</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Uzbekistan
 
-Flags: 2
 
+                <details>
+                <summary>2/14</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Vanuatu
 
-Flags: 6
 
-### Vatican City State (Holy See)
+                <details>
+                <summary>6/6</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Venezuela
 
-Flags: 25
 
+                <details>
+                <summary>25/25</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Vietnam
 
-Flags: 63
 
-### Virgin Islands (British)
+                <details>
+                <summary>63/63</summary>
 
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Virgin Islands (US)
 
-Flags: 0
 
-### Wallis And Futuna Islands
+                <details>
+                <summary>0/3</summary>
 
-Flags: 0
-
-### Western Sahara
-
-Flags: 0
-
+                ```
+                ```
+                </details>
+            
 ### Yemen
 
-Flags: 0
 
+                <details>
+                <summary>0/21</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Zambia
 
-Flags: 0
 
+                <details>
+                <summary>0/10</summary>
+
+                ```
+                ```
+                </details>
+            
 ### Zimbabwe
 
-Flags: 10
 
+                <details>
+                <summary>10/10</summary>
+
+                ```
+                ```
+                </details>
+            

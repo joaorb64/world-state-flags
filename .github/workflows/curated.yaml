@@ -1,4 +1,4 @@
-name: wiki
+name: curated
 
 on:
   workflow_dispatch:
@@ -22,9 +22,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Get Wiki
+      - name: Get curated
         run: |
-          python get_flags_wikipedia.py
+          python get_curated_flags.py
 
       - name: Join files
         run: |

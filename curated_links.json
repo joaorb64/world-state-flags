@@ -1,0 +1,29 @@
+{
+    "PT": {
+        "01": "https://www.fotw.info/images/p/pt-avr.gif",
+        "02": "https://www.fotw.info/images/p/pt-bja.gif",
+        "03": "https://www.fotw.info/images/p/pt-brg.gif",
+        "04": "https://www.fotw.info/images/p/pt-bgc.gif",
+        "05": "https://www.fotw.info/images/p/pt-ctb3.gif",
+        "06": "https://www.fotw.info/images/p/pt-cbr3.gif",
+        "07": "https://www.fotw.info/images/p/pt-evr.gif",
+        "08": "https://www.fotw.info/images/p/pt-far.gif",
+        "09": "https://www.fotw.info/images/p/pt-grd.gif",
+        "10": "https://www.fotw.info/images/p/pt-lra.gif",
+        "11": "https://www.fotw.info/images/p/pt-lsb.gif",
+        "12": "https://www.fotw.info/images/p/pt-ptg.gif",
+        "13": "https://www.fotw.info/images/p/pt-prt.gif",
+        "14": "https://www.fotw.info/images/p/pt-str.gif",
+        "15": "https://www.fotw.info/images/p/pt-stb.gif",
+        "16": "https://www.fotw.info/images/p/pt-vct.gif",
+        "17": "https://www.fotw.info/images/p/pt-vrl.gif",
+        "18": "https://www.fotw.info/images/p/pt-vis.gif",
+        "20": "https://www.fotw.info/images/p/pt-a.gif",
+        "30": "https://www.fotw.info/images/p/pt-m.gif"
+    },
+    "DE": {
+        "SL": "https://www.fotw.info/images/d/de-sa.gif",
+        "ST": "https://www.fotw.info/images/d/de-sy.gif",
+        "BB": "https://www.fotw.info/images/d/de-br.gif"
+    }
+}
