@@ -16,7 +16,6 @@ FLAGS: 3150
 
 <details>
 <summary>5/33</summary>
-```
 BDS - Badakhshan
 BDG - Badghis
 BGL - Baghlan
@@ -50,8 +49,6 @@ SAR - Sar-e Pol
 TAK - Takhar
 URU - Urozgan
 ZAB - Zabul
-
-```
 </details>
 
 
@@ -59,7 +56,6 @@ ZAB - Zabul
 
 <details>
 <summary>28/47</summary>
-```
 <img src='out/AL/01.png' width='64'/> 01 - Berat County ✔️
 <img src='out/AL/BR.png' width='64'/> BR - Berat District ✔️
 BU - Bulqizë District
@@ -107,8 +103,6 @@ TE - Tepelenë District
 TP - Tropojë District
 <img src='out/AL/12.png' width='64'/> 12 - Vlorë County ✔️
 <img src='out/AL/VL.png' width='64'/> VL - Vlorë District ✔️
-
-```
 </details>
 
 
@@ -116,7 +110,6 @@ TP - Tropojë District
 
 <details>
 <summary>0/58</summary>
-```
 01 - Adrar
 44 - Aïn Defla
 46 - Aïn Témouchent
@@ -175,8 +168,6 @@ TP - Tropojë District
 15 - Tizi Ouzou
 13 - Tlemcen
 55 - Touggourt
-
-```
 </details>
 
 
@@ -184,7 +175,6 @@ TP - Tropojë District
 
 <details>
 <summary>7/7</summary>
-```
 <img src='out/AD/07.png' width='64'/> 07 - Andorra la Vella ✔️
 <img src='out/AD/02.png' width='64'/> 02 - Canillo ✔️
 <img src='out/AD/03.png' width='64'/> 03 - Encamp ✔️
@@ -192,8 +182,6 @@ TP - Tropojë District
 <img src='out/AD/04.png' width='64'/> 04 - La Massana ✔️
 <img src='out/AD/05.png' width='64'/> 05 - Ordino ✔️
 <img src='out/AD/06.png' width='64'/> 06 - Sant Julià de Lòria ✔️
-
-```
 </details>
 
 
@@ -201,7 +189,6 @@ TP - Tropojë District
 
 <details>
 <summary>17/17</summary>
-```
 <img src='out/AO/BGO.png' width='64'/> BGO - Bengo Province ✔️
 <img src='out/AO/BGU.png' width='64'/> BGU - Benguela Province ✔️
 <img src='out/AO/BIE.png' width='64'/> BIE - Bié Province ✔️
@@ -219,8 +206,6 @@ TP - Tropojë District
 <img src='out/AO/MOX.png' width='64'/> MOX - Moxico Province ✔️
 <img src='out/AO/UIG.png' width='64'/> UIG - Uíge Province ✔️
 <img src='out/AO/ZAI.png' width='64'/> ZAI - Zaire Province ✔️
-
-```
 </details>
 
 
@@ -228,7 +213,6 @@ TP - Tropojë District
 
 <details>
 <summary>2/8</summary>
-```
 <img src='out/AG/10.png' width='64'/> 10 - Barbuda ✔️
 <img src='out/AG/11.png' width='64'/> 11 - Redonda ✔️
 03 - Saint George Parish
@@ -237,8 +221,6 @@ TP - Tropojë District
 06 - Saint Paul Parish
 07 - Saint Peter Parish
 08 - Saint Philip Parish
-
-```
 </details>
 
 
@@ -246,7 +228,6 @@ TP - Tropojë District
 
 <details>
 <summary>24/24</summary>
-```
 <img src='out/AR/B.png' width='64'/> B - Buenos Aires ✔️
 <img src='out/AR/K.png' width='64'/> K - Catamarca ✔️
 <img src='out/AR/H.png' width='64'/> H - Chaco ✔️
@@ -271,8 +252,6 @@ TP - Tropojë District
 <img src='out/AR/G.png' width='64'/> G - Santiago del Estero ✔️
 <img src='out/AR/V.png' width='64'/> V - Tierra del Fuego ✔️
 <img src='out/AR/T.png' width='64'/> T - Tucumán ✔️
-
-```
 </details>
 
 
@@ -280,7 +259,6 @@ TP - Tropojë District
 
 <details>
 <summary>11/11</summary>
-```
 <img src='out/AM/AG.png' width='64'/> AG - Aragatsotn Region ✔️
 <img src='out/AM/AR.png' width='64'/> AR - Ararat Province ✔️
 <img src='out/AM/AV.png' width='64'/> AV - Armavir Region ✔️
@@ -292,8 +270,6 @@ TP - Tropojë District
 <img src='out/AM/TV.png' width='64'/> TV - Tavush Region ✔️
 <img src='out/AM/VD.png' width='64'/> VD - Vayots Dzor Region ✔️
 <img src='out/AM/ER.png' width='64'/> ER - Yerevan ✔️
-
-```
 </details>
 
 
@@ -301,7 +277,6 @@ TP - Tropojë District
 
 <details>
 <summary>8/8</summary>
-```
 <img src='out/AU/ACT.png' width='64'/> ACT - Australian Capital Territory ✔️
 <img src='out/AU/NSW.png' width='64'/> NSW - New South Wales ✔️
 <img src='out/AU/NT.png' width='64'/> NT - Northern Territory ✔️
@@ -310,8 +285,6 @@ TP - Tropojë District
 <img src='out/AU/TAS.png' width='64'/> TAS - Tasmania ✔️
 <img src='out/AU/VIC.png' width='64'/> VIC - Victoria ✔️
 <img src='out/AU/WA.png' width='64'/> WA - Western Australia ✔️
-
-```
 </details>
 
 
@@ -319,7 +292,6 @@ TP - Tropojë District
 
 <details>
 <summary>9/9</summary>
-```
 <img src='out/AT/1.png' width='64'/> 1 - Burgenland ✔️
 <img src='out/AT/2.png' width='64'/> 2 - Carinthia ✔️
 <img src='out/AT/3.png' width='64'/> 3 - Lower Austria ✔️
@@ -329,8 +301,6 @@ TP - Tropojë District
 <img src='out/AT/4.png' width='64'/> 4 - Upper Austria ✔️
 <img src='out/AT/9.png' width='64'/> 9 - Vienna ✔️
 <img src='out/AT/8.png' width='64'/> 8 - Vorarlberg ✔️
-
-```
 </details>
 
 
@@ -338,7 +308,6 @@ TP - Tropojë District
 
 <details>
 <summary>1/75</summary>
-```
 ABS - Absheron District
 AGM - Agdam District
 AGS - Agdash District
@@ -414,8 +383,6 @@ YEV - Yevlakh District
 ZAN - Zangilan District
 ZAQ - Zaqatala District
 ZAR - Zardab District
-
-```
 </details>
 
 
@@ -423,14 +390,11 @@ ZAR - Zardab District
 
 <details>
 <summary>5/5</summary>
-```
 <img src='out/BH/13.png' width='64'/> 13 - Capital ✔️
 <img src='out/BH/16.png' width='64'/> 16 - Central ✔️
 <img src='out/BH/15.png' width='64'/> 15 - Muharraq ✔️
 <img src='out/BH/17.png' width='64'/> 17 - Northern ✔️
 <img src='out/BH/14.png' width='64'/> 14 - Southern ✔️
-
-```
 </details>
 
 
@@ -438,7 +402,6 @@ ZAR - Zardab District
 
 <details>
 <summary>0/70</summary>
-```
 05 - Bagerhat District
 33 - Bahadia
 01 - Bandarban District
@@ -509,8 +472,6 @@ F - Rangpur Division
 G - Sylhet Division
 63 - Tangail District
 64 - Thakurgaon District
-
-```
 </details>
 
 
@@ -518,7 +479,6 @@ G - Sylhet Division
 
 <details>
 <summary>0/11</summary>
-```
 01 - Christ Church
 02 - Saint Andrew
 03 - Saint George
@@ -530,8 +490,6 @@ G - Sylhet Division
 09 - Saint Peter
 10 - Saint Philip
 11 - Saint Thomas
-
-```
 </details>
 
 
@@ -539,7 +497,6 @@ G - Sylhet Division
 
 <details>
 <summary>7/7</summary>
-```
 <img src='out/BY/BR.png' width='64'/> BR - Brest Region ✔️
 <img src='out/BY/HO.png' width='64'/> HO - Gomel Region ✔️
 <img src='out/BY/HR.png' width='64'/> HR - Grodno Region ✔️
@@ -547,8 +504,6 @@ G - Sylhet Division
 <img src='out/BY/MI.png' width='64'/> MI - Minsk Region ✔️
 <img src='out/BY/MA.png' width='64'/> MA - Mogilev Region ✔️
 <img src='out/BY/VI.png' width='64'/> VI - Vitebsk Region ✔️
-
-```
 </details>
 
 
@@ -556,7 +511,6 @@ G - Sylhet Division
 
 <details>
 <summary>13/13</summary>
-```
 <img src='out/BE/VAN.png' width='64'/> VAN - Antwerp ✔️
 <img src='out/BE/BRU.png' width='64'/> BRU - Brussels-Capital Region ✔️
 <img src='out/BE/VOV.png' width='64'/> VOV - East Flanders ✔️
@@ -570,8 +524,6 @@ G - Sylhet Division
 <img src='out/BE/WAL.png' width='64'/> WAL - Wallonia ✔️
 <img src='out/BE/WBR.png' width='64'/> WBR - Walloon Brabant ✔️
 <img src='out/BE/VWV.png' width='64'/> VWV - West Flanders ✔️
-
-```
 </details>
 
 
@@ -579,15 +531,12 @@ G - Sylhet Division
 
 <details>
 <summary>0/6</summary>
-```
 BZ - Belize District
 CY - Cayo District
 CZL - Corozal District
 OW - Orange Walk District
 SC - Stann Creek District
 TOL - Toledo District
-
-```
 </details>
 
 
@@ -595,7 +544,6 @@ TOL - Toledo District
 
 <details>
 <summary>0/12</summary>
-```
 AL - Alibori Department
 AK - Atakora Department
 AQ - Atlantique Department
@@ -608,8 +556,6 @@ MO - Mono Department
 OU - Ouémé Department
 PL - Plateau Department
 ZO - Zou Department
-
-```
 </details>
 
 
@@ -617,7 +563,6 @@ ZO - Zou Department
 
 <details>
 <summary>0/9</summary>
-```
 DEV - Devonshire
 HA - Hamilton
 PAG - Paget
@@ -627,8 +572,6 @@ SAN - Sandys
 SMI - Smith's
 SOU - Southampton
 WAR - Warwick
-
-```
 </details>
 
 
@@ -636,7 +579,6 @@ WAR - Warwick
 
 <details>
 <summary>0/19</summary>
-```
 33 - Bumthang District
 12 - Chukha District
 22 - Dagana District
@@ -656,8 +598,6 @@ GA - Gasa District
 21 - Tsirang District
 24 - Wangdue Phodrang District
 34 - Zhemgang District
-
-```
 </details>
 
 
@@ -665,7 +605,6 @@ GA - Gasa District
 
 <details>
 <summary>9/9</summary>
-```
 <img src='out/BO/B.png' width='64'/> B - Beni Department ✔️
 <img src='out/BO/H.png' width='64'/> H - Chuquisaca Department ✔️
 <img src='out/BO/C.png' width='64'/> C - Cochabamba Department ✔️
@@ -675,8 +614,6 @@ GA - Gasa District
 <img src='out/BO/P.png' width='64'/> P - Potosí Department ✔️
 <img src='out/BO/S.png' width='64'/> S - Santa Cruz Department ✔️
 <img src='out/BO/T.png' width='64'/> T - Tarija Department ✔️
-
-```
 </details>
 
 
@@ -684,12 +621,9 @@ GA - Gasa District
 
 <details>
 <summary>0/3</summary>
-```
 BQ1 - Bonaire
 BQ2 - Saba
 BQ3 - Sint Eustatius
-
-```
 </details>
 
 
@@ -697,7 +631,6 @@ BQ3 - Sint Eustatius
 
 <details>
 <summary>12/13</summary>
-```
 <img src='out/BA/05.png' width='64'/> 05 - Bosnian Podrinje Canton ✔️
 <img src='out/BA/BRC.png' width='64'/> BRC - Brčko District ✔️
 <img src='out/BA/10.png' width='64'/> 10 - Canton 10 ✔️
@@ -711,8 +644,6 @@ BIH - Federation of Bosnia and Herzegovina
 <img src='out/BA/01.png' width='64'/> 01 - Una-Sana Canton ✔️
 <img src='out/BA/08.png' width='64'/> 08 - West Herzegovina Canton ✔️
 <img src='out/BA/04.png' width='64'/> 04 - Zenica-Doboj Canton ✔️
-
-```
 </details>
 
 
@@ -720,7 +651,6 @@ BIH - Federation of Bosnia and Herzegovina
 
 <details>
 <summary>0/10</summary>
-```
 CE - Central District
 GH - Ghanzi District
 KG - Kgalagadi District
@@ -731,8 +661,6 @@ NE - North-East District
 NW - North-West District
 SE - South-East District
 SO - Southern District
-
-```
 </details>
 
 
@@ -740,7 +668,6 @@ SO - Southern District
 
 <details>
 <summary>27/27</summary>
-```
 <img src='out/BR/AC.png' width='64'/> AC - Acre ✔️
 <img src='out/BR/AL.png' width='64'/> AL - Alagoas ✔️
 <img src='out/BR/AP.png' width='64'/> AP - Amapá ✔️
@@ -768,8 +695,6 @@ SO - Southern District
 <img src='out/BR/SP.png' width='64'/> SP - São Paulo ✔️
 <img src='out/BR/SE.png' width='64'/> SE - Sergipe ✔️
 <img src='out/BR/TO.png' width='64'/> TO - Tocantins ✔️
-
-```
 </details>
 
 
@@ -777,13 +702,10 @@ SO - Southern District
 
 <details>
 <summary>0/4</summary>
-```
 BE - Belait District
 BM - Brunei-Muara District
 TE - Temburong District
 TU - Tutong District
-
-```
 </details>
 
 
@@ -791,7 +713,6 @@ TU - Tutong District
 
 <details>
 <summary>28/28</summary>
-```
 <img src='out/BG/01.png' width='64'/> 01 - Blagoevgrad Province ✔️
 <img src='out/BG/02.png' width='64'/> 02 - Burgas Province ✔️
 <img src='out/BG/08.png' width='64'/> 08 - Dobrich Province ✔️
@@ -820,8 +741,6 @@ TU - Tutong District
 <img src='out/BG/05.png' width='64'/> 05 - Vidin Province ✔️
 <img src='out/BG/06.png' width='64'/> 06 - Vratsa Province ✔️
 <img src='out/BG/28.png' width='64'/> 28 - Yambol Province ✔️
-
-```
 </details>
 
 
@@ -829,7 +748,6 @@ TU - Tutong District
 
 <details>
 <summary>0/57</summary>
-```
 BAL - Balé Province
 BAM - Bam Province
 BAN - Banwa Province
@@ -887,8 +805,6 @@ YAT - Yatenga Province
 ZIR - Ziro Province
 ZON - Zondoma Province
 ZOU - Zoundwéogo Province
-
-```
 </details>
 
 
@@ -896,7 +812,6 @@ ZOU - Zoundwéogo Province
 
 <details>
 <summary>0/18</summary>
-```
 BB - Bubanza Province
 BM - Bujumbura Mairie Province
 BL - Bujumbura Rural Province
@@ -915,8 +830,6 @@ NG - Ngozi Province
 RM - Rumonge Province
 RT - Rutana Province
 RY - Ruyigi Province
-
-```
 </details>
 
 
@@ -924,7 +837,6 @@ RY - Ruyigi Province
 
 <details>
 <summary>0/24</summary>
-```
 1 - Banteay Meanchey
 2 - Battambang
 3 - Kampong Cham
@@ -949,8 +861,6 @@ RY - Ruyigi Province
 19 - Stung Treng
 20 - Svay Rieng
 21 - Takeo
-
-```
 </details>
 
 
@@ -958,7 +868,6 @@ RY - Ruyigi Province
 
 <details>
 <summary>0/10</summary>
-```
 AD - Adamawa
 CE - Centre
 ES - East
@@ -969,8 +878,6 @@ NW - Northwest
 SU - South
 SW - Southwest
 OU - West
-
-```
 </details>
 
 
@@ -978,7 +885,6 @@ OU - West
 
 <details>
 <summary>13/13</summary>
-```
 <img src='out/CA/AB.png' width='64'/> AB - Alberta ✔️
 <img src='out/CA/BC.png' width='64'/> BC - British Columbia ✔️
 <img src='out/CA/MB.png' width='64'/> MB - Manitoba ✔️
@@ -992,8 +898,6 @@ OU - West
 <img src='out/CA/QC.png' width='64'/> QC - Quebec ✔️
 <img src='out/CA/SK.png' width='64'/> SK - Saskatchewan ✔️
 <img src='out/CA/YT.png' width='64'/> YT - Yukon ✔️
-
-```
 </details>
 
 
@@ -1001,7 +905,6 @@ OU - West
 
 <details>
 <summary>4/23</summary>
-```
 <img src='out/CV/B.png' width='64'/> B - Barlavento Islands ✔️
 BV - Boa Vista
 BR - Brava
@@ -1025,8 +928,6 @@ SV - São Vicente
 <img src='out/CV/S.png' width='64'/> S - Sotavento Islands ✔️
 TA - Tarrafal
 TS - Tarrafal de São Nicolau
-
-```
 </details>
 
 
@@ -1034,7 +935,6 @@ TS - Tarrafal de São Nicolau
 
 <details>
 <summary>1/17</summary>
-```
 BB - Bamingui-Bangoran Prefecture
 <img src='out/CF/BGF.png' width='64'/> BGF - Bangui ✔️
 BK - Basse-Kotto Prefecture
@@ -1052,8 +952,6 @@ AC - Ouham Prefecture
 OP - Ouham-Pendé Prefecture
 SE - Sangha-Mbaéré
 VK - Vakaga Prefecture
-
-```
 </details>
 
 
@@ -1061,7 +959,6 @@ VK - Vakaga Prefecture
 
 <details>
 <summary>0/23</summary>
-```
 BG - Bahr el Gazel
 BA - Batha
 BO - Borkou
@@ -1085,8 +982,6 @@ SI - Sila
 TA - Tandjilé
 TI - Tibesti
 WF - Wadi Fira
-
-```
 </details>
 
 
@@ -1094,7 +989,6 @@ WF - Wadi Fira
 
 <details>
 <summary>16/16</summary>
-```
 <img src='out/CL/AI.png' width='64'/> AI - Aisén del General Carlos Ibañez del Campo ✔️
 <img src='out/CL/AN.png' width='64'/> AN - Antofagasta ✔️
 <img src='out/CL/AP.png' width='64'/> AP - Arica y Parinacota ✔️
@@ -1111,8 +1005,6 @@ WF - Wadi Fira
 <img src='out/CL/RM.png' width='64'/> RM - Región Metropolitana de Santiago ✔️
 <img src='out/CL/TA.png' width='64'/> TA - Tarapacá ✔️
 <img src='out/CL/VS.png' width='64'/> VS - Valparaíso ✔️
-
-```
 </details>
 
 
@@ -1120,7 +1012,6 @@ WF - Wadi Fira
 
 <details>
 <summary>31/34</summary>
-```
 <img src='out/CN/AH.png' width='64'/> AH - Anhui ✔️
 <img src='out/CN/BJ.png' width='64'/> BJ - Beijing ✔️
 <img src='out/CN/CQ.png' width='64'/> CQ - Chongqing ✔️
@@ -1155,8 +1046,6 @@ NX - Ningxia Huizu
 XZ - Xizang
 <img src='out/CN/YN.png' width='64'/> YN - Yunnan ✔️
 <img src='out/CN/ZJ.png' width='64'/> ZJ - Zhejiang ✔️
-
-```
 </details>
 
 
@@ -1164,7 +1053,6 @@ XZ - Xizang
 
 <details>
 <summary>33/33</summary>
-```
 <img src='out/CO/AMA.png' width='64'/> AMA - Amazonas ✔️
 <img src='out/CO/ANT.png' width='64'/> ANT - Antioquia ✔️
 <img src='out/CO/ARA.png' width='64'/> ARA - Arauca ✔️
@@ -1198,8 +1086,6 @@ XZ - Xizang
 <img src='out/CO/VAC.png' width='64'/> VAC - Valle del Cauca ✔️
 <img src='out/CO/VAU.png' width='64'/> VAU - Vaupés ✔️
 <img src='out/CO/VID.png' width='64'/> VID - Vichada ✔️
-
-```
 </details>
 
 
@@ -1207,12 +1093,9 @@ XZ - Xizang
 
 <details>
 <summary>3/3</summary>
-```
 <img src='out/KM/A.png' width='64'/> A - Anjouan ✔️
 <img src='out/KM/G.png' width='64'/> G - Grande Comore ✔️
 <img src='out/KM/M.png' width='64'/> M - Mohéli ✔️
-
-```
 </details>
 
 
@@ -1220,7 +1103,6 @@ XZ - Xizang
 
 <details>
 <summary>1/12</summary>
-```
 11 - Bouenza Department
 <img src='out/CG/BZV.png' width='64'/> BZV - Brazzaville ✔️
 8 - Cuvette Department
@@ -1233,8 +1115,6 @@ XZ - Xizang
 16 - Pointe-Noire
 12 - Pool Department
 13 - Sangha Department
-
-```
 </details>
 
 
@@ -1242,7 +1122,6 @@ XZ - Xizang
 
 <details>
 <summary>7/7</summary>
-```
 <img src='out/CR/A.png' width='64'/> A - Alajuela Province ✔️
 <img src='out/CR/G.png' width='64'/> G - Guanacaste Province ✔️
 <img src='out/CR/H.png' width='64'/> H - Heredia Province ✔️
@@ -1250,8 +1129,6 @@ XZ - Xizang
 <img src='out/CR/C.png' width='64'/> C - Provincia de Cartago ✔️
 <img src='out/CR/P.png' width='64'/> P - Puntarenas Province ✔️
 <img src='out/CR/SJ.png' width='64'/> SJ - San José Province ✔️
-
-```
 </details>
 
 
@@ -1259,7 +1136,6 @@ XZ - Xizang
 
 <details>
 <summary>0/31</summary>
-```
 AB - Abidjan
 16 - Agnéby
 17 - Bafing Region
@@ -1291,8 +1167,6 @@ WR - Woroba District
 14 - Worodougou
 YM - Yamoussoukro
 ZZ - Zanzan Region
-
-```
 </details>
 
 
@@ -1300,7 +1174,6 @@ ZZ - Zanzan Region
 
 <details>
 <summary>19/21</summary>
-```
 <img src='out/HR/07.png' width='64'/> 07 - Bjelovar-Bilogora ✔️
 <img src='out/HR/12.png' width='64'/> 12 - Brod-Posavina ✔️
 <img src='out/HR/19.png' width='64'/> 19 - Dubrovnik-Neretva ✔️
@@ -1322,8 +1195,6 @@ ZZ - Zanzan Region
 <img src='out/HR/13.png' width='64'/> 13 - Zadar ✔️
 <img src='out/HR/01.png' width='64'/> 01 - Zagreb ✔️
 <img src='out/HR/21.png' width='64'/> 21 - Zagreb ✔️
-
-```
 </details>
 
 
@@ -1331,7 +1202,6 @@ ZZ - Zanzan Region
 
 <details>
 <summary>16/16</summary>
-```
 <img src='out/CU/15.png' width='64'/> 15 - Artemisa Province ✔️
 <img src='out/CU/09.png' width='64'/> 09 - Camagüey Province ✔️
 <img src='out/CU/08.png' width='64'/> 08 - Ciego de Ávila Province ✔️
@@ -1348,8 +1218,6 @@ ZZ - Zanzan Region
 <img src='out/CU/07.png' width='64'/> 07 - Sancti Spíritus Province ✔️
 <img src='out/CU/13.png' width='64'/> 13 - Santiago de Cuba Province ✔️
 <img src='out/CU/05.png' width='64'/> 05 - Villa Clara Province ✔️
-
-```
 </details>
 
 
@@ -1357,15 +1225,12 @@ ZZ - Zanzan Region
 
 <details>
 <summary>1/6</summary>
-```
 04 - Famagusta District (Mağusa)
 06 - Kyrenia District (Keryneia)
 03 - Larnaca District (Larnaka)
 02 - Limassol District (Leymasun)
 <img src='out/CY/01.png' width='64'/> 01 - Nicosia District (Lefkoşa) ✔️
 05 - Paphos District (Pafos)
-
-```
 </details>
 
 
@@ -1373,7 +1238,6 @@ ZZ - Zanzan Region
 
 <details>
 <summary>87/90</summary>
-```
 <img src='out/CZ/201.png' width='64'/> 201 - Benešov ✔️
 <img src='out/CZ/202.png' width='64'/> 202 - Beroun ✔️
 <img src='out/CZ/641.png' width='64'/> 641 - Blansko ✔️
@@ -1464,8 +1328,6 @@ ZZ - Zanzan Region
 <img src='out/CZ/724.png' width='64'/> 724 - Zlín ✔️
 <img src='out/CZ/72.png' width='64'/> 72 - Zlínský kraj ✔️
 <img src='out/CZ/647.png' width='64'/> 647 - Znojmo ✔️
-
-```
 </details>
 
 
@@ -1473,7 +1335,6 @@ ZZ - Zanzan Region
 
 <details>
 <summary>0/26</summary>
-```
 BU - Bas-Uélé
 EQ - Équateur
 HK - Haut-Katanga
@@ -1500,8 +1361,6 @@ SU - Sud-Ubangi
 TA - Tanganyika
 TO - Tshopo
 TU - Tshuapa
-
-```
 </details>
 
 
@@ -1509,14 +1368,11 @@ TU - Tshuapa
 
 <details>
 <summary>4/5</summary>
-```
 <img src='out/DK/84.png' width='64'/> 84 - Capital Region of Denmark ✔️
 <img src='out/DK/82.png' width='64'/> 82 - Central Denmark Region ✔️
 81 - North Denmark Region
 <img src='out/DK/83.png' width='64'/> 83 - Region of Southern Denmark ✔️
 <img src='out/DK/85.png' width='64'/> 85 - Region Zealand ✔️
-
-```
 </details>
 
 
@@ -1524,15 +1380,12 @@ TU - Tshuapa
 
 <details>
 <summary>0/6</summary>
-```
 AS - Ali Sabieh Region
 AR - Arta Region
 DI - Dikhil Region
 DJ - Djibouti
 OB - Obock Region
 TA - Tadjourah Region
-
-```
 </details>
 
 
@@ -1540,7 +1393,6 @@ TA - Tadjourah Region
 
 <details>
 <summary>0/10</summary>
-```
 02 - Saint Andrew Parish
 03 - Saint David Parish
 04 - Saint George Parish
@@ -1551,8 +1403,6 @@ TA - Tadjourah Region
 09 - Saint Patrick Parish
 10 - Saint Paul Parish
 11 - Saint Peter Parish
-
-```
 </details>
 
 
@@ -1560,7 +1410,6 @@ TA - Tadjourah Region
 
 <details>
 <summary>31/31</summary>
-```
 <img src='out/DO/02.png' width='64'/> 02 - Azua Province ✔️
 <img src='out/DO/03.png' width='64'/> 03 - Baoruco Province ✔️
 <img src='out/DO/04.png' width='64'/> 04 - Barahona Province ✔️
@@ -1592,8 +1441,6 @@ TA - Tadjourah Region
 <img src='out/DO/26.png' width='64'/> 26 - Santiago Rodríguez Province ✔️
 <img src='out/DO/32.png' width='64'/> 32 - Santo Domingo Province ✔️
 <img src='out/DO/27.png' width='64'/> 27 - Valverde Province ✔️
-
-```
 </details>
 
 
@@ -1601,7 +1448,6 @@ TA - Tadjourah Region
 
 <details>
 <summary>12/12</summary>
-```
 <img src='out/TL/AL.png' width='64'/> AL - Aileu municipality ✔️
 <img src='out/TL/AN.png' width='64'/> AN - Ainaro Municipality ✔️
 <img src='out/TL/BA.png' width='64'/> BA - Baucau Municipality ✔️
@@ -1614,8 +1460,6 @@ TA - Tadjourah Region
 <img src='out/TL/MT.png' width='64'/> MT - Manatuto District ✔️
 <img src='out/TL/MF.png' width='64'/> MF - Manufahi Municipality ✔️
 <img src='out/TL/VI.png' width='64'/> VI - Viqueque Municipality ✔️
-
-```
 </details>
 
 
@@ -1623,7 +1467,6 @@ TA - Tadjourah Region
 
 <details>
 <summary>24/24</summary>
-```
 <img src='out/EC/A.png' width='64'/> A - Azuay ✔️
 <img src='out/EC/B.png' width='64'/> B - Bolívar ✔️
 <img src='out/EC/F.png' width='64'/> F - Cañar ✔️
@@ -1648,8 +1491,6 @@ TA - Tadjourah Region
 <img src='out/EC/U.png' width='64'/> U - Sucumbíos ✔️
 <img src='out/EC/T.png' width='64'/> T - Tungurahua ✔️
 <img src='out/EC/Z.png' width='64'/> Z - Zamora Chinchipe ✔️
-
-```
 </details>
 
 
@@ -1657,7 +1498,6 @@ TA - Tadjourah Region
 
 <details>
 <summary>27/27</summary>
-```
 <img src='out/EG/ALX.png' width='64'/> ALX - Alexandria ✔️
 <img src='out/EG/ASN.png' width='64'/> ASN - Aswan ✔️
 <img src='out/EG/AST.png' width='64'/> AST - Asyut ✔️
@@ -1685,8 +1525,6 @@ TA - Tadjourah Region
 <img src='out/EG/SHG.png' width='64'/> SHG - Sohag ✔️
 <img src='out/EG/JS.png' width='64'/> JS - South Sinai ✔️
 <img src='out/EG/SUZ.png' width='64'/> SUZ - Suez ✔️
-
-```
 </details>
 
 
@@ -1694,7 +1532,6 @@ TA - Tadjourah Region
 
 <details>
 <summary>14/14</summary>
-```
 <img src='out/SV/AH.png' width='64'/> AH - Ahuachapán Department ✔️
 <img src='out/SV/CA.png' width='64'/> CA - Cabañas Department ✔️
 <img src='out/SV/CH.png' width='64'/> CH - Chalatenango Department ✔️
@@ -1709,8 +1546,6 @@ TA - Tadjourah Region
 <img src='out/SV/SA.png' width='64'/> SA - Santa Ana Department ✔️
 <img src='out/SV/SO.png' width='64'/> SO - Sonsonate Department ✔️
 <img src='out/SV/US.png' width='64'/> US - Usulután Department ✔️
-
-```
 </details>
 
 
@@ -1718,7 +1553,6 @@ TA - Tadjourah Region
 
 <details>
 <summary>9/9</summary>
-```
 <img src='out/GQ/AN.png' width='64'/> AN - Annobón Province ✔️
 <img src='out/GQ/BN.png' width='64'/> BN - Bioko Norte Province ✔️
 <img src='out/GQ/BS.png' width='64'/> BS - Bioko Sur Province ✔️
@@ -1728,8 +1562,6 @@ TA - Tadjourah Region
 <img src='out/GQ/LI.png' width='64'/> LI - Litoral Province ✔️
 <img src='out/GQ/C.png' width='64'/> C - Río Muni ✔️
 <img src='out/GQ/WN.png' width='64'/> WN - Wele-Nzas Province ✔️
-
-```
 </details>
 
 
@@ -1737,15 +1569,12 @@ TA - Tadjourah Region
 
 <details>
 <summary>0/6</summary>
-```
 AN - Anseba Region
 DU - Debub Region
 GB - Gash-Barka Region
 MA - Maekel Region
 SK - Northern Red Sea Region
 DK - Southern Red Sea Region
-
-```
 </details>
 
 
@@ -1753,7 +1582,6 @@ DK - Southern Red Sea Region
 
 <details>
 <summary>15/15</summary>
-```
 <img src='out/EE/37.png' width='64'/> 37 - Harju County ✔️
 <img src='out/EE/39.png' width='64'/> 39 - Hiiu County ✔️
 <img src='out/EE/44.png' width='64'/> 44 - Ida-Viru County ✔️
@@ -1769,8 +1597,6 @@ DK - Southern Red Sea Region
 <img src='out/EE/82.png' width='64'/> 82 - Valga County ✔️
 <img src='out/EE/84.png' width='64'/> 84 - Viljandi County ✔️
 <img src='out/EE/86.png' width='64'/> 86 - Võru County ✔️
-
-```
 </details>
 
 
@@ -1778,7 +1604,6 @@ DK - Southern Red Sea Region
 
 <details>
 <summary>11/11</summary>
-```
 <img src='out/ET/AA.png' width='64'/> AA - Addis Ababa ✔️
 <img src='out/ET/AF.png' width='64'/> AF - Afar Region ✔️
 <img src='out/ET/AM.png' width='64'/> AM - Amhara Region ✔️
@@ -1790,8 +1615,6 @@ DK - Southern Red Sea Region
 <img src='out/ET/SO.png' width='64'/> SO - Somali Region ✔️
 <img src='out/ET/SN.png' width='64'/> SN - Southern Nations, Nationalities, and Peoples' Region ✔️
 <img src='out/ET/TI.png' width='64'/> TI - Tigray Region ✔️
-
-```
 </details>
 
 
@@ -1799,7 +1622,6 @@ DK - Southern Red Sea Region
 
 <details>
 <summary>0/19</summary>
-```
 01 - Ba
 02 - Bua
 03 - Cakaudrove
@@ -1819,8 +1641,6 @@ R - Rotuma
 13 - Serua
 14 - Tailevu
 W - Western Division
-
-```
 </details>
 
 
@@ -1828,7 +1648,6 @@ W - Western Division
 
 <details>
 <summary>14/19</summary>
-```
 <img src='out/FI/01.png' width='64'/> 01 - Åland Islands ✔️
 <img src='out/FI/08.png' width='64'/> 08 - Central Finland ✔️
 <img src='out/FI/07.png' width='64'/> 07 - Central Ostrobothnia ✔️
@@ -1848,8 +1667,6 @@ W - Western Division
 04 - Southern Savonia
 <img src='out/FI/06.png' width='64'/> 06 - Tavastia Proper ✔️
 <img src='out/FI/18.png' width='64'/> 18 - Uusimaa ✔️
-
-```
 </details>
 
 
@@ -1857,7 +1674,6 @@ W - Western Division
 
 <details>
 <summary>133/123</summary>
-```
 <img src='out/FR/01.png' width='64'/> 01 - Ain ✔️
 <img src='out/FR/02.png' width='64'/> 02 - Aisne ✔️
 <img src='out/FR/03.png' width='64'/> 03 - Allier ✔️
@@ -1981,8 +1797,6 @@ MF - Saint-Martin
 <img src='out/FR/WF.png' width='64'/> WF - Wallis and Futuna ✔️
 <img src='out/FR/89.png' width='64'/> 89 - Yonne ✔️
 <img src='out/FR/78.png' width='64'/> 78 - Yvelines ✔️
-
-```
 </details>
 
 
@@ -1990,7 +1804,6 @@ MF - Saint-Martin
 
 <details>
 <summary>9/9</summary>
-```
 <img src='out/GA/1.png' width='64'/> 1 - Estuaire Province ✔️
 <img src='out/GA/2.png' width='64'/> 2 - Haut-Ogooué Province ✔️
 <img src='out/GA/3.png' width='64'/> 3 - Moyen-Ogooué Province ✔️
@@ -2000,8 +1813,6 @@ MF - Saint-Martin
 <img src='out/GA/7.png' width='64'/> 7 - Ogooué-Lolo Province ✔️
 <img src='out/GA/8.png' width='64'/> 8 - Ogooué-Maritime Province ✔️
 <img src='out/GA/9.png' width='64'/> 9 - Woleu-Ntem Province ✔️
-
-```
 </details>
 
 
@@ -2009,15 +1820,12 @@ MF - Saint-Martin
 
 <details>
 <summary>0/6</summary>
-```
 B - Banjul
 M - Central River Division
 L - Lower River Division
 N - North Bank Division
 U - Upper River Division
 W - West Coast Division
-
-```
 </details>
 
 
@@ -2025,7 +1833,6 @@ W - West Coast Division
 
 <details>
 <summary>4/14</summary>
-```
 <img src='out/GE/AJ.png' width='64'/> AJ - Adjara ✔️
 AB - Autonomous Republic of Abkhazia
 GU - Guria
@@ -2040,8 +1847,6 @@ SJ - Samtskhe-Javakheti
 50 - Senaki Municipality
 SK - Shida Kartli
 <img src='out/GE/TB.png' width='64'/> TB - Tbilisi ✔️
-
-```
 </details>
 
 
@@ -2049,7 +1854,6 @@ SK - Shida Kartli
 
 <details>
 <summary>16/16</summary>
-```
 <img src='out/DE/BW.png' width='64'/> BW - Baden-Württemberg ✔️
 <img src='out/DE/BY.png' width='64'/> BY - Bavaria ✔️
 <img src='out/DE/BE.png' width='64'/> BE - Berlin ✔️
@@ -2066,8 +1870,6 @@ SK - Shida Kartli
 <img src='out/DE/ST.png' width='64'/> ST - Saxony-Anhalt ✔️
 <img src='out/DE/SH.png' width='64'/> SH - Schleswig-Holstein ✔️
 <img src='out/DE/TH.png' width='64'/> TH - Thuringia ✔️
-
-```
 </details>
 
 
@@ -2075,7 +1877,6 @@ SK - Shida Kartli
 
 <details>
 <summary>15/16</summary>
-```
 <img src='out/GH/AF.png' width='64'/> AF - Ahafo ✔️
 <img src='out/GH/AH.png' width='64'/> AH - Ashanti ✔️
 <img src='out/GH/BO.png' width='64'/> BO - Bono ✔️
@@ -2092,8 +1893,6 @@ SV - Savannah
 <img src='out/GH/TV.png' width='64'/> TV - Volta ✔️
 <img src='out/GH/WP.png' width='64'/> WP - Western ✔️
 <img src='out/GH/WN.png' width='64'/> WN - Western North ✔️
-
-```
 </details>
 
 
@@ -2101,7 +1900,6 @@ SV - Savannah
 
 <details>
 <summary>9/38</summary>
-```
 13 - Achaea Regional Unit
 01 - Aetolia-Acarnania Regional Unit
 12 - Arcadia Prefecture
@@ -2140,8 +1938,6 @@ A - East Macedonia and Thrace
 54 - Thessaloniki Regional Unit
 G - West Greece Region
 C - West Macedonia Region
-
-```
 </details>
 
 
@@ -2149,7 +1945,6 @@ C - West Macedonia Region
 
 <details>
 <summary>0/7</summary>
-```
 10 - Carriacou and Petite Martinique
 01 - Saint Andrew Parish
 02 - Saint David Parish
@@ -2157,8 +1952,6 @@ C - West Macedonia Region
 04 - Saint John Parish
 05 - Saint Mark Parish
 06 - Saint Patrick Parish
-
-```
 </details>
 
 
@@ -2166,7 +1959,6 @@ C - West Macedonia Region
 
 <details>
 <summary>21/21</summary>
-```
 <img src='out/GT/AV.png' width='64'/> AV - Alta Verapaz Department ✔️
 <img src='out/GT/BV.png' width='64'/> BV - Baja Verapaz Department ✔️
 <img src='out/GT/CM.png' width='64'/> CM - Chimaltenango Department ✔️
@@ -2188,8 +1980,6 @@ C - West Macedonia Region
 <img src='out/GT/SO.png' width='64'/> SO - Sololá Department ✔️
 <img src='out/GT/SU.png' width='64'/> SU - Suchitepéquez Department ✔️
 <img src='out/GT/TO.png' width='64'/> TO - Totonicapán Department ✔️
-
-```
 </details>
 
 
@@ -2197,7 +1987,6 @@ C - West Macedonia Region
 
 <details>
 <summary>0/40</summary>
-```
 BE - Beyla Prefecture
 BF - Boffa Prefecture
 BK - Boké Prefecture
@@ -2238,8 +2027,6 @@ SI - Siguiri Prefecture
 TE - Télimélé Prefecture
 TO - Tougué Prefecture
 YO - Yomou Prefecture
-
-```
 </details>
 
 
@@ -2247,7 +2034,6 @@ YO - Yomou Prefecture
 
 <details>
 <summary>8/11</summary>
-```
 <img src='out/GW/BA.png' width='64'/> BA - Bafatá ✔️
 <img src='out/GW/BM.png' width='64'/> BM - Biombo Region ✔️
 <img src='out/GW/BL.png' width='64'/> BL - Bolama Region ✔️
@@ -2259,8 +2045,6 @@ N - Norte Province
 <img src='out/GW/QU.png' width='64'/> QU - Quinara Region ✔️
 S - Sul Province
 <img src='out/GW/TO.png' width='64'/> TO - Tombali Region ✔️
-
-```
 </details>
 
 
@@ -2268,7 +2052,6 @@ S - Sul Province
 
 <details>
 <summary>0/10</summary>
-```
 BA - Barima-Waini
 CU - Cuyuni-Mazaruni
 DE - Demerara-Mahaica
@@ -2279,8 +2062,6 @@ PM - Pomeroon-Supenaam
 PT - Potaro-Siparuni
 UD - Upper Demerara-Berbice
 UT - Upper Takutu-Upper Essequibo
-
-```
 </details>
 
 
@@ -2288,7 +2069,6 @@ UT - Upper Takutu-Upper Essequibo
 
 <details>
 <summary>0/10</summary>
-```
 AR - Artibonite
 CE - Centre
 GA - Grand'Anse
@@ -2299,8 +2079,6 @@ NO - Nord-Ouest
 OU - Ouest
 SD - Sud
 SE - Sud-Est
-
-```
 </details>
 
 
@@ -2308,7 +2086,6 @@ SE - Sud-Est
 
 <details>
 <summary>18/18</summary>
-```
 <img src='out/HN/AT.png' width='64'/> AT - Atlántida Department ✔️
 <img src='out/HN/IB.png' width='64'/> IB - Bay Islands Department ✔️
 <img src='out/HN/CH.png' width='64'/> CH - Choluteca Department ✔️
@@ -2327,8 +2104,6 @@ SE - Sud-Est
 <img src='out/HN/SB.png' width='64'/> SB - Santa Bárbara Department ✔️
 <img src='out/HN/VA.png' width='64'/> VA - Valle Department ✔️
 <img src='out/HN/YO.png' width='64'/> YO - Yoro Department ✔️
-
-```
 </details>
 
 
@@ -2336,7 +2111,6 @@ SE - Sud-Est
 
 <details>
 <summary>0/18</summary>
-```
 HCW - Central and Western
 HEA - Eastern
 NIS - Islands
@@ -2355,8 +2129,6 @@ HWC - Wan Chai
 KWT - Wong Tai Sin
 KYT - Yau Tsim Mong
 NYL - Yuen Long
-
-```
 </details>
 
 
@@ -2364,7 +2136,6 @@ NYL - Yuen Long
 
 <details>
 <summary>43/43</summary>
-```
 <img src='out/HU/BK.png' width='64'/> BK - Bács-Kiskun ✔️
 <img src='out/HU/BA.png' width='64'/> BA - Baranya ✔️
 <img src='out/HU/BE.png' width='64'/> BE - Békés ✔️
@@ -2408,8 +2179,6 @@ NYL - Yuen Long
 <img src='out/HU/VE.png' width='64'/> VE - Veszprém County ✔️
 <img src='out/HU/ZA.png' width='64'/> ZA - Zala County ✔️
 <img src='out/HU/ZE.png' width='64'/> ZE - Zalaegerszeg ✔️
-
-```
 </details>
 
 
@@ -2417,7 +2186,6 @@ NYL - Yuen Long
 
 <details>
 <summary>0/8</summary>
-```
 1 - Capital Region
 7 - Eastern Region
 6 - Northeastern Region
@@ -2426,8 +2194,6 @@ NYL - Yuen Long
 8 - Southern Region
 3 - Western Region
 4 - Westfjords
-
-```
 </details>
 
 
@@ -2435,7 +2201,6 @@ NYL - Yuen Long
 
 <details>
 <summary>36/36</summary>
-```
 <img src='out/IN/AN.png' width='64'/> AN - Andaman and Nicobar Islands ✔️
 <img src='out/IN/AP.png' width='64'/> AP - Andhra Pradesh ✔️
 <img src='out/IN/AR.png' width='64'/> AR - Arunachal Pradesh ✔️
@@ -2472,8 +2237,6 @@ NYL - Yuen Long
 <img src='out/IN/UP.png' width='64'/> UP - Uttar Pradesh ✔️
 <img src='out/IN/UT.png' width='64'/> UT - Uttarakhand ✔️
 <img src='out/IN/WB.png' width='64'/> WB - West Bengal ✔️
-
-```
 </details>
 
 
@@ -2481,7 +2244,6 @@ NYL - Yuen Long
 
 <details>
 <summary>34/34</summary>
-```
 <img src='out/ID/AC.png' width='64'/> AC - Aceh ✔️
 <img src='out/ID/BA.png' width='64'/> BA - Bali ✔️
 <img src='out/ID/BT.png' width='64'/> BT - Banten ✔️
@@ -2516,8 +2278,6 @@ NYL - Yuen Long
 <img src='out/ID/SB.png' width='64'/> SB - Sumatera Barat ✔️
 <img src='out/ID/SS.png' width='64'/> SS - Sumatera Selatan ✔️
 <img src='out/ID/SU.png' width='64'/> SU - Sumatera Utara ✔️
-
-```
 </details>
 
 
@@ -2525,7 +2285,6 @@ NYL - Yuen Long
 
 <details>
 <summary>11/31</summary>
-```
 30 - Alborz
 <img src='out/IR/24.png' width='64'/> 24 - Ardabil ✔️
 <img src='out/IR/18.png' width='64'/> 18 - Bushehr ✔️
@@ -2557,8 +2316,6 @@ NYL - Yuen Long
 04 - West Azarbaijan
 <img src='out/IR/21.png' width='64'/> 21 - Yazd ✔️
 19 - Zanjan
-
-```
 </details>
 
 
@@ -2566,7 +2323,6 @@ NYL - Yuen Long
 
 <details>
 <summary>9/18</summary>
-```
 <img src='out/IQ/AN.png' width='64'/> AN - Al Anbar ✔️
 MU - Al Muthanna
 QA - Al-Qādisiyyah
@@ -2585,8 +2341,6 @@ NA - Najaf
 <img src='out/IQ/SD.png' width='64'/> SD - Saladin ✔️
 <img src='out/IQ/SU.png' width='64'/> SU - Sulaymaniyah ✔️
 <img src='out/IQ/WA.png' width='64'/> WA - Wasit ✔️
-
-```
 </details>
 
 
@@ -2594,7 +2348,6 @@ NA - Najaf
 
 <details>
 <summary>29/29</summary>
-```
 <img src='out/IE/CW.png' width='64'/> CW - Carlow ✔️
 <img src='out/IE/CN.png' width='64'/> CN - Cavan ✔️
 <img src='out/IE/CE.png' width='64'/> CE - Clare ✔️
@@ -2624,8 +2377,6 @@ NA - Najaf
 <img src='out/IE/WH.png' width='64'/> WH - Westmeath ✔️
 <img src='out/IE/WX.png' width='64'/> WX - Wexford ✔️
 <img src='out/IE/WW.png' width='64'/> WW - Wicklow ✔️
-
-```
 </details>
 
 
@@ -2633,15 +2384,12 @@ NA - Najaf
 
 <details>
 <summary>3/6</summary>
-```
 M - Central District
 <img src='out/IL/HA.png' width='64'/> HA - Haifa District ✔️
 <img src='out/IL/JM.png' width='64'/> JM - Jerusalem District ✔️
 Z - Northern District
 D - Southern District
 <img src='out/IL/TA.png' width='64'/> TA - Tel Aviv District ✔️
-
-```
 </details>
 
 
@@ -2649,7 +2397,6 @@ D - Southern District
 
 <details>
 <summary>120/111</summary>
-```
 <img src='out/IT/65.png' width='64'/> 65 - Abruzzo ✔️
 <img src='out/IT/AG.png' width='64'/> AG - Agrigento ✔️
 <img src='out/IT/AL.png' width='64'/> AL - Alessandria ✔️
@@ -2761,8 +2508,6 @@ SU - South Sardinia
 <img src='out/IT/VV.png' width='64'/> VV - Vibo Valentia ✔️
 <img src='out/IT/VI.png' width='64'/> VI - Vicenza ✔️
 <img src='out/IT/VT.png' width='64'/> VT - Viterbo ✔️
-
-```
 </details>
 
 
@@ -2770,7 +2515,6 @@ SU - South Sardinia
 
 <details>
 <summary>0/14</summary>
-```
 13 - Clarendon Parish
 09 - Hanover Parish
 01 - Kingston Parish
@@ -2785,8 +2529,6 @@ SU - South Sardinia
 03 - Saint Thomas Parish
 07 - Trelawny Parish
 10 - Westmoreland Parish
-
-```
 </details>
 
 
@@ -2794,7 +2536,6 @@ SU - South Sardinia
 
 <details>
 <summary>47/47</summary>
-```
 <img src='out/JP/23.png' width='64'/> 23 - Aichi Prefecture ✔️
 <img src='out/JP/05.png' width='64'/> 05 - Akita Prefecture ✔️
 <img src='out/JP/02.png' width='64'/> 02 - Aomori Prefecture ✔️
@@ -2842,8 +2583,6 @@ SU - South Sardinia
 <img src='out/JP/06.png' width='64'/> 06 - Yamagata Prefecture ✔️
 <img src='out/JP/35.png' width='64'/> 35 - Yamaguchi Prefecture ✔️
 <img src='out/JP/19.png' width='64'/> 19 - Yamanashi Prefecture ✔️
-
-```
 </details>
 
 
@@ -2851,7 +2590,6 @@ SU - South Sardinia
 
 <details>
 <summary>2/12</summary>
-```
 AJ - Ajloun
 <img src='out/JO/AM.png' width='64'/> AM - Amman ✔️
 AQ - Aqaba
@@ -2864,8 +2602,6 @@ MD - Madaba
 MA - Mafraq
 AT - Tafilah
 AZ - Zarqa
-
-```
 </details>
 
 
@@ -2873,7 +2609,6 @@ AZ - Zarqa
 
 <details>
 <summary>9/17</summary>
-```
 AKM - Akmola Region
 <img src='out/KZ/AKT.png' width='64'/> AKT - Aktobe Region ✔️
 <img src='out/KZ/ALA.png' width='64'/> ALA - Almaty ✔️
@@ -2891,8 +2626,6 @@ SEV - North Kazakhstan Region
 <img src='out/KZ/PAV.png' width='64'/> PAV - Pavlodar Region ✔️
 YUZ - Turkestan Region
 ZAP - West Kazakhstan Province
-
-```
 </details>
 
 
@@ -2900,7 +2633,6 @@ ZAP - West Kazakhstan Province
 
 <details>
 <summary>45/47</summary>
-```
 <img src='out/KE/01.png' width='64'/> 01 - Baringo ✔️
 <img src='out/KE/02.png' width='64'/> 02 - Bomet ✔️
 <img src='out/KE/03.png' width='64'/> 03 - Bungoma ✔️
@@ -2948,8 +2680,6 @@ ZAP - West Kazakhstan Province
 <img src='out/KE/45.png' width='64'/> 45 - Vihiga ✔️
 <img src='out/KE/46.png' width='64'/> 46 - Wajir ✔️
 <img src='out/KE/47.png' width='64'/> 47 - West Pokot ✔️
-
-```
 </details>
 
 
@@ -2957,12 +2687,9 @@ ZAP - West Kazakhstan Province
 
 <details>
 <summary>0/3</summary>
-```
 G - Gilbert Islands
 L - Line Islands
 P - Phoenix Islands
-
-```
 </details>
 
 
@@ -2970,7 +2697,6 @@ P - Phoenix Islands
 
 <details>
 <summary>3/7</summary>
-```
 XDG - Đakovica District (Gjakove)
 <img src='out/XK/XGJ.png' width='64'/> XGJ - Gjilan District ✔️
 XKM - Kosovska Mitrovica District
@@ -2978,8 +2704,6 @@ XPE - Peć District
 <img src='out/XK/XPI.png' width='64'/> XPI - Pristina (Priştine) ✔️
 <img src='out/XK/XPR.png' width='64'/> XPR - Prizren District ✔️
 XUF - Uroševac District (Ferizaj)
-
-```
 </details>
 
 
@@ -2987,15 +2711,12 @@ XUF - Uroševac District (Ferizaj)
 
 <details>
 <summary>0/6</summary>
-```
 AH - Al Ahmadi
 FA - Al Farwaniyah
 JA - Al Jahra
 KU - Capital
 HA - Hawalli
 MU - Mubarak Al-Kabeer
-
-```
 </details>
 
 
@@ -3003,7 +2724,6 @@ MU - Mubarak Al-Kabeer
 
 <details>
 <summary>9/9</summary>
-```
 <img src='out/KG/B.png' width='64'/> B - Batken Region ✔️
 <img src='out/KG/GB.png' width='64'/> GB - Bishkek ✔️
 <img src='out/KG/C.png' width='64'/> C - Chuy Region ✔️
@@ -3013,8 +2733,6 @@ MU - Mubarak Al-Kabeer
 <img src='out/KG/GO.png' width='64'/> GO - Osh ✔️
 <img src='out/KG/O.png' width='64'/> O - Osh Region ✔️
 <img src='out/KG/T.png' width='64'/> T - Talas Region ✔️
-
-```
 </details>
 
 
@@ -3022,7 +2740,6 @@ MU - Mubarak Al-Kabeer
 
 <details>
 <summary>0/19</summary>
-```
 AT - Attapeu Province
 BK - Bokeo Province
 BL - Bolikhamsai Province
@@ -3042,8 +2759,6 @@ VI - Vientiane Province
 XN - Xaisomboun
 XS - Xaisomboun Province
 XI - Xiangkhouang Province
-
-```
 </details>
 
 
@@ -3051,7 +2766,6 @@ XI - Xiangkhouang Province
 
 <details>
 <summary>64/118</summary>
-```
 001 - Aglona Municipality
 <img src='out/LV/002.png' width='64'/> 002 - Aizkraukle Municipality ✔️
 <img src='out/LV/003.png' width='64'/> 003 - Aizpute Municipality ✔️
@@ -3170,8 +2884,6 @@ XI - Xiangkhouang Province
 <img src='out/LV/108.png' width='64'/> 108 - Viļaka Municipality ✔️
 109 - Viļāni Municipality
 110 - Zilupe Municipality
-
-```
 </details>
 
 
@@ -3179,7 +2891,6 @@ XI - Xiangkhouang Province
 
 <details>
 <summary>0/8</summary>
-```
 AK - Akkar
 BH - Baalbek-Hermel
 BA - Beirut
@@ -3188,8 +2899,6 @@ JL - Mount Lebanon
 NA - Nabatieh
 AS - North
 JA - South
-
-```
 </details>
 
 
@@ -3197,7 +2906,6 @@ JA - South
 
 <details>
 <summary>0/10</summary>
-```
 D - Berea District
 B - Butha-Buthe District
 C - Leribe District
@@ -3208,8 +2916,6 @@ J - Mokhotlong District
 H - Qacha's Nek District
 G - Quthing District
 K - Thaba-Tseka District
-
-```
 </details>
 
 
@@ -3217,7 +2923,6 @@ K - Thaba-Tseka District
 
 <details>
 <summary>15/15</summary>
-```
 <img src='out/LR/BM.png' width='64'/> BM - Bomi County ✔️
 <img src='out/LR/BG.png' width='64'/> BG - Bong County ✔️
 <img src='out/LR/GP.png' width='64'/> GP - Gbarpolu County ✔️
@@ -3233,8 +2938,6 @@ K - Thaba-Tseka District
 <img src='out/LR/RI.png' width='64'/> RI - River Cess County ✔️
 <img src='out/LR/RG.png' width='64'/> RG - River Gee County ✔️
 <img src='out/LR/SI.png' width='64'/> SI - Sinoe County ✔️
-
-```
 </details>
 
 
@@ -3242,7 +2945,6 @@ K - Thaba-Tseka District
 
 <details>
 <summary>0/21</summary>
-```
 WA - Al Wahat District
 BA - Benghazi
 DR - Derna District
@@ -3264,8 +2966,6 @@ TB - Tripoli District
 WD - Wadi al Hayaa District
 WS - Wadi al Shatii District
 ZA - Zawiya District
-
-```
 </details>
 
 
@@ -3273,7 +2973,6 @@ ZA - Zawiya District
 
 <details>
 <summary>11/11</summary>
-```
 <img src='out/LI/01.png' width='64'/> 01 - Balzers ✔️
 <img src='out/LI/02.png' width='64'/> 02 - Eschen ✔️
 <img src='out/LI/03.png' width='64'/> 03 - Gamprin ✔️
@@ -3285,8 +2984,6 @@ ZA - Zawiya District
 <img src='out/LI/09.png' width='64'/> 09 - Triesen ✔️
 <img src='out/LI/10.png' width='64'/> 10 - Triesenberg ✔️
 <img src='out/LI/11.png' width='64'/> 11 - Vaduz ✔️
-
-```
 </details>
 
 
@@ -3294,7 +2991,6 @@ ZA - Zawiya District
 
 <details>
 <summary>10/69</summary>
-```
 01 - Akmenė District Municipality
 02 - Alytus City Municipality
 <img src='out/LT/AL.png' width='64'/> AL - Alytus County ✔️
@@ -3364,8 +3060,6 @@ ZA - Zawiya District
 58 - Vilnius District Municipality
 59 - Visaginas Municipality
 60 - Zarasai District Municipality
-
-```
 </details>
 
 
@@ -3373,7 +3067,6 @@ ZA - Zawiya District
 
 <details>
 <summary>3/15</summary>
-```
 CA - Canton of Capellen
 CL - Canton of Clervaux
 DI - Canton of Diekirch
@@ -3389,8 +3082,6 @@ VD - Canton of Vianden
 D - Diekirch District
 G - Grevenmacher District
 <img src='out/LU/L.png' width='64'/> L - Luxembourg District ✔️
-
-```
 </details>
 
 
@@ -3398,15 +3089,12 @@ G - Grevenmacher District
 
 <details>
 <summary>0/6</summary>
-```
 T - Antananarivo Province
 D - Antsiranana Province
 F - Fianarantsoa Province
 M - Mahajanga Province
 A - Toamasina Province
 U - Toliara Province
-
-```
 </details>
 
 
@@ -3414,7 +3102,6 @@ U - Toliara Province
 
 <details>
 <summary>0/30</summary>
-```
 BA - Balaka District
 BL - Blantyre District
 C - Central Region
@@ -3445,8 +3132,6 @@ SA - Salima District
 S - Southern Region
 TH - Thyolo District
 ZO - Zomba District
-
-```
 </details>
 
 
@@ -3454,7 +3139,6 @@ ZO - Zomba District
 
 <details>
 <summary>16/16</summary>
-```
 <img src='out/MY/01.png' width='64'/> 01 - Johor ✔️
 <img src='out/MY/02.png' width='64'/> 02 - Kedah ✔️
 <img src='out/MY/03.png' width='64'/> 03 - Kelantan ✔️
@@ -3471,8 +3155,6 @@ ZO - Zomba District
 <img src='out/MY/13.png' width='64'/> 13 - Sarawak ✔️
 <img src='out/MY/10.png' width='64'/> 10 - Selangor ✔️
 <img src='out/MY/11.png' width='64'/> 11 - Terengganu ✔️
-
-```
 </details>
 
 
@@ -3480,7 +3162,6 @@ ZO - Zomba District
 
 <details>
 <summary>0/26</summary>
-```
 01 - Addu Atoll
 02 - Alif Alif Atoll
 00 - Alif Dhaal Atoll
@@ -3507,8 +3188,6 @@ SU - South Province
 08 - Thaa Atoll
 US - Upper South Province
 04 - Vaavu Atoll
-
-```
 </details>
 
 
@@ -3516,7 +3195,6 @@ US - Upper South Province
 
 <details>
 <summary>0/11</summary>
-```
 BKO - Bamako
 7 - Gao Region
 1 - Kayes Region
@@ -3528,8 +3206,6 @@ BKO - Bamako
 3 - Sikasso Region
 10 - Taoudénit Region
 6 - Tombouctou Region
-
-```
 </details>
 
 
@@ -3537,7 +3213,6 @@ BKO - Bamako
 
 <details>
 <summary>67/67</summary>
-```
 <img src='out/MT/01.png' width='64'/> 01 - Attard ✔️
 <img src='out/MT/02.png' width='64'/> 02 - Balzan ✔️
 <img src='out/MT/03.png' width='64'/> 03 - Birgu ✔️
@@ -3605,8 +3280,6 @@ BKO - Bamako
 <img src='out/MT/66.png' width='64'/> 66 - Żebbuġ Malta ✔️
 <img src='out/MT/67.png' width='64'/> 67 - Żejtun ✔️
 <img src='out/MT/68.png' width='64'/> 68 - Żurrieq ✔️
-
-```
 </details>
 
 
@@ -3614,11 +3287,8 @@ BKO - Bamako
 
 <details>
 <summary>2/2</summary>
-```
 <img src='out/MH/L.png' width='64'/> L - Ralik Chain ✔️
 <img src='out/MH/T.png' width='64'/> T - Ratak Chain ✔️
-
-```
 </details>
 
 
@@ -3626,7 +3296,6 @@ BKO - Bamako
 
 <details>
 <summary>0/15</summary>
-```
 07 - Adrar
 03 - Assaba
 05 - Brakna
@@ -3642,8 +3311,6 @@ BKO - Bamako
 09 - Tagant
 11 - Tiris Zemmour
 06 - Trarza
-
-```
 </details>
 
 
@@ -3651,7 +3318,6 @@ BKO - Bamako
 
 <details>
 <summary>6/12</summary>
-```
 AG - Agalega Islands
 BL - Black River
 FL - Flacq
@@ -3664,8 +3330,6 @@ RR - Rivière du Rempart
 <img src='out/MU/RO.png' width='64'/> RO - Rodrigues Island ✔️
 <img src='out/MU/CC.png' width='64'/> CC - Saint Brandon Islands ✔️
 <img src='out/MU/SA.png' width='64'/> SA - Savanne ✔️
-
-```
 </details>
 
 
@@ -3673,7 +3337,6 @@ RR - Rivière du Rempart
 
 <details>
 <summary>32/32</summary>
-```
 <img src='out/MX/AGU.png' width='64'/> AGU - Aguascalientes ✔️
 <img src='out/MX/BCN.png' width='64'/> BCN - Baja California ✔️
 <img src='out/MX/BCS.png' width='64'/> BCS - Baja California Sur ✔️
@@ -3706,8 +3369,6 @@ CDMX - Ciudad de México
 <img src='out/MX/VER.png' width='64'/> VER - Veracruz de Ignacio de la Llave ✔️
 <img src='out/MX/YUC.png' width='64'/> YUC - Yucatán ✔️
 <img src='out/MX/ZAC.png' width='64'/> ZAC - Zacatecas ✔️
-
-```
 </details>
 
 
@@ -3715,13 +3376,10 @@ CDMX - Ciudad de México
 
 <details>
 <summary>4/4</summary>
-```
 <img src='out/FM/TRK.png' width='64'/> TRK - Chuuk State ✔️
 <img src='out/FM/KSA.png' width='64'/> KSA - Kosrae State ✔️
 <img src='out/FM/PNI.png' width='64'/> PNI - Pohnpei State ✔️
 <img src='out/FM/YAP.png' width='64'/> YAP - Yap State ✔️
-
-```
 </details>
 
 
@@ -3729,7 +3387,6 @@ CDMX - Ciudad de México
 
 <details>
 <summary>35/36</summary>
-```
 <img src='out/MD/AN.png' width='64'/> AN - Anenii Noi District ✔️
 <img src='out/MD/BA.png' width='64'/> BA - Bălți Municipality ✔️
 <img src='out/MD/BS.png' width='64'/> BS - Basarabeasca District ✔️
@@ -3766,8 +3423,6 @@ CDMX - Ciudad de México
 <img src='out/MD/TE.png' width='64'/> TE - Telenești District ✔️
 SN - Transnistria autonomous territorial unit
 <img src='out/MD/UN.png' width='64'/> UN - Ungheni District ✔️
-
-```
 </details>
 
 
@@ -3775,12 +3430,9 @@ SN - Transnistria autonomous territorial unit
 
 <details>
 <summary>0/3</summary>
-```
 CL - La Colle
 CO - La Condamine
 MG - Moneghetti
-
-```
 </details>
 
 
@@ -3788,7 +3440,6 @@ MG - Moneghetti
 
 <details>
 <summary>21/21</summary>
-```
 <img src='out/MN/073.png' width='64'/> 073 - Arkhangai Province ✔️
 <img src='out/MN/071.png' width='64'/> 071 - Bayan-Ölgii Province ✔️
 <img src='out/MN/069.png' width='64'/> 069 - Bayankhongor Province ✔️
@@ -3810,8 +3461,6 @@ MG - Moneghetti
 <img src='out/MN/047.png' width='64'/> 047 - Töv Province ✔️
 <img src='out/MN/046.png' width='64'/> 046 - Uvs Province ✔️
 <img src='out/MN/057.png' width='64'/> 057 - Zavkhan Province ✔️
-
-```
 </details>
 
 
@@ -3819,7 +3468,6 @@ MG - Moneghetti
 
 <details>
 <summary>22/22</summary>
-```
 <img src='out/ME/01.png' width='64'/> 01 - Andrijevica Municipality ✔️
 <img src='out/ME/02.png' width='64'/> 02 - Bar Municipality ✔️
 <img src='out/ME/03.png' width='64'/> 03 - Berane Municipality ✔️
@@ -3842,8 +3490,6 @@ MG - Moneghetti
 <img src='out/ME/19.png' width='64'/> 19 - Tivat Municipality ✔️
 <img src='out/ME/20.png' width='64'/> 20 - Ulcinj Municipality ✔️
 <img src='out/ME/21.png' width='64'/> 21 - Žabljak Municipality ✔️
-
-```
 </details>
 
 
@@ -3851,7 +3497,6 @@ MG - Moneghetti
 
 <details>
 <summary>41/87</summary>
-```
 <img src='out/MA/AGD.png' width='64'/> AGD - Agadir-Ida-Ou-Tanane ✔️
 HAO - Al Haouz
 <img src='out/MA/HOC.png' width='64'/> HOC - Al Hoceïma ✔️
@@ -3939,8 +3584,6 @@ TIN - Tinghir
 <img src='out/MA/TIZ.png' width='64'/> TIZ - Tiznit ✔️
 YUS - Youssoufia
 ZAG - Zagora
-
-```
 </details>
 
 
@@ -3948,7 +3591,6 @@ ZAG - Zagora
 
 <details>
 <summary>11/11</summary>
-```
 <img src='out/MZ/P.png' width='64'/> P - Cabo Delgado Province ✔️
 <img src='out/MZ/G.png' width='64'/> G - Gaza Province ✔️
 <img src='out/MZ/I.png' width='64'/> I - Inhambane Province ✔️
@@ -3960,8 +3602,6 @@ ZAG - Zagora
 <img src='out/MZ/S.png' width='64'/> S - Sofala Province ✔️
 <img src='out/MZ/T.png' width='64'/> T - Tete Province ✔️
 <img src='out/MZ/Q.png' width='64'/> Q - Zambezia Province ✔️
-
-```
 </details>
 
 
@@ -3969,7 +3609,6 @@ ZAG - Zagora
 
 <details>
 <summary>15/15</summary>
-```
 <img src='out/MM/07.png' width='64'/> 07 - Ayeyarwady Region ✔️
 <img src='out/MM/02.png' width='64'/> 02 - Bago ✔️
 <img src='out/MM/14.png' width='64'/> 14 - Chin State ✔️
@@ -3985,8 +3624,6 @@ ZAG - Zagora
 <img src='out/MM/17.png' width='64'/> 17 - Shan State ✔️
 <img src='out/MM/05.png' width='64'/> 05 - Tanintharyi Region ✔️
 <img src='out/MM/06.png' width='64'/> 06 - Yangon Region ✔️
-
-```
 </details>
 
 
@@ -3994,7 +3631,6 @@ ZAG - Zagora
 
 <details>
 <summary>1/14</summary>
-```
 ER - Erongo Region
 HA - Hardap Region
 KA - Karas Region
@@ -4009,8 +3645,6 @@ ON - Oshana Region
 OT - Oshikoto Region
 OD - Otjozondjupa Region
 CA - Zambezi Region
-
-```
 </details>
 
 
@@ -4018,7 +3652,6 @@ CA - Zambezi Region
 
 <details>
 <summary>0/14</summary>
-```
 01 - Aiwo District
 02 - Anabar District
 03 - Anetan District
@@ -4033,8 +3666,6 @@ CA - Zambezi Region
 12 - Nibok District
 13 - Uaboe District
 14 - Yaren District
-
-```
 </details>
 
 
@@ -4042,7 +3673,6 @@ CA - Zambezi Region
 
 <details>
 <summary>0/19</summary>
-```
 BA - Bagmati Zone
 BH - Bheri Zone
 1 - Central Region
@@ -4062,8 +3692,6 @@ RA - Rapti Zone
 SA - Sagarmatha Zone
 SE - Seti Zone
 3 - Western Region
-
-```
 </details>
 
 
@@ -4071,7 +3699,6 @@ SE - Seti Zone
 
 <details>
 <summary>15/15</summary>
-```
 <img src='out/NL/BQ1.png' width='64'/> BQ1 - Bonaire ✔️
 <img src='out/NL/DR.png' width='64'/> DR - Drenthe ✔️
 <img src='out/NL/FL.png' width='64'/> FL - Flevoland ✔️
@@ -4087,8 +3714,6 @@ SE - Seti Zone
 <img src='out/NL/ZH.png' width='64'/> ZH - South Holland ✔️
 <img src='out/NL/UT.png' width='64'/> UT - Utrecht ✔️
 <img src='out/NL/ZE.png' width='64'/> ZE - Zeeland ✔️
-
-```
 </details>
 
 
@@ -4096,7 +3721,6 @@ SE - Seti Zone
 
 <details>
 <summary>13/17</summary>
-```
 <img src='out/NZ/AUK.png' width='64'/> AUK - Auckland Region ✔️
 <img src='out/NZ/BOP.png' width='64'/> BOP - Bay of Plenty Region ✔️
 <img src='out/NZ/CAN.png' width='64'/> CAN - Canterbury Region ✔️
@@ -4114,8 +3738,6 @@ TAS - Tasman District
 <img src='out/NZ/WKO.png' width='64'/> WKO - Waikato Region ✔️
 <img src='out/NZ/WGN.png' width='64'/> WGN - Wellington Region ✔️
 <img src='out/NZ/WTC.png' width='64'/> WTC - West Coast Region ✔️
-
-```
 </details>
 
 
@@ -4123,7 +3745,6 @@ TAS - Tasman District
 
 <details>
 <summary>17/17</summary>
-```
 <img src='out/NI/BO.png' width='64'/> BO - Boaco ✔️
 <img src='out/NI/CA.png' width='64'/> CA - Carazo ✔️
 <img src='out/NI/CI.png' width='64'/> CI - Chinandega ✔️
@@ -4141,8 +3762,6 @@ TAS - Tasman District
 <img src='out/NI/SJ.png' width='64'/> SJ - Río San Juan ✔️
 <img src='out/NI/RI.png' width='64'/> RI - Rivas ✔️
 <img src='out/NI/AS.png' width='64'/> AS - South Caribbean Coast ✔️
-
-```
 </details>
 
 
@@ -4150,7 +3769,6 @@ TAS - Tasman District
 
 <details>
 <summary>0/7</summary>
-```
 1 - Agadez Region
 2 - Diffa Region
 3 - Dosso Region
@@ -4158,8 +3776,6 @@ TAS - Tasman District
 5 - Tahoua Region
 6 - Tillabéri Region
 7 - Zinder Region
-
-```
 </details>
 
 
@@ -4167,7 +3783,6 @@ TAS - Tasman District
 
 <details>
 <summary>37/37</summary>
-```
 <img src='out/NG/AB.png' width='64'/> AB - Abia ✔️
 <img src='out/NG/FC.png' width='64'/> FC - Abuja Federal Capital Territory ✔️
 <img src='out/NG/AD.png' width='64'/> AD - Adamawa ✔️
@@ -4205,8 +3820,6 @@ TAS - Tasman District
 <img src='out/NG/TA.png' width='64'/> TA - Taraba ✔️
 <img src='out/NG/YO.png' width='64'/> YO - Yobe ✔️
 <img src='out/NG/ZA.png' width='64'/> ZA - Zamfara ✔️
-
-```
 </details>
 
 
@@ -4214,7 +3827,6 @@ TAS - Tasman District
 
 <details>
 <summary>11/11</summary>
-```
 <img src='out/KP/04.png' width='64'/> 04 - Chagang Province ✔️
 <img src='out/KP/07.png' width='64'/> 07 - Kangwon Province ✔️
 <img src='out/KP/09.png' width='64'/> 09 - North Hamgyong Province ✔️
@@ -4226,8 +3838,6 @@ TAS - Tasman District
 <img src='out/KP/08.png' width='64'/> 08 - South Hamgyong Province ✔️
 <img src='out/KP/05.png' width='64'/> 05 - South Hwanghae Province ✔️
 <img src='out/KP/02.png' width='64'/> 02 - South Pyongan Province ✔️
-
-```
 </details>
 
 
@@ -4235,7 +3845,6 @@ TAS - Tasman District
 
 <details>
 <summary>73/84</summary>
-```
 <img src='out/MK/01.png' width='64'/> 01 - Aerodrom Municipality ✔️
 <img src='out/MK/02.png' width='64'/> 02 - Aračinovo Municipality ✔️
 <img src='out/MK/03.png' width='64'/> 03 - Berovo Municipality ✔️
@@ -4320,8 +3929,6 @@ TAS - Tasman District
 <img src='out/MK/32.png' width='64'/> 32 - Zelenikovo Municipality ✔️
 <img src='out/MK/30.png' width='64'/> 30 - Želino Municipality ✔️
 <img src='out/MK/33.png' width='64'/> 33 - Zrnovci Municipality ✔️
-
-```
 </details>
 
 
@@ -4329,7 +3936,6 @@ TAS - Tasman District
 
 <details>
 <summary>21/13</summary>
-```
 <img src='out/NO/42.png' width='64'/> 42 - Agder ✔️
 34 - Innlandet
 22 - Jan Mayen
@@ -4343,8 +3949,6 @@ TAS - Tasman District
 <img src='out/NO/38.png' width='64'/> 38 - Vestfold og Telemark ✔️
 46 - Vestland
 30 - Viken
-
-```
 </details>
 
 
@@ -4352,7 +3956,6 @@ TAS - Tasman District
 
 <details>
 <summary>0/13</summary>
-```
 DA - Ad Dakhiliyah
 ZA - Ad Dhahirah
 BS - Al Batinah North
@@ -4366,8 +3969,6 @@ SJ - Ash Sharqiyah South
 ZU - Dhofar
 MU - Musandam
 MA - Muscat
-
-```
 </details>
 
 
@@ -4375,7 +3976,6 @@ MA - Muscat
 
 <details>
 <summary>8/8</summary>
-```
 <img src='out/PK/JK.png' width='64'/> JK - Azad Kashmir ✔️
 <img src='out/PK/BA.png' width='64'/> BA - Balochistan ✔️
 <img src='out/PK/TA.png' width='64'/> TA - Federally Administered Tribal Areas ✔️
@@ -4384,8 +3984,6 @@ MA - Muscat
 <img src='out/PK/KP.png' width='64'/> KP - Khyber Pakhtunkhwa ✔️
 <img src='out/PK/PB.png' width='64'/> PB - Punjab ✔️
 <img src='out/PK/SD.png' width='64'/> SD - Sindh ✔️
-
-```
 </details>
 
 
@@ -4393,7 +3991,6 @@ MA - Muscat
 
 <details>
 <summary>16/16</summary>
-```
 <img src='out/PW/002.png' width='64'/> 002 - Aimeliik ✔️
 <img src='out/PW/004.png' width='64'/> 004 - Airai ✔️
 <img src='out/PW/010.png' width='64'/> 010 - Angaur ✔️
@@ -4410,8 +4007,6 @@ MA - Muscat
 <img src='out/PW/228.png' width='64'/> 228 - Ngiwal ✔️
 <img src='out/PW/350.png' width='64'/> 350 - Peleliu ✔️
 <img src='out/PW/370.png' width='64'/> 370 - Sonsorol ✔️
-
-```
 </details>
 
 
@@ -4419,7 +4014,6 @@ MA - Muscat
 
 <details>
 <summary>4/16</summary>
-```
 BTH - Bethlehem
 DEB - Deir El Balah
 <img src='out/PS/GZA.png' width='64'/> GZA - Gaza ✔️
@@ -4436,8 +4030,6 @@ RBH - Ramallah
 SLT - Salfit
 TBS - Tubas
 TKM - Tulkarm
-
-```
 </details>
 
 
@@ -4445,7 +4037,6 @@ TKM - Tulkarm
 
 <details>
 <summary>11/13</summary>
-```
 <img src='out/PA/1.png' width='64'/> 1 - Bocas del Toro Province ✔️
 <img src='out/PA/4.png' width='64'/> 4 - Chiriquí Province ✔️
 <img src='out/PA/2.png' width='64'/> 2 - Coclé Province ✔️
@@ -4459,8 +4050,6 @@ NB - Ngöbe-Buglé Comarca
 <img src='out/PA/10.png' width='64'/> 10 - Panamá Oeste Province ✔️
 <img src='out/PA/8.png' width='64'/> 8 - Panamá Province ✔️
 <img src='out/PA/9.png' width='64'/> 9 - Veraguas Province ✔️
-
-```
 </details>
 
 
@@ -4468,7 +4057,6 @@ NB - Ngöbe-Buglé Comarca
 
 <details>
 <summary>21/21</summary>
-```
 <img src='out/PG/NSB.png' width='64'/> NSB - Bougainville ✔️
 <img src='out/PG/CPM.png' width='64'/> CPM - Central Province ✔️
 <img src='out/PG/CPK.png' width='64'/> CPK - Chimbu Province ✔️
@@ -4490,8 +4078,6 @@ NB - Ngöbe-Buglé Comarca
 <img src='out/PG/WBK.png' width='64'/> WBK - West New Britain Province ✔️
 <img src='out/PG/WHM.png' width='64'/> WHM - Western Highlands Province ✔️
 <img src='out/PG/WPD.png' width='64'/> WPD - Western Province ✔️
-
-```
 </details>
 
 
@@ -4499,7 +4085,6 @@ NB - Ngöbe-Buglé Comarca
 
 <details>
 <summary>18/18</summary>
-```
 <img src='out/PY/16.png' width='64'/> 16 - Alto Paraguay Department ✔️
 <img src='out/PY/10.png' width='64'/> 10 - Alto Paraná Department ✔️
 <img src='out/PY/13.png' width='64'/> 13 - Amambay Department ✔️
@@ -4518,8 +4103,6 @@ NB - Ngöbe-Buglé Comarca
 <img src='out/PY/9.png' width='64'/> 9 - Paraguarí Department ✔️
 <img src='out/PY/15.png' width='64'/> 15 - Presidente Hayes Department ✔️
 <img src='out/PY/2.png' width='64'/> 2 - San Pedro Department ✔️
-
-```
 </details>
 
 
@@ -4527,7 +4110,6 @@ NB - Ngöbe-Buglé Comarca
 
 <details>
 <summary>25/25</summary>
-```
 <img src='out/PE/AMA.png' width='64'/> AMA - Amazonas ✔️
 <img src='out/PE/ANC.png' width='64'/> ANC - Áncash ✔️
 <img src='out/PE/APU.png' width='64'/> APU - Apurímac ✔️
@@ -4553,8 +4135,6 @@ NB - Ngöbe-Buglé Comarca
 <img src='out/PE/TAC.png' width='64'/> TAC - Tacna ✔️
 <img src='out/PE/TUM.png' width='64'/> TUM - Tumbes ✔️
 <img src='out/PE/UCA.png' width='64'/> UCA - Ucayali ✔️
-
-```
 </details>
 
 
@@ -4562,7 +4142,6 @@ NB - Ngöbe-Buglé Comarca
 
 <details>
 <summary>94/98</summary>
-```
 <img src='out/PH/ABR.png' width='64'/> ABR - Abra ✔️
 <img src='out/PH/AGN.png' width='64'/> AGN - Agusan del Norte ✔️
 <img src='out/PH/AGS.png' width='64'/> AGS - Agusan del Sur ✔️
@@ -4661,8 +4240,6 @@ WSA - Western Samar
 <img src='out/PH/ZAS.png' width='64'/> ZAS - Zamboanga del Sur ✔️
 <img src='out/PH/09.png' width='64'/> 09 - Zamboanga Peninsula ✔️
 <img src='out/PH/ZSI.png' width='64'/> ZSI - Zamboanga Sibugay ✔️
-
-```
 </details>
 
 
@@ -4670,7 +4247,6 @@ WSA - Western Samar
 
 <details>
 <summary>16/16</summary>
-```
 <img src='out/PL/WP.png' width='64'/> WP - Greater Poland Voivodeship ✔️
 <img src='out/PL/KP.png' width='64'/> KP - Kuyavian-Pomeranian Voivodeship ✔️
 <img src='out/PL/MA.png' width='64'/> MA - Lesser Poland Voivodeship ✔️
@@ -4687,8 +4263,6 @@ WSA - Western Samar
 <img src='out/PL/SK.png' width='64'/> SK - Świętokrzyskie Voivodeship ✔️
 <img src='out/PL/WN.png' width='64'/> WN - Warmian-Masurian Voivodeship ✔️
 <img src='out/PL/ZP.png' width='64'/> ZP - West Pomeranian Voivodeship ✔️
-
-```
 </details>
 
 
@@ -4696,7 +4270,6 @@ WSA - Western Samar
 
 <details>
 <summary>20/20</summary>
-```
 <img src='out/PT/20.png' width='64'/> 20 - Açores ✔️
 <img src='out/PT/01.png' width='64'/> 01 - Aveiro ✔️
 <img src='out/PT/02.png' width='64'/> 02 - Beja ✔️
@@ -4717,8 +4290,6 @@ WSA - Western Samar
 <img src='out/PT/16.png' width='64'/> 16 - Viana do Castelo ✔️
 <img src='out/PT/17.png' width='64'/> 17 - Vila Real ✔️
 <img src='out/PT/18.png' width='64'/> 18 - Viseu ✔️
-
-```
 </details>
 
 
@@ -4726,7 +4297,6 @@ WSA - Western Samar
 
 <details>
 <summary>88/88</summary>
-```
 <img src='out/PR/001.png' width='64'/> 001 - Adjuntas ✔️
 <img src='out/PR/003.png' width='64'/> 003 - Aguada ✔️
 <img src='out/PR/005.png' width='64'/> 005 - Aguadilla ✔️
@@ -4815,8 +4385,6 @@ WSA - Western Samar
 <img src='out/PR/149.png' width='64'/> 149 - Villalba ✔️
 <img src='out/PR/151.png' width='64'/> 151 - Yabucoa ✔️
 <img src='out/PR/153.png' width='64'/> 153 - Yauco ✔️
-
-```
 </details>
 
 
@@ -4824,7 +4392,6 @@ WSA - Western Samar
 
 <details>
 <summary>0/8</summary>
-```
 ZA - Al Daayen
 KH - Al Khor
 RA - Al Rayyan Municipality
@@ -4833,8 +4400,6 @@ SH - Al-Shahaniya
 DA - Doha
 MS - Madinat ash Shamal
 US - Umm Salal Municipality
-
-```
 </details>
 
 
@@ -4842,7 +4407,6 @@ US - Umm Salal Municipality
 
 <details>
 <summary>18/42</summary>
-```
 <img src='out/RO/AB.png' width='64'/> AB - Alba ✔️
 <img src='out/RO/AR.png' width='64'/> AR - Arad County ✔️
 <img src='out/RO/AG.png' width='64'/> AG - Arges ✔️
@@ -4885,8 +4449,6 @@ TL - Tulcea County
 VL - Vâlcea County
 VS - Vaslui County
 VN - Vrancea County
-
-```
 </details>
 
 
@@ -4894,7 +4456,6 @@ VN - Vrancea County
 
 <details>
 <summary>72/84</summary>
-```
 <img src='out/RU/ALT.png' width='64'/> ALT - Altai Krai ✔️
 <img src='out/RU/AL.png' width='64'/> AL - Altai Republic ✔️
 <img src='out/RU/AMU.png' width='64'/> AMU - Amur Oblast ✔️
@@ -4979,8 +4540,6 @@ UA-40 - Sevastopol
 <img src='out/RU/YAN.png' width='64'/> YAN - Yamalo-Nenets Autonomous Okrug ✔️
 <img src='out/RU/YAR.png' width='64'/> YAR - Yaroslavl Oblast ✔️
 <img src='out/RU/ZAB.png' width='64'/> ZAB - Zabaykalsky Krai ✔️
-
-```
 </details>
 
 
@@ -4988,14 +4547,11 @@ UA-40 - Sevastopol
 
 <details>
 <summary>0/5</summary>
-```
 02 - Eastern Province
 01 - Kigali district
 03 - Northern Province
 05 - Southern Province
 04 - Western Province
-
-```
 </details>
 
 
@@ -5003,7 +4559,6 @@ UA-40 - Sevastopol
 
 <details>
 <summary>2/15</summary>
-```
 01 - Christ Church Nichola Town Parish
 <img src='out/KN/N.png' width='64'/> N - Nevis ✔️
 02 - Saint Anne Sandy Point Parish
@@ -5019,8 +4574,6 @@ UA-40 - Sevastopol
 12 - Saint Thomas Lowland Parish
 13 - Saint Thomas Middle Island Parish
 15 - Trinity Palmetto Point Parish
-
-```
 </details>
 
 
@@ -5028,7 +4581,6 @@ UA-40 - Sevastopol
 
 <details>
 <summary>0/12</summary>
-```
 01 - Anse la Raye Quarter
 12 - Canaries
 02 - Castries Quarter
@@ -5041,8 +4593,6 @@ UA-40 - Sevastopol
 09 - Praslin Quarter
 10 - Soufrière Quarter
 11 - Vieux Fort Quarter
-
-```
 </details>
 
 
@@ -5050,15 +4600,12 @@ UA-40 - Sevastopol
 
 <details>
 <summary>0/6</summary>
-```
 01 - Charlotte Parish
 06 - Grenadines Parish
 02 - Saint Andrew Parish
 03 - Saint David Parish
 04 - Saint George Parish
 05 - Saint Patrick Parish
-
-```
 </details>
 
 
@@ -5066,7 +4613,6 @@ UA-40 - Sevastopol
 
 <details>
 <summary>0/11</summary>
-```
 AA - A'ana
 AL - Aiga-i-le-Tai
 AT - Atua
@@ -5078,8 +4624,6 @@ SA - Satupa'itea
 TU - Tuamasaga
 VF - Va'a-o-Fonoti
 VS - Vaisigano
-
-```
 </details>
 
 
@@ -5087,7 +4631,6 @@ VS - Vaisigano
 
 <details>
 <summary>9/9</summary>
-```
 <img src='out/SM/01.png' width='64'/> 01 - Acquaviva ✔️
 <img src='out/SM/06.png' width='64'/> 06 - Borgo Maggiore ✔️
 <img src='out/SM/02.png' width='64'/> 02 - Chiesanuova ✔️
@@ -5097,8 +4640,6 @@ VS - Vaisigano
 <img src='out/SM/08.png' width='64'/> 08 - Montegiardino ✔️
 <img src='out/SM/07.png' width='64'/> 07 - San Marino ✔️
 <img src='out/SM/09.png' width='64'/> 09 - Serravalle ✔️
-
-```
 </details>
 
 
@@ -5106,11 +4647,8 @@ VS - Vaisigano
 
 <details>
 <summary>0/2</summary>
-```
 P - Príncipe Province
 S - São Tomé Province
-
-```
 </details>
 
 
@@ -5118,7 +4656,6 @@ S - São Tomé Province
 
 <details>
 <summary>2/13</summary>
-```
 14 - 'Asir
 11 - Al Bahah
 12 - Al Jawf
@@ -5132,8 +4669,6 @@ S - São Tomé Province
 08 - Northern Borders
 <img src='out/SA/01.png' width='64'/> 01 - Riyadh ✔️
 07 - Tabuk
-
-```
 </details>
 
 
@@ -5141,7 +4676,6 @@ S - São Tomé Province
 
 <details>
 <summary>4/14</summary>
-```
 <img src='out/SN/DK.png' width='64'/> DK - Dakar ✔️
 DB - Diourbel Region
 FK - Fatick
@@ -5156,8 +4690,6 @@ SL - Saint-Louis
 TC - Tambacounda Region
 TH - Thiès Region
 <img src='out/SN/ZG.png' width='64'/> ZG - Ziguinchor ✔️
-
-```
 </details>
 
 
@@ -5165,7 +4697,6 @@ TH - Thiès Region
 
 <details>
 <summary>26/26</summary>
-```
 <img src='out/RS/00.png' width='64'/> 00 - Belgrade ✔️
 <img src='out/RS/14.png' width='64'/> 14 - Bor District ✔️
 <img src='out/RS/11.png' width='64'/> 11 - Braničevo District ✔️
@@ -5192,8 +4723,6 @@ TH - Thiès Region
 <img src='out/RS/05.png' width='64'/> 05 - West Bačka District ✔️
 <img src='out/RS/15.png' width='64'/> 15 - Zaječar District ✔️
 <img src='out/RS/16.png' width='64'/> 16 - Zlatibor District ✔️
-
-```
 </details>
 
 
@@ -5201,7 +4730,6 @@ TH - Thiès Region
 
 <details>
 <summary>1/24</summary>
-```
 02 - Anse Boileau
 05 - Anse Royale
 01 - Anse-aux-Pins
@@ -5226,8 +4754,6 @@ TH - Thiès Region
 25 - Roche Caiman
 22 - Saint Louis
 23 - Takamaka
-
-```
 </details>
 
 
@@ -5235,13 +4761,10 @@ TH - Thiès Region
 
 <details>
 <summary>0/4</summary>
-```
 E - Eastern Province
 N - Northern Province
 S - Southern Province
 W - Western Area
-
-```
 </details>
 
 
@@ -5249,14 +4772,11 @@ W - Western Area
 
 <details>
 <summary>0/5</summary>
-```
 01 - Central Singapore
 02 - North East
 03 - North West
 04 - South East
 05 - South West
-
-```
 </details>
 
 
@@ -5264,7 +4784,6 @@ W - Western Area
 
 <details>
 <summary>8/8</summary>
-```
 <img src='out/SK/BC.png' width='64'/> BC - Banská Bystrica Region ✔️
 <img src='out/SK/BL.png' width='64'/> BL - Bratislava Region ✔️
 <img src='out/SK/KI.png' width='64'/> KI - Košice Region ✔️
@@ -5273,8 +4792,6 @@ W - Western Area
 <img src='out/SK/TC.png' width='64'/> TC - Trenčín Region ✔️
 <img src='out/SK/TA.png' width='64'/> TA - Trnava Region ✔️
 <img src='out/SK/ZI.png' width='64'/> ZI - Žilina Region ✔️
-
-```
 </details>
 
 
@@ -5282,7 +4799,6 @@ W - Western Area
 
 <details>
 <summary>211/211</summary>
-```
 <img src='out/SI/001.png' width='64'/> 001 - Ajdovščina Municipality ✔️
 <img src='out/SI/213.png' width='64'/> 213 - Ankaran Municipality ✔️
 <img src='out/SI/002.png' width='64'/> 002 - Beltinci Municipality ✔️
@@ -5494,8 +5010,6 @@ W - Western Area
 <img src='out/SI/192.png' width='64'/> 192 - Žirovnica Municipality ✔️
 <img src='out/SI/144.png' width='64'/> 144 - Zreče Municipality ✔️
 <img src='out/SI/193.png' width='64'/> 193 - Žužemberk Municipality ✔️
-
-```
 </details>
 
 
@@ -5503,7 +5017,6 @@ W - Western Area
 
 <details>
 <summary>10/10</summary>
-```
 <img src='out/SB/CE.png' width='64'/> CE - Central Province ✔️
 <img src='out/SB/CH.png' width='64'/> CH - Choiseul Province ✔️
 <img src='out/SB/GU.png' width='64'/> GU - Guadalcanal Province ✔️
@@ -5514,8 +5027,6 @@ W - Western Area
 <img src='out/SB/RB.png' width='64'/> RB - Rennell and Bellona Province ✔️
 <img src='out/SB/TE.png' width='64'/> TE - Temotu Province ✔️
 <img src='out/SB/WE.png' width='64'/> WE - Western Province ✔️
-
-```
 </details>
 
 
@@ -5523,7 +5034,6 @@ W - Western Area
 
 <details>
 <summary>1/16</summary>
-```
 AW - Awdal Region
 BK - Bakool
 <img src='out/SO/BN.png' width='64'/> BN - Banaadir ✔️
@@ -5540,8 +5050,6 @@ MU - Mudug
 NU - Nugal
 SA - Sanaag Region
 TO - Togdheer Region
-
-```
 </details>
 
 
@@ -5549,7 +5057,6 @@ TO - Togdheer Region
 
 <details>
 <summary>6/9</summary>
-```
 <img src='out/ZA/EC.png' width='64'/> EC - Eastern Cape ✔️
 <img src='out/ZA/FS.png' width='64'/> FS - Free State ✔️
 GP - Gauteng
@@ -5559,8 +5066,6 @@ LP - Limpopo
 <img src='out/ZA/NW.png' width='64'/> NW - North West ✔️
 <img src='out/ZA/NC.png' width='64'/> NC - Northern Cape ✔️
 <img src='out/ZA/WC.png' width='64'/> WC - Western Cape ✔️
-
-```
 </details>
 
 
@@ -5568,7 +5073,6 @@ LP - Limpopo
 
 <details>
 <summary>17/17</summary>
-```
 <img src='out/KR/26.png' width='64'/> 26 - Busan ✔️
 <img src='out/KR/27.png' width='64'/> 27 - Daegu ✔️
 <img src='out/KR/30.png' width='64'/> 30 - Daejeon ✔️
@@ -5586,8 +5090,6 @@ LP - Limpopo
 <img src='out/KR/48.png' width='64'/> 48 - South Gyeongsang Province ✔️
 <img src='out/KR/46.png' width='64'/> 46 - South Jeolla Province ✔️
 <img src='out/KR/31.png' width='64'/> 31 - Ulsan ✔️
-
-```
 </details>
 
 
@@ -5595,7 +5097,6 @@ LP - Limpopo
 
 <details>
 <summary>9/10</summary>
-```
 <img src='out/SS/EC.png' width='64'/> EC - Central Equatoria ✔️
 <img src='out/SS/EE.png' width='64'/> EE - Eastern Equatoria ✔️
 JG - Jonglei State
@@ -5606,8 +5107,6 @@ JG - Jonglei State
 <img src='out/SS/WR.png' width='64'/> WR - Warrap ✔️
 <img src='out/SS/BW.png' width='64'/> BW - Western Bahr el Ghazal ✔️
 <img src='out/SS/EW.png' width='64'/> EW - Western Equatoria ✔️
-
-```
 </details>
 
 
@@ -5615,7 +5114,6 @@ JG - Jonglei State
 
 <details>
 <summary>66/50</summary>
-```
 <img src='out/ES/C.png' width='64'/> C - A Coruña ✔️
 <img src='out/ES/AB.png' width='64'/> AB - Albacete ✔️
 <img src='out/ES/A.png' width='64'/> A - Alicante ✔️
@@ -5666,8 +5164,6 @@ CC - Caceres
 <img src='out/ES/VA.png' width='64'/> VA - Valladolid ✔️
 <img src='out/ES/ZA.png' width='64'/> ZA - Zamora ✔️
 <img src='out/ES/Z.png' width='64'/> Z - Zaragoza ✔️
-
-```
 </details>
 
 
@@ -5675,7 +5171,6 @@ CC - Caceres
 
 <details>
 <summary>9/33</summary>
-```
 52 - Ampara District
 71 - Anuradhapura District
 81 - Badulla District
@@ -5709,8 +5204,6 @@ CC - Caceres
 <img src='out/LK/8.png' width='64'/> 8 - Uva Province ✔️
 44 - Vavuniya District
 <img src='out/LK/1.png' width='64'/> 1 - Western Province ✔️
-
-```
 </details>
 
 
@@ -5718,7 +5211,6 @@ CC - Caceres
 
 <details>
 <summary>8/18</summary>
-```
 GZ - Al Jazirah
 <img src='out/SD/GD.png' width='64'/> GD - Al Qadarif ✔️
 NB - Blue Nile
@@ -5737,8 +5229,6 @@ SI - Sennar
 <img src='out/SD/DW.png' width='64'/> DW - West Darfur ✔️
 <img src='out/SD/GK.png' width='64'/> GK - West Kordofan ✔️
 NW - White Nile
-
-```
 </details>
 
 
@@ -5746,7 +5236,6 @@ NW - White Nile
 
 <details>
 <summary>4/10</summary>
-```
 BR - Brokopondo District
 <img src='out/SR/CM.png' width='64'/> CM - Commewijne District ✔️
 CR - Coronie District
@@ -5757,8 +5246,6 @@ PM - Paramaribo District
 SA - Saramacca District
 SI - Sipaliwini District
 <img src='out/SR/WA.png' width='64'/> WA - Wanica District ✔️
-
-```
 </details>
 
 
@@ -5766,13 +5253,10 @@ SI - Sipaliwini District
 
 <details>
 <summary>0/4</summary>
-```
 HH - Hhohho District
 LU - Lubombo District
 MA - Manzini District
 SH - Shiselweni District
-
-```
 </details>
 
 
@@ -5780,7 +5264,6 @@ SH - Shiselweni District
 
 <details>
 <summary>21/21</summary>
-```
 <img src='out/SE/K.png' width='64'/> K - Blekinge ✔️
 <img src='out/SE/W.png' width='64'/> W - Dalarna County ✔️
 <img src='out/SE/X.png' width='64'/> X - Gävleborg County ✔️
@@ -5802,8 +5285,6 @@ SH - Shiselweni District
 <img src='out/SE/Y.png' width='64'/> Y - Västernorrland County ✔️
 <img src='out/SE/U.png' width='64'/> U - Västmanland County ✔️
 <img src='out/SE/O.png' width='64'/> O - Västra Götaland County ✔️
-
-```
 </details>
 
 
@@ -5811,7 +5292,6 @@ SH - Shiselweni District
 
 <details>
 <summary>26/26</summary>
-```
 <img src='out/CH/AG.png' width='64'/> AG - Aargau ✔️
 <img src='out/CH/AR.png' width='64'/> AR - Appenzell Ausserrhoden ✔️
 <img src='out/CH/AI.png' width='64'/> AI - Appenzell Innerrhoden ✔️
@@ -5838,8 +5318,6 @@ SH - Shiselweni District
 <img src='out/CH/VD.png' width='64'/> VD - Vaud ✔️
 <img src='out/CH/ZG.png' width='64'/> ZG - Zug ✔️
 <img src='out/CH/ZH.png' width='64'/> ZH - Zürich ✔️
-
-```
 </details>
 
 
@@ -5847,7 +5325,6 @@ SH - Shiselweni District
 
 <details>
 <summary>4/14</summary>
-```
 <img src='out/SY/HA.png' width='64'/> HA - Al-Hasakah ✔️
 RA - Al-Raqqah
 <img src='out/SY/HL.png' width='64'/> HL - Aleppo ✔️
@@ -5862,8 +5339,6 @@ LA - Latakia
 QU - Quneitra
 RD - Rif Dimashq
 TA - Tartus
-
-```
 </details>
 
 
@@ -5871,7 +5346,6 @@ TA - Tartus
 
 <details>
 <summary>21/22</summary>
-```
 <img src='out/TW/CHA.png' width='64'/> CHA - Changhua ✔️
 <img src='out/TW/CYI.png' width='64'/> CYI - Chiayi ✔️
 <img src='out/TW/CYQ.png' width='64'/> CYQ - Chiayi ✔️
@@ -5894,8 +5368,6 @@ KIN - Kinmen
 <img src='out/TW/TAO.png' width='64'/> TAO - Taoyuan ✔️
 <img src='out/TW/ILA.png' width='64'/> ILA - Yilan ✔️
 <img src='out/TW/YUN.png' width='64'/> YUN - Yunlin ✔️
-
-```
 </details>
 
 
@@ -5903,13 +5375,10 @@ KIN - Kinmen
 
 <details>
 <summary>0/4</summary>
-```
 RA - districts of Republican Subordination
 GB - Gorno-Badakhshan Autonomous Province
 KT - Khatlon Province
 SU - Sughd Province
-
-```
 </details>
 
 
@@ -5917,7 +5386,6 @@ SU - Sughd Province
 
 <details>
 <summary>3/31</summary>
-```
 <img src='out/TZ/01.png' width='64'/> 01 - Arusha ✔️
 <img src='out/TZ/02.png' width='64'/> 02 - Dar es Salaam ✔️
 03 - Dodoma
@@ -5949,8 +5417,6 @@ SU - Sughd Province
 07 - Zanzibar North
 11 - Zanzibar South
 15 - Zanzibar West
-
-```
 </details>
 
 
@@ -5958,7 +5424,6 @@ SU - Sughd Province
 
 <details>
 <summary>77/78</summary>
-```
 <img src='out/TH/37.png' width='64'/> 37 - Amnat Charoen ✔️
 <img src='out/TH/15.png' width='64'/> 15 - Ang Thong ✔️
 <img src='out/TH/10.png' width='64'/> 10 - Bangkok ✔️
@@ -6037,8 +5502,6 @@ S - Pattaya
 <img src='out/TH/53.png' width='64'/> 53 - Uttaradit ✔️
 <img src='out/TH/95.png' width='64'/> 95 - Yala ✔️
 <img src='out/TH/35.png' width='64'/> 35 - Yasothon ✔️
-
-```
 </details>
 
 
@@ -6046,7 +5509,6 @@ S - Pattaya
 
 <details>
 <summary>0/42</summary>
-```
 AK - Acklins
 AC - Acklins and Crooked Islands
 BY - Berry Islands
@@ -6089,8 +5551,6 @@ SA - South Andros
 SE - South Eleuthera
 SW - Spanish Wells
 WG - West Grand Bahama
-
-```
 </details>
 
 
@@ -6098,14 +5558,11 @@ WG - West Grand Bahama
 
 <details>
 <summary>0/5</summary>
-```
 C - Centrale Region
 K - Kara Region
 M - Maritime
 P - Plateaux Region
 S - Savanes Region
-
-```
 </details>
 
 
@@ -6113,14 +5570,11 @@ S - Savanes Region
 
 <details>
 <summary>0/5</summary>
-```
 02 - Haʻapai
 01 - ʻEua
 03 - Niuas
 04 - Tongatapu
 05 - Vavaʻu
-
-```
 </details>
 
 
@@ -6128,7 +5582,6 @@ S - Savanes Region
 
 <details>
 <summary>5/16</summary>
-```
 <img src='out/TT/ARI.png' width='64'/> ARI - Arima ✔️
 <img src='out/TT/CHA.png' width='64'/> CHA - Chaguanas ✔️
 CTT - Couva-Tabaquite-Talparo Regional Corporation
@@ -6145,8 +5598,6 @@ SGE - Sangre Grande Regional Corporation
 SIP - Siparia Regional Corporation
 TUP - Tunapuna-Piarco Regional Corporation
 WTO - Western Tobago
-
-```
 </details>
 
 
@@ -6154,7 +5605,6 @@ WTO - Western Tobago
 
 <details>
 <summary>2/24</summary>
-```
 12 - Ariana
 31 - Béja
 13 - Ben Arous
@@ -6179,8 +5629,6 @@ WTO - Western Tobago
 72 - Tozeur
 <img src='out/TN/11.png' width='64'/> 11 - Tunis ✔️
 22 - Zaghouan
-
-```
 </details>
 
 
@@ -6188,7 +5636,6 @@ WTO - Western Tobago
 
 <details>
 <summary>79/81</summary>
-```
 <img src='out/TR/01.png' width='64'/> 01 - Adana ✔️
 <img src='out/TR/02.png' width='64'/> 02 - Adıyaman ✔️
 <img src='out/TR/03.png' width='64'/> 03 - Afyonkarahisar ✔️
@@ -6270,8 +5717,6 @@ WTO - Western Tobago
 <img src='out/TR/77.png' width='64'/> 77 - Yalova ✔️
 66 - Yozgat
 <img src='out/TR/67.png' width='64'/> 67 - Zonguldak ✔️
-
-```
 </details>
 
 
@@ -6279,15 +5724,12 @@ WTO - Western Tobago
 
 <details>
 <summary>0/6</summary>
-```
 A - Ahal Region
 S - Ashgabat
 B - Balkan Region
 D - Daşoguz Region
 L - Lebap Region
 M - Mary Region
-
-```
 </details>
 
 
@@ -6295,7 +5737,6 @@ M - Mary Region
 
 <details>
 <summary>1/8</summary>
-```
 <img src='out/TV/FUN.png' width='64'/> FUN - Funafuti ✔️
 NMG - Nanumanga
 NMA - Nanumea
@@ -6304,8 +5745,6 @@ NUI - Nui
 NKF - Nukufetau
 NKL - Nukulaelae
 VAI - Vaitupu
-
-```
 </details>
 
 
@@ -6313,7 +5752,6 @@ VAI - Vaitupu
 
 <details>
 <summary>1/125</summary>
-```
 314 - Abim District
 301 - Adjumani District
 322 - Agago District
@@ -6439,8 +5877,6 @@ N - Northern Region
 W - Western Region
 313 - Yumbe District
 330 - Zombo District
-
-```
 </details>
 
 
@@ -6448,7 +5884,6 @@ W - Western Region
 
 <details>
 <summary>22/26</summary>
-```
 43 - Autonomous Republic of Crimea
 <img src='out/UA/71.png' width='64'/> 71 - Cherkaska oblast ✔️
 <img src='out/UA/74.png' width='64'/> 74 - Chernihivska oblast ✔️
@@ -6475,8 +5910,6 @@ W - Western Region
 <img src='out/UA/21.png' width='64'/> 21 - Zakarpatska Oblast ✔️
 23 - Zaporizka oblast
 <img src='out/UA/18.png' width='64'/> 18 - Zhytomyrska oblast ✔️
-
-```
 </details>
 
 
@@ -6484,7 +5917,6 @@ W - Western Region
 
 <details>
 <summary>7/7</summary>
-```
 <img src='out/AE/AZ.png' width='64'/> AZ - Abu Dhabi Emirate ✔️
 <img src='out/AE/AJ.png' width='64'/> AJ - Ajman Emirate ✔️
 <img src='out/AE/DU.png' width='64'/> DU - Dubai ✔️
@@ -6492,8 +5924,6 @@ W - Western Region
 <img src='out/AE/RK.png' width='64'/> RK - Ras al-Khaimah ✔️
 <img src='out/AE/SH.png' width='64'/> SH - Sharjah Emirate ✔️
 <img src='out/AE/UQ.png' width='64'/> UQ - Umm al-Quwain ✔️
-
-```
 </details>
 
 
@@ -6501,7 +5931,6 @@ W - Western Region
 
 <details>
 <summary>92/247</summary>
-```
 <img src='out/GB/ABE.png' width='64'/> ABE - Aberdeen ✔️
 <img src='out/GB/ABD.png' width='64'/> ABD - Aberdeenshire ✔️
 <img src='out/GB/ANS.png' width='64'/> ANS - Angus ✔️
@@ -6749,8 +6178,6 @@ WRL - Wirral
 WOK - Wokingham
 <img src='out/GB/WOR.png' width='64'/> WOR - Worcestershire ✔️
 WRX - Wrexham County Borough
-
-```
 </details>
 
 
@@ -6758,7 +6185,6 @@ WRX - Wrexham County Borough
 
 <details>
 <summary>58/66</summary>
-```
 <img src='out/US/AL.png' width='64'/> AL - Alabama ✔️
 <img src='out/US/AK.png' width='64'/> AK - Alaska ✔️
 <img src='out/US/AS.png' width='64'/> AS - American Samoa ✔️
@@ -6825,8 +6251,6 @@ UM - United States Minor Outlying Islands
 <img src='out/US/WV.png' width='64'/> WV - West Virginia ✔️
 <img src='out/US/WI.png' width='64'/> WI - Wisconsin ✔️
 <img src='out/US/WY.png' width='64'/> WY - Wyoming ✔️
-
-```
 </details>
 
 
@@ -6834,7 +6258,6 @@ UM - United States Minor Outlying Islands
 
 <details>
 <summary>0/9</summary>
-```
 81 - Baker Island
 84 - Howland Island
 86 - Jarvis Island
@@ -6844,8 +6267,6 @@ UM - United States Minor Outlying Islands
 76 - Navassa Island
 95 - Palmyra Atoll
 79 - Wake Island
-
-```
 </details>
 
 
@@ -6853,7 +6274,6 @@ UM - United States Minor Outlying Islands
 
 <details>
 <summary>19/19</summary>
-```
 <img src='out/UY/AR.png' width='64'/> AR - Artigas Department ✔️
 <img src='out/UY/CA.png' width='64'/> CA - Canelones Department ✔️
 <img src='out/UY/CL.png' width='64'/> CL - Cerro Largo Department ✔️
@@ -6873,8 +6293,6 @@ UM - United States Minor Outlying Islands
 <img src='out/UY/SO.png' width='64'/> SO - Soriano Department ✔️
 <img src='out/UY/TA.png' width='64'/> TA - Tacuarembó Department ✔️
 <img src='out/UY/TT.png' width='64'/> TT - Treinta y Tres Department ✔️
-
-```
 </details>
 
 
@@ -6882,7 +6300,6 @@ UM - United States Minor Outlying Islands
 
 <details>
 <summary>2/14</summary>
-```
 AN - Andijan Region
 <img src='out/UZ/BU.png' width='64'/> BU - Bukhara Region ✔️
 FA - Fergana Region
@@ -6897,8 +6314,6 @@ SU - Surxondaryo Region
 TK - Tashkent
 TO - Tashkent Region
 XO - Xorazm Region
-
-```
 </details>
 
 
@@ -6906,15 +6321,12 @@ XO - Xorazm Region
 
 <details>
 <summary>6/6</summary>
-```
 <img src='out/VU/MAP.png' width='64'/> MAP - Malampa ✔️
 <img src='out/VU/PAM.png' width='64'/> PAM - Penama ✔️
 <img src='out/VU/SAM.png' width='64'/> SAM - Sanma ✔️
 <img src='out/VU/SEE.png' width='64'/> SEE - Shefa ✔️
 <img src='out/VU/TAE.png' width='64'/> TAE - Tafea ✔️
 <img src='out/VU/TOB.png' width='64'/> TOB - Torba ✔️
-
-```
 </details>
 
 
@@ -6922,7 +6334,6 @@ XO - Xorazm Region
 
 <details>
 <summary>25/25</summary>
-```
 <img src='out/VE/Z.png' width='64'/> Z - Amazonas ✔️
 <img src='out/VE/B.png' width='64'/> B - Anzoátegui ✔️
 <img src='out/VE/C.png' width='64'/> C - Apure ✔️
@@ -6948,8 +6359,6 @@ XO - Xorazm Region
 <img src='out/VE/T.png' width='64'/> T - Trujillo ✔️
 <img src='out/VE/U.png' width='64'/> U - Yaracuy ✔️
 <img src='out/VE/V.png' width='64'/> V - Zulia ✔️
-
-```
 </details>
 
 
@@ -6957,7 +6366,6 @@ XO - Xorazm Region
 
 <details>
 <summary>63/63</summary>
-```
 <img src='out/VN/44.png' width='64'/> 44 - An Giang ✔️
 <img src='out/VN/43.png' width='64'/> 43 - Bà Rịa-Vũng Tàu ✔️
 <img src='out/VN/54.png' width='64'/> 54 - Bắc Giang ✔️
@@ -7021,8 +6429,6 @@ XO - Xorazm Region
 <img src='out/VN/49.png' width='64'/> 49 - Vĩnh Long ✔️
 <img src='out/VN/70.png' width='64'/> 70 - Vĩnh Phúc ✔️
 <img src='out/VN/06.png' width='64'/> 06 - Yên Bái ✔️
-
-```
 </details>
 
 
@@ -7030,12 +6436,9 @@ XO - Xorazm Region
 
 <details>
 <summary>0/3</summary>
-```
 SC - Saint Croix
 SJ - Saint John
 ST - Saint Thomas
-
-```
 </details>
 
 
@@ -7043,7 +6446,6 @@ ST - Saint Thomas
 
 <details>
 <summary>0/21</summary>
-```
 AD - 'Adan
 AM - 'Amran
 AB - Abyan
@@ -7065,8 +6467,6 @@ SN - Sana'a
 SH - Shabwah
 SU - Socotra
 TA - Ta'izz
-
-```
 </details>
 
 
@@ -7074,7 +6474,6 @@ TA - Ta'izz
 
 <details>
 <summary>0/10</summary>
-```
 02 - Central Province
 08 - Copperbelt Province
 03 - Eastern Province
@@ -7085,8 +6484,6 @@ TA - Ta'izz
 06 - Northwestern Province
 07 - Southern Province
 01 - Western Province
-
-```
 </details>
 
 
@@ -7094,7 +6491,6 @@ TA - Ta'izz
 
 <details>
 <summary>10/10</summary>
-```
 <img src='out/ZW/BU.png' width='64'/> BU - Bulawayo Province ✔️
 <img src='out/ZW/HA.png' width='64'/> HA - Harare Province ✔️
 <img src='out/ZW/MA.png' width='64'/> MA - Manicaland ✔️
@@ -7105,8 +6501,6 @@ TA - Ta'izz
 <img src='out/ZW/MN.png' width='64'/> MN - Matabeleland North Province ✔️
 <img src='out/ZW/MS.png' width='64'/> MS - Matabeleland South Province ✔️
 <img src='out/ZW/MI.png' width='64'/> MI - Midlands Province ✔️
-
-```
 </details>
 
 
