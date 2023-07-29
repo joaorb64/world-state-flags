@@ -43,7 +43,7 @@ with open("README.md", 'w') as outfile:
 
         outfile.write(
             f'<details>\n'
-            f'<summary>###{country["name"]}{(" ✔️" if flags_found == total_flags else "")} ({flags_found}/{total_flags})</summary>\n'
+            f'<summary>{country["name"]}{(" ✔️" if flags_found == total_flags else "")} ({flags_found}/{total_flags})</summary>\n'
             f'{states_string}'
             f'</details>\n'
         )
