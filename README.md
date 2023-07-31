@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3153
+FLAGS: 3154
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -2780,7 +2780,7 @@ W - Western Division
 
 
 <details>
-<summary>France (136/123)</summary>
+<summary>France (137/123)</summary>
 <img src='out/FR/01.png' width='32'/> 01 - Ain ✔️
 
 <img src='out/FR/02.png' width='32'/> 02 - Aisne ✔️
@@ -2983,7 +2983,7 @@ W - Western Division
 
 <img src='out/FR/PM.png' width='32'/> PM - Saint Pierre and Miquelon ✔️
 
-BL - Saint-Barthélemy
+<img src='out/FR/BL.png' width='32'/> BL - Saint-Barthélemy ✔️
 
 MF - Saint-Martin
 
