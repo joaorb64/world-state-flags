@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3150
+FLAGS: 3155
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -2780,7 +2780,7 @@ W - Western Division
 
 
 <details>
-<summary>France (133/123)</summary>
+<summary>France (138/123)</summary>
 <img src='out/FR/01.png' width='32'/> 01 - Ain ✔️
 
 <img src='out/FR/02.png' width='32'/> 02 - Aisne ✔️
@@ -2827,11 +2827,11 @@ W - Western Division
 
 <img src='out/FR/18.png' width='32'/> 18 - Cher ✔️
 
-CP - Clipperton
+<img src='out/FR/CP.png' width='32'/> CP - Clipperton ✔️
 
 <img src='out/FR/19.png' width='32'/> 19 - Corrèze ✔️
 
-20R - Corse
+<img src='out/FR/20R.png' width='32'/> 20R - Corse ✔️
 
 <img src='out/FR/2A.png' width='32'/> 2A - Corse-du-Sud ✔️
 
@@ -2911,7 +2911,7 @@ CP - Clipperton
 
 <img src='out/FR/39.png' width='32'/> 39 - Jura ✔️
 
-974 - La Réunion
+<img src='out/FR/974.png' width='32'/> 974 - La Réunion ✔️
 
 <img src='out/FR/40.png' width='32'/> 40 - Landes ✔️
 
@@ -2941,7 +2941,7 @@ CP - Clipperton
 
 <img src='out/FR/976.png' width='32'/> 976 - Mayotte ✔️
 
-69M - Métropole de Lyon
+<img src='out/FR/69M.png' width='32'/> 69M - Métropole de Lyon ✔️
 
 <img src='out/FR/54.png' width='32'/> 54 - Meurthe-et-Moselle ✔️
 
@@ -2983,7 +2983,7 @@ CP - Clipperton
 
 <img src='out/FR/PM.png' width='32'/> PM - Saint Pierre and Miquelon ✔️
 
-BL - Saint-Barthélemy
+<img src='out/FR/BL.png' width='32'/> BL - Saint-Barthélemy ✔️
 
 MF - Saint-Martin
 
