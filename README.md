@@ -7579,7 +7579,7 @@ VN - Vrancea County
 
 
 <details>
-<summary>Russia (72/84)</summary>
+<summary>Russia (72/83)</summary>
 <img src='out/RU/ALT.png' width='32'/> ALT - Altai Krai ✔️
 
 <img src='out/RU/AL.png' width='32'/> AL - Altai Republic ✔️
@@ -7709,8 +7709,6 @@ TA - Republic of Tatarstan
 <img src='out/RU/SAM.png' width='32'/> SAM - Samara Oblast ✔️
 
 <img src='out/RU/SAR.png' width='32'/> SAR - Saratov Oblast ✔️
-
-UA-40 - Sevastopol
 
 <img src='out/RU/SMO.png' width='32'/> SMO - Smolensk Oblast ✔️
 
@@ -10063,7 +10061,7 @@ W - Western Region
 
 
 <details>
-<summary>Ukraine (22/26)</summary>
+<summary>Ukraine (22/27)</summary>
 43 - Autonomous Republic of Crimea
 
 <img src='out/UA/71.png' width='32'/> 71 - Cherkaska oblast ✔️
@@ -10101,6 +10099,8 @@ W - Western Region
 53 - Poltavska oblast
 
 <img src='out/UA/56.png' width='32'/> 56 - Rivnenska oblast ✔️
+
+UA-40 - Sevastopol
 
 <img src='out/UA/59.png' width='32'/> 59 - Sumska oblast ✔️
 
