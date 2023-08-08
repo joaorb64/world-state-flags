@@ -8706,7 +8706,7 @@ JG - Jonglei State
 
 
 <details>
-<summary>Spain (66/50)</summary>
+<summary>Spain (66/53)</summary>
 <img src='out/ES/C.png' width='32'/> C - A Coruña ✔️
 
 <img src='out/ES/AB.png' width='32'/> AB - Albacete ✔️
@@ -8733,9 +8733,13 @@ CC - Caceres
 
 <img src='out/ES/CA.png' width='32'/> CA - Cádiz ✔️
 
+<img src='out/ES/CN.png' width='32'/> CN - Canarias ✔️
+
 <img src='out/ES/S.png' width='32'/> S - Cantabria ✔️
 
 <img src='out/ES/CS.png' width='32'/> CS - Castellón ✔️
+
+<img src='out/ES/CE.png' width='32'/> CE - Ceuta ✔️
 
 <img src='out/ES/CR.png' width='32'/> CR - Ciudad Real ✔️
 
@@ -8772,6 +8776,8 @@ CC - Caceres
 <img src='out/ES/M.png' width='32'/> M - Madrid ✔️
 
 <img src='out/ES/MA.png' width='32'/> MA - Málaga ✔️
+
+<img src='out/ES/ML.png' width='32'/> ML - Melilla ✔️
 
 <img src='out/ES/MU.png' width='32'/> MU - Murcia ✔️
 
@@ -10793,43 +10799,43 @@ UM - United States Minor Outlying Islands
 
 <details>
 <summary>Uruguay ✔️ (19/19)</summary>
-<img src='out/UY/AR.png' width='32'/> AR - Artigas Department ✔️
+<img src='out/UY/AR.png' width='32'/> AR - Artigas ✔️
 
-<img src='out/UY/CA.png' width='32'/> CA - Canelones Department ✔️
+<img src='out/UY/CA.png' width='32'/> CA - Canelones ✔️
 
-<img src='out/UY/CL.png' width='32'/> CL - Cerro Largo Department ✔️
+<img src='out/UY/CL.png' width='32'/> CL - Cerro Largo ✔️
 
-<img src='out/UY/CO.png' width='32'/> CO - Colonia Department ✔️
+<img src='out/UY/CO.png' width='32'/> CO - Colonia ✔️
 
-<img src='out/UY/DU.png' width='32'/> DU - Durazno Department ✔️
+<img src='out/UY/DU.png' width='32'/> DU - Durazno ✔️
 
-<img src='out/UY/FS.png' width='32'/> FS - Flores Department ✔️
+<img src='out/UY/FS.png' width='32'/> FS - Flores ✔️
 
-<img src='out/UY/FD.png' width='32'/> FD - Florida Department ✔️
+<img src='out/UY/FD.png' width='32'/> FD - Florida ✔️
 
-<img src='out/UY/LA.png' width='32'/> LA - Lavalleja Department ✔️
+<img src='out/UY/LA.png' width='32'/> LA - Lavalleja ✔️
 
-<img src='out/UY/MA.png' width='32'/> MA - Maldonado Department ✔️
+<img src='out/UY/MA.png' width='32'/> MA - Maldonado ✔️
 
-<img src='out/UY/MO.png' width='32'/> MO - Montevideo Department ✔️
+<img src='out/UY/MO.png' width='32'/> MO - Montevideo ✔️
 
-<img src='out/UY/PA.png' width='32'/> PA - Paysandú Department ✔️
+<img src='out/UY/PA.png' width='32'/> PA - Paysandú ✔️
 
-<img src='out/UY/RN.png' width='32'/> RN - Río Negro Department ✔️
+<img src='out/UY/RN.png' width='32'/> RN - Río Negro ✔️
 
-<img src='out/UY/RV.png' width='32'/> RV - Rivera Department ✔️
+<img src='out/UY/RV.png' width='32'/> RV - Rivera ✔️
 
-<img src='out/UY/RO.png' width='32'/> RO - Rocha Department ✔️
+<img src='out/UY/RO.png' width='32'/> RO - Rocha ✔️
 
-<img src='out/UY/SA.png' width='32'/> SA - Salto Department ✔️
+<img src='out/UY/SA.png' width='32'/> SA - Salto ✔️
 
-<img src='out/UY/SJ.png' width='32'/> SJ - San José Department ✔️
+<img src='out/UY/SJ.png' width='32'/> SJ - San José ✔️
 
-<img src='out/UY/SO.png' width='32'/> SO - Soriano Department ✔️
+<img src='out/UY/SO.png' width='32'/> SO - Soriano ✔️
 
-<img src='out/UY/TA.png' width='32'/> TA - Tacuarembó Department ✔️
+<img src='out/UY/TA.png' width='32'/> TA - Tacuarembó ✔️
 
-<img src='out/UY/TT.png' width='32'/> TT - Treinta y Tres Department ✔️
+<img src='out/UY/TT.png' width='32'/> TT - Treinta y Tres ✔️
 
 </details>
 
