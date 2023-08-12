@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3155
+FLAGS: 3156
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -8886,8 +8886,8 @@ CC - Caceres
 
 
 <details>
-<summary>Sudan (8/18)</summary>
-GZ - Al Jazirah
+<summary>Sudan (9/18)</summary>
+<img src='out/SD/GZ.png' width='32'/> GZ - Al Jazirah ✔️
 
 <img src='out/SD/GD.png' width='32'/> GD - Al Qadarif ✔️
 
