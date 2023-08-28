@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3156
+FLAGS: 3158
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -3071,7 +3071,7 @@ W - West Coast Division
 
 
 <details>
-<summary>Georgia (4/14)</summary>
+<summary>Georgia (6/14)</summary>
 <img src='out/GE/AJ.png' width='32'/> AJ - Adjara ✔️
 
 AB - Autonomous Republic of Abkhazia
@@ -3094,9 +3094,9 @@ SZ - Samegrelo-Zemo Svaneti
 
 SJ - Samtskhe-Javakheti
 
-50 - Senaki Municipality
+<img src='out/GE/50.png' width='32'/> 50 - Senaki Municipality ✔️
 
-SK - Shida Kartli
+<img src='out/GE/SK.png' width='32'/> SK - Shida Kartli ✔️
 
 <img src='out/GE/TB.png' width='32'/> TB - Tbilisi ✔️
 
