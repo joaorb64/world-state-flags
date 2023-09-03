@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3158
+FLAGS: 3159
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -8580,7 +8580,7 @@ W - Western Area
 
 
 <details>
-<summary>Somalia (1/16)</summary>
+<summary>Somalia (2/16)</summary>
 AW - Awdal Region
 
 BK - Bakool
@@ -8605,7 +8605,7 @@ JD - Middle Juba
 
 SD - Middle Shebelle
 
-MU - Mudug
+<img src='out/SO/MU.png' width='32'/> MU - Mudug ✔️
 
 NU - Nugal
 
@@ -10100,7 +10100,7 @@ W - Western Region
 
 <img src='out/UA/56.png' width='32'/> 56 - Rivnenska oblast ✔️
 
-UA-40 - Sevastopol
+40 - Sevastopol
 
 <img src='out/UA/59.png' width='32'/> 59 - Sumska oblast ✔️
 
