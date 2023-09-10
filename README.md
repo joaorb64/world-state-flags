@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3159
+FLAGS: 3160
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -8927,7 +8927,7 @@ NW - White Nile
 
 
 <details>
-<summary>Suriname (4/10)</summary>
+<summary>Suriname (5/10)</summary>
 BR - Brokopondo District
 
 <img src='out/SR/CM.png' width='32'/> CM - Commewijne District ✔️
@@ -8940,7 +8940,7 @@ MA - Marowijne District
 
 <img src='out/SR/PR.png' width='32'/> PR - Para District ✔️
 
-PM - Paramaribo District
+<img src='out/SR/PM.png' width='32'/> PM - Paramaribo District ✔️
 
 SA - Saramacca District
 
