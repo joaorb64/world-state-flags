@@ -6298,6 +6298,17 @@ SE - Seti Zone
 
 
 <details>
+<summary>New Caledonia (0/3)</summary>
+03 - Loyalty Islands Province
+
+02 - North Province
+
+01 - South Province
+
+</details>
+
+
+<details>
 <summary>New Zealand (13/17)</summary>
 <img src='out/NZ/AUK.png' width='32'/> AUK - Auckland Region ✔️
 
@@ -7301,9 +7312,9 @@ WSA - Western Samar
 
 <img src='out/PR/011.png' width='32'/> 011 - Añasco ✔️
 
-<img src='out/PR/AR.png' width='32'/> AR - Arecibo ✔️
-
 <img src='out/PR/013.png' width='32'/> 013 - Arecibo ✔️
+
+<img src='out/PR/AR.png' width='32'/> AR - Arecibo ✔️
 
 <img src='out/PR/015.png' width='32'/> 015 - Arroyo ✔️
 
@@ -7359,9 +7370,9 @@ WSA - Western Samar
 
 <img src='out/PR/059.png' width='32'/> 059 - Guayanilla ✔️
 
-<img src='out/PR/061.png' width='32'/> 061 - Guaynabo ✔️
-
 <img src='out/PR/GN.png' width='32'/> GN - Guaynabo ✔️
+
+<img src='out/PR/061.png' width='32'/> 061 - Guaynabo ✔️
 
 <img src='out/PR/063.png' width='32'/> 063 - Gurabo ✔️
 
@@ -7431,9 +7442,9 @@ WSA - Western Samar
 
 <img src='out/PR/125.png' width='32'/> 125 - San Germán ✔️
 
-<img src='out/PR/SJ.png' width='32'/> SJ - San Juan ✔️
-
 <img src='out/PR/127.png' width='32'/> 127 - San Juan ✔️
+
+<img src='out/PR/SJ.png' width='32'/> SJ - San Juan ✔️
 
 <img src='out/PR/129.png' width='32'/> 129 - San Lorenzo ✔️
 
@@ -9109,9 +9120,9 @@ TA - Tartus
 
 <img src='out/TW/CYQ.png' width='32'/> CYQ - Chiayi ✔️
 
-<img src='out/TW/HSZ.png' width='32'/> HSZ - Hsinchu ✔️
-
 <img src='out/TW/HSQ.png' width='32'/> HSQ - Hsinchu ✔️
+
+<img src='out/TW/HSZ.png' width='32'/> HSZ - Hsinchu ✔️
 
 <img src='out/TW/HUA.png' width='32'/> HUA - Hualien ✔️
 
