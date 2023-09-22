@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3160
+FLAGS: 3161
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -84,7 +84,7 @@ ZAB - Zabul
 
 
 <details>
-<summary>Albania (28/47)</summary>
+<summary>Albania (29/47)</summary>
 <img src='out/AL/01.png' width='32'/> 01 - Berat County ✔️
 
 <img src='out/AL/BR.png' width='32'/> BR - Berat District ✔️
@@ -155,7 +155,7 @@ PQ - Peqin District
 
 PR - Përmet District
 
-PG - Pogradec District
+<img src='out/AL/PG.png' width='32'/> PG - Pogradec District ✔️
 
 PU - Pukë District
 
