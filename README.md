@@ -5660,7 +5660,7 @@ RR - Rivière du Rempart
 
 <img src='out/MX/CHH.png' width='32'/> CHH - Chihuahua ✔️
 
-CDMX - Ciudad de México
+<img src='out/MX/CMX.png' width='32'/> CMX - Ciudad de México ✔️
 
 <img src='out/MX/COA.png' width='32'/> COA - Coahuila de Zaragoza ✔️
 
