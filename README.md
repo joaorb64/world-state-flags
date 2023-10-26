@@ -8977,7 +8977,7 @@ SH - Shiselweni District
 
 <details>
 <summary>Sweden ✔️ (21/21)</summary>
-<img src='out/SE/K.png' width='32'/> K - Blekinge ✔️
+<img src='out/SE/K.png' width='32'/> K - Blekinge County ✔️
 
 <img src='out/SE/W.png' width='32'/> W - Dalarna County ✔️
 
