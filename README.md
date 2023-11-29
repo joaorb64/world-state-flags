@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3161
+FLAGS: 3162
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -5913,7 +5913,7 @@ MG - Moneghetti
 
 
 <details>
-<summary>Morocco (41/87)</summary>
+<summary>Morocco (42/87)</summary>
 <img src='out/MA/AGD.png' width='32'/> AGD - Agadir-Ida-Ou-Tanane ✔️
 
 HAO - Al Haouz
@@ -5956,7 +5956,7 @@ CHT - Chtouka-Ait Baha
 
 DRI - Driouch
 
-HAJ - El Hajeb
+<img src='out/MA/HAJ.png' width='32'/> HAJ - El Hajeb ✔️
 
 <img src='out/MA/JDI.png' width='32'/> JDI - El Jadida ✔️
 
