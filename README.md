@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3162
+FLAGS: 3163
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -7916,7 +7916,7 @@ S - São Tomé Province
 
 
 <details>
-<summary>Saudi Arabia (2/13)</summary>
+<summary>Saudi Arabia (3/13)</summary>
 14 - 'Asir
 
 11 - Al Bahah
@@ -7927,7 +7927,7 @@ S - São Tomé Province
 
 05 - Al-Qassim
 
-04 - Eastern Province
+<img src='out/SA/04.png' width='32'/> 04 - Eastern Province ✔️
 
 <img src='out/SA/06.png' width='32'/> 06 - Ha'il ✔️
 
