@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3163
+FLAGS: 3166
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -6187,7 +6187,7 @@ CA - Zambezi Region
 
 
 <details>
-<summary>Nauru (0/14)</summary>
+<summary>Nauru (1/14)</summary>
 01 - Aiwo District
 
 02 - Anabar District
@@ -6210,7 +6210,7 @@ CA - Zambezi Region
 
 11 - Meneng District
 
-12 - Nibok District
+<img src='out/NR/12.png' width='32'/> 12 - Nibok District ✔️
 
 13 - Uaboe District
 
@@ -9817,7 +9817,7 @@ VAI - Vaitupu
 
 
 <details>
-<summary>Uganda (1/125)</summary>
+<summary>Uganda (2/125)</summary>
 314 - Abim District
 
 301 - Adjumani District
@@ -10010,7 +10010,7 @@ E - Eastern Region
 
 234 - Namisindwa District
 
-224 - Namutumba District
+<img src='out/UG/224.png' width='32'/> 224 - Namutumba District ✔️
 
 327 - Napak District
 
@@ -10150,7 +10150,7 @@ W - Western Region
 
 
 <details>
-<summary>United Kingdom (92/247)</summary>
+<summary>United Kingdom (93/247)</summary>
 <img src='out/GB/ABE.png' width='32'/> ABE - Aberdeen ✔️
 
 <img src='out/GB/ABD.png' width='32'/> ABD - Aberdeenshire ✔️
@@ -10281,7 +10281,7 @@ CON - Cornwall
 
 <img src='out/GB/COV.png' width='32'/> COV - Coventry ✔️
 
-CGV - Craigavon Borough Council
+<img src='out/GB/CGV.png' width='32'/> CGV - Craigavon Borough Council ✔️
 
 <img src='out/GB/CMA.png' width='32'/> CMA - Cumbria ✔️
 
