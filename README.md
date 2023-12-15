@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3166
+FLAGS: 3175
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -2615,10 +2615,10 @@ TA - Tadjourah Region
 
 
 <details>
-<summary>Eritrea (0/6)</summary>
-AN - Anseba Region
+<summary>Eritrea (2/6)</summary>
+<img src='out/ER/AN.png' width='32'/> AN - Anseba Region ✔️
 
-DU - Debub Region
+<img src='out/ER/DU.png' width='32'/> DU - Debub Region ✔️
 
 GB - Gash-Barka Region
 
@@ -3178,7 +3178,7 @@ SV - Savannah
 
 
 <details>
-<summary>Greece (9/38)</summary>
+<summary>Greece (10/38)</summary>
 13 - Achaea Regional Unit
 
 01 - Aetolia-Acarnania Regional Unit
@@ -3235,7 +3235,7 @@ A - East Macedonia and Thrace
 
 42 - Larissa Prefecture
 
-24 - Lefkada Regional Unit
+<img src='out/GR/24.png' width='32'/> 24 - Lefkada Regional Unit ✔️
 
 59 - Pella Regional Unit
 
@@ -3325,7 +3325,7 @@ C - West Macedonia Region
 
 
 <details>
-<summary>Guinea (0/40)</summary>
+<summary>Guinea (2/40)</summary>
 BE - Beyla Prefecture
 
 BF - Boffa Prefecture
@@ -3358,9 +3358,9 @@ GU - Guéckédou Prefecture
 
 KA - Kankan Prefecture
 
-K - Kankan Region
+<img src='out/GN/K.png' width='32'/> K - Kankan Region ✔️
 
-KE - Kérouané Prefecture
+<img src='out/GN/KE.png' width='32'/> KE - Kérouané Prefecture ✔️
 
 KD - Kindia Prefecture
 
@@ -3898,7 +3898,7 @@ NYL - Yuen Long
 
 
 <details>
-<summary>Iraq (9/18)</summary>
+<summary>Iraq (11/18)</summary>
 <img src='out/IQ/AN.png' width='32'/> AN - Al Anbar ✔️
 
 MU - Al Muthanna
@@ -3923,9 +3923,9 @@ KA - Karbala
 
 <img src='out/IQ/KI.png' width='32'/> KI - Kirkuk ✔️
 
-MA - Maysan
+<img src='out/IQ/MA.png' width='32'/> MA - Maysan ✔️
 
-NA - Najaf
+<img src='out/IQ/NA.png' width='32'/> NA - Najaf ✔️
 
 <img src='out/IQ/NI.png' width='32'/> NI - Nineveh ✔️
 
@@ -4246,7 +4246,7 @@ SU - South Sardinia
 
 
 <details>
-<summary>Jamaica (0/14)</summary>
+<summary>Jamaica (1/14)</summary>
 13 - Clarendon Parish
 
 09 - Hanover Parish
@@ -4259,7 +4259,7 @@ SU - South Sardinia
 
 02 - Saint Andrew
 
-06 - Saint Ann Parish
+<img src='out/JM/06.png' width='32'/> 06 - Saint Ann Parish ✔️
 
 14 - Saint Catherine Parish
 
@@ -6220,7 +6220,7 @@ CA - Zambezi Region
 
 
 <details>
-<summary>Nepal (0/19)</summary>
+<summary>Nepal (1/19)</summary>
 BA - Bagmati Zone
 
 BH - Bheri Zone
@@ -6253,7 +6253,7 @@ NA - Narayani Zone
 
 RA - Rapti Zone
 
-SA - Sagarmatha Zone
+<img src='out/NP/SA.png' width='32'/> SA - Sagarmatha Zone ✔️
 
 SE - Seti Zone
 
