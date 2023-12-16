@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3175
+FLAGS: 3227
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -1076,7 +1076,7 @@ BIH - Federation of Bosnia and Herzegovina
 
 
 <details>
-<summary>Botswana (0/10)</summary>
+<summary>Botswana (1/10)</summary>
 CE - Central District
 
 GH - Ghanzi District
@@ -1095,7 +1095,7 @@ NW - North-West District
 
 SE - South-East District
 
-SO - Southern District
+<img src='out/BW/SO.png' width='32'/> SO - Southern District ✔️
 
 </details>
 
@@ -1234,7 +1234,7 @@ TU - Tutong District
 
 
 <details>
-<summary>Burkina Faso (0/57)</summary>
+<summary>Burkina Faso (15/57)</summary>
 BAL - Balé Province
 
 BAM - Bam Province
@@ -1247,15 +1247,15 @@ BAZ - Bazèga Province
 
 BGR - Bougouriba Province
 
-BLG - Boulgou
+<img src='out/BF/BLG.png' width='32'/> BLG - Boulgou ✔️
 
-02 - Cascades Region
+<img src='out/BF/02.png' width='32'/> 02 - Cascades Region ✔️
 
-03 - Centre
+<img src='out/BF/03.png' width='32'/> 03 - Centre ✔️
 
-04 - Centre-Est Region
+<img src='out/BF/04.png' width='32'/> 04 - Centre-Est Region ✔️
 
-05 - Centre-Nord Region
+<img src='out/BF/05.png' width='32'/> 05 - Centre-Nord Region ✔️
 
 06 - Centre-Ouest Region
 
@@ -1315,25 +1315,25 @@ OUD - Oudalan Province
 
 PAS - Passoré Province
 
-11 - Plateau-Central Region
+<img src='out/BF/11.png' width='32'/> 11 - Plateau-Central Region ✔️
 
-PON - Poni Province
+<img src='out/BF/PON.png' width='32'/> PON - Poni Province ✔️
 
-12 - Sahel Region
+<img src='out/BF/12.png' width='32'/> 12 - Sahel Region ✔️
 
-SNG - Sanguié Province
+<img src='out/BF/SNG.png' width='32'/> SNG - Sanguié Province ✔️
 
-SMT - Sanmatenga Province
+<img src='out/BF/SMT.png' width='32'/> SMT - Sanmatenga Province ✔️
 
-SEN - Séno Province
+<img src='out/BF/SEN.png' width='32'/> SEN - Séno Province ✔️
 
-SIS - Sissili Province
+<img src='out/BF/SIS.png' width='32'/> SIS - Sissili Province ✔️
 
-SOM - Soum Province
+<img src='out/BF/SOM.png' width='32'/> SOM - Soum Province ✔️
 
-SOR - Sourou Province
+<img src='out/BF/SOR.png' width='32'/> SOR - Sourou Province ✔️
 
-13 - Sud-Ouest Region
+<img src='out/BF/13.png' width='32'/> 13 - Sud-Ouest Region ✔️
 
 TAP - Tapoa Province
 
@@ -1394,7 +1394,7 @@ RY - Ruyigi Province
 
 
 <details>
-<summary>Cambodia (0/24)</summary>
+<summary>Cambodia (5/24)</summary>
 1 - Banteay Meanchey
 
 2 - Battambang
@@ -1403,13 +1403,13 @@ RY - Ruyigi Province
 
 4 - Kampong Chhnang
 
-5 - Kampong Speu
+<img src='out/KH/5.png' width='32'/> 5 - Kampong Speu ✔️
 
-6 - Kampong Thom
+<img src='out/KH/6.png' width='32'/> 6 - Kampong Thom ✔️
 
-7 - Kampot
+<img src='out/KH/7.png' width='32'/> 7 - Kampot ✔️
 
-8 - Kandal
+<img src='out/KH/8.png' width='32'/> 8 - Kandal ✔️
 
 23 - Kep
 
@@ -1429,7 +1429,7 @@ RY - Ruyigi Province
 
 14 - Prey Veng
 
-15 - Pursat
+<img src='out/KH/15.png' width='32'/> 15 - Pursat ✔️
 
 16 - Ratanakiri
 
@@ -1447,26 +1447,26 @@ RY - Ruyigi Province
 
 
 <details>
-<summary>Cameroon (0/10)</summary>
+<summary>Cameroon (8/10)</summary>
 AD - Adamawa
 
 CE - Centre
 
-ES - East
+<img src='out/CM/ES.png' width='32'/> ES - East ✔️
 
-EN - Far North
+<img src='out/CM/EN.png' width='32'/> EN - Far North ✔️
 
-LT - Littoral
+<img src='out/CM/LT.png' width='32'/> LT - Littoral ✔️
 
-NO - North
+<img src='out/CM/NO.png' width='32'/> NO - North ✔️
 
-NW - Northwest
+<img src='out/CM/NW.png' width='32'/> NW - Northwest ✔️
 
-SU - South
+<img src='out/CM/SU.png' width='32'/> SU - South ✔️
 
-SW - Southwest
+<img src='out/CM/SW.png' width='32'/> SW - Southwest ✔️
 
-OU - West
+<img src='out/CM/OU.png' width='32'/> OU - West ✔️
 
 </details>
 
@@ -1503,7 +1503,7 @@ OU - West
 
 
 <details>
-<summary>Cape Verde (4/23)</summary>
+<summary>Cape Verde (8/23)</summary>
 <img src='out/CV/B.png' width='32'/> B - Barlavento Islands ✔️
 
 BV - Boa Vista
@@ -1522,13 +1522,13 @@ PR - Praia
 
 RB - Ribeira Brava Municipality
 
-RG - Ribeira Grande
+<img src='out/CV/RG.png' width='32'/> RG - Ribeira Grande ✔️
 
-RS - Ribeira Grande de Santiago
+<img src='out/CV/RS.png' width='32'/> RS - Ribeira Grande de Santiago ✔️
 
-SL - Sal
+<img src='out/CV/SL.png' width='32'/> SL - Sal ✔️
 
-CA - Santa Catarina
+<img src='out/CV/CA.png' width='32'/> CA - Santa Catarina ✔️
 
 CF - Santa Catarina do Fogo
 
@@ -1884,7 +1884,7 @@ XZ - Xizang
 
 
 <details>
-<summary>Cote D'Ivoire (Ivory Coast) (0/31)</summary>
+<summary>Cote D'Ivoire (Ivory Coast) (1/31)</summary>
 AB - Abidjan
 
 16 - Agnéby
@@ -1913,7 +1913,7 @@ LC - Lacs District
 
 07 - Lacs Region
 
-LG - Lagunes District
+<img src='out/CI/LG.png' width='32'/> LG - Lagunes District ✔️
 
 01 - Lagunes region
 
@@ -1951,7 +1951,7 @@ ZZ - Zanzan Region
 
 
 <details>
-<summary>Croatia (19/21)</summary>
+<summary>Croatia (20/21)</summary>
 <img src='out/HR/07.png' width='32'/> 07 - Bjelovar-Bilogora ✔️
 
 <img src='out/HR/12.png' width='32'/> 12 - Brod-Posavina ✔️
@@ -1986,7 +1986,7 @@ ZZ - Zanzan Region
 
 <img src='out/HR/10.png' width='32'/> 10 - Virovitica-Podravina ✔️
 
-16 - Vukovar-Syrmia
+<img src='out/HR/16.png' width='32'/> 16 - Vukovar-Syrmia ✔️
 
 <img src='out/HR/13.png' width='32'/> 13 - Zadar ✔️
 
@@ -2035,12 +2035,12 @@ ZZ - Zanzan Region
 
 
 <details>
-<summary>Cyprus (1/6)</summary>
-04 - Famagusta District (Mağusa)
+<summary>Cyprus (4/6)</summary>
+<img src='out/CY/04.png' width='32'/> 04 - Famagusta District (Mağusa) ✔️
 
-06 - Kyrenia District (Keryneia)
+<img src='out/CY/06.png' width='32'/> 06 - Kyrenia District (Keryneia) ✔️
 
-03 - Larnaca District (Larnaka)
+<img src='out/CY/03.png' width='32'/> 03 - Larnaca District (Larnaka) ✔️
 
 02 - Limassol District (Leymasun)
 
@@ -3054,10 +3054,10 @@ MF - Saint-Martin
 
 
 <details>
-<summary>Gambia The (0/6)</summary>
-B - Banjul
+<summary>Gambia The (2/6)</summary>
+<img src='out/GM/B.png' width='32'/> B - Banjul ✔️
 
-M - Central River Division
+<img src='out/GM/M.png' width='32'/> M - Central River Division ✔️
 
 L - Lower River Division
 
@@ -5054,7 +5054,7 @@ ZA - Zawiya District
 
 
 <details>
-<summary>Lithuania (10/69)</summary>
+<summary>Lithuania (16/69)</summary>
 01 - Akmenė District Municipality
 
 02 - Alytus City Municipality
@@ -5063,7 +5063,7 @@ ZA - Zawiya District
 
 03 - Alytus District Municipality
 
-05 - Birštonas Municipality
+<img src='out/LT/05.png' width='32'/> 05 - Birštonas Municipality ✔️
 
 06 - Biržai District Municipality
 
@@ -5179,17 +5179,17 @@ ZA - Zawiya District
 
 54 - Utena District Municipality
 
-55 - Varėna District Municipality
+<img src='out/LT/55.png' width='32'/> 55 - Varėna District Municipality ✔️
 
-56 - Vilkaviškis District Municipality
+<img src='out/LT/56.png' width='32'/> 56 - Vilkaviškis District Municipality ✔️
 
-57 - Vilnius City Municipality
+<img src='out/LT/57.png' width='32'/> 57 - Vilnius City Municipality ✔️
 
 <img src='out/LT/VL.png' width='32'/> VL - Vilnius County ✔️
 
-58 - Vilnius District Municipality
+<img src='out/LT/58.png' width='32'/> 58 - Vilnius District Municipality ✔️
 
-59 - Visaginas Municipality
+<img src='out/LT/59.png' width='32'/> 59 - Visaginas Municipality ✔️
 
 60 - Zarasai District Municipality
 
@@ -5249,7 +5249,7 @@ U - Toliara Province
 
 
 <details>
-<summary>Malawi (0/30)</summary>
+<summary>Malawi (4/30)</summary>
 BA - Balaka District
 
 BL - Blantyre District
@@ -5296,13 +5296,13 @@ NS - Nsanje District
 
 NU - Ntcheu District
 
-NI - Ntchisi District
+<img src='out/MW/NI.png' width='32'/> NI - Ntchisi District ✔️
 
-PH - Phalombe District
+<img src='out/MW/PH.png' width='32'/> PH - Phalombe District ✔️
 
-RU - Rumphi District
+<img src='out/MW/RU.png' width='32'/> RU - Rumphi District ✔️
 
-SA - Salima District
+<img src='out/MW/SA.png' width='32'/> SA - Salima District ✔️
 
 S - Southern Region
 
@@ -9403,10 +9403,10 @@ S - Pattaya
 
 
 <details>
-<summary>The Bahamas (0/42)</summary>
+<summary>The Bahamas (1/42)</summary>
 AK - Acklins
 
-AC - Acklins and Crooked Islands
+<img src='out/BS/AC.png' width='32'/> AC - Acklins and Crooked Islands ✔️
 
 BY - Berry Islands
 
@@ -9817,7 +9817,7 @@ VAI - Vaitupu
 
 
 <details>
-<summary>Uganda (2/125)</summary>
+<summary>Uganda (3/125)</summary>
 314 - Abim District
 
 301 - Adjumani District
@@ -9964,7 +9964,7 @@ E - Eastern Region
 
 307 - Lira District
 
-229 - Luuka District
+<img src='out/UG/229.png' width='32'/> 229 - Luuka District ✔️
 
 104 - Luwero District
 
