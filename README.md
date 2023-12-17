@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3227
+FLAGS: 3230
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -2694,7 +2694,7 @@ DK - Southern Red Sea Region
 
 
 <details>
-<summary>Fiji Islands (0/19)</summary>
+<summary>Fiji Islands (1/19)</summary>
 01 - Ba
 
 02 - Bua
@@ -2711,7 +2711,7 @@ E - Eastern Division
 
 06 - Lomaiviti
 
-07 - Macuata
+<img src='out/FJ/07.png' width='32'/> 07 - Macuata ✔️
 
 08 - Nadroga-Navosa
 
@@ -5054,7 +5054,7 @@ ZA - Zawiya District
 
 
 <details>
-<summary>Lithuania (16/69)</summary>
+<summary>Lithuania (17/69)</summary>
 01 - Akmenė District Municipality
 
 02 - Alytus City Municipality
@@ -5081,7 +5081,7 @@ ZA - Zawiya District
 
 13 - Kaišiadorys District Municipality
 
-14 - Kalvarija municipality
+<img src='out/LT/14.png' width='32'/> 14 - Kalvarija municipality ✔️
 
 15 - Kaunas City Municipality
 
@@ -6309,7 +6309,7 @@ SE - Seti Zone
 
 
 <details>
-<summary>New Zealand (13/17)</summary>
+<summary>New Zealand (14/17)</summary>
 <img src='out/NZ/AUK.png' width='32'/> AUK - Auckland Region ✔️
 
 <img src='out/NZ/BOP.png' width='32'/> BOP - Bay of Plenty Region ✔️
@@ -6336,7 +6336,7 @@ MBH - Marlborough Region
 
 <img src='out/NZ/TKI.png' width='32'/> TKI - Taranaki Region ✔️
 
-TAS - Tasman District
+<img src='out/NZ/TAS.png' width='32'/> TAS - Tasman District ✔️
 
 <img src='out/NZ/WKO.png' width='32'/> WKO - Waikato Region ✔️
 
