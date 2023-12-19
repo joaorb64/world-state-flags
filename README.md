@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3230
+FLAGS: 3359
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -183,7 +183,7 @@ TP - Tropojë District
 
 
 <details>
-<summary>Algeria (0/58)</summary>
+<summary>Algeria (1/58)</summary>
 01 - Adrar
 
 44 - Aïn Defla
@@ -256,7 +256,7 @@ TP - Tropojë District
 
 43 - Mila
 
-27 - Mostaganem
+<img src='out/DZ/27.png' width='32'/> 27 - Mostaganem ✔️
 
 45 - Naama
 
@@ -822,7 +822,7 @@ G - Sylhet Division
 
 
 <details>
-<summary>Barbados (0/11)</summary>
+<summary>Barbados (2/11)</summary>
 01 - Christ Church
 
 02 - Saint Andrew
@@ -841,9 +841,9 @@ G - Sylhet Division
 
 09 - Saint Peter
 
-10 - Saint Philip
+<img src='out/BB/10.png' width='32'/> 10 - Saint Philip ✔️
 
-11 - Saint Thomas
+<img src='out/BB/11.png' width='32'/> 11 - Saint Thomas ✔️
 
 </details>
 
@@ -968,10 +968,10 @@ WAR - Warwick
 
 
 <details>
-<summary>Bhutan (0/19)</summary>
-33 - Bumthang District
+<summary>Bhutan (2/19)</summary>
+<img src='out/BT/33.png' width='32'/> 33 - Bumthang District ✔️
 
-12 - Chukha District
+<img src='out/BT/12.png' width='32'/> 12 - Chukha District ✔️
 
 22 - Dagana District
 
@@ -1234,7 +1234,7 @@ TU - Tutong District
 
 
 <details>
-<summary>Burkina Faso (15/57)</summary>
+<summary>Burkina Faso (19/57)</summary>
 BAL - Balé Province
 
 BAM - Bam Province
@@ -1341,24 +1341,24 @@ TUI - Tuy Province
 
 YAG - Yagha Province
 
-YAT - Yatenga Province
+<img src='out/BF/YAT.png' width='32'/> YAT - Yatenga Province ✔️
 
-ZIR - Ziro Province
+<img src='out/BF/ZIR.png' width='32'/> ZIR - Ziro Province ✔️
 
-ZON - Zondoma Province
+<img src='out/BF/ZON.png' width='32'/> ZON - Zondoma Province ✔️
 
-ZOU - Zoundwéogo Province
+<img src='out/BF/ZOU.png' width='32'/> ZOU - Zoundwéogo Province ✔️
 
 </details>
 
 
 <details>
-<summary>Burundi (0/18)</summary>
-BB - Bubanza Province
+<summary>Burundi (3/18)</summary>
+<img src='out/BI/BB.png' width='32'/> BB - Bubanza Province ✔️
 
-BM - Bujumbura Mairie Province
+<img src='out/BI/BM.png' width='32'/> BM - Bujumbura Mairie Province ✔️
 
-BL - Bujumbura Rural Province
+<img src='out/BI/BL.png' width='32'/> BL - Bujumbura Rural Province ✔️
 
 BR - Bururi Province
 
@@ -1394,7 +1394,7 @@ RY - Ruyigi Province
 
 
 <details>
-<summary>Cambodia (5/24)</summary>
+<summary>Cambodia (16/24)</summary>
 1 - Banteay Meanchey
 
 2 - Battambang
@@ -1419,38 +1419,38 @@ RY - Ruyigi Province
 
 11 - Mondulkiri
 
-22 - Oddar Meanchey
+<img src='out/KH/22.png' width='32'/> 22 - Oddar Meanchey ✔️
 
-24 - Pailin
+<img src='out/KH/24.png' width='32'/> 24 - Pailin ✔️
 
-12 - Phnom Penh
+<img src='out/KH/12.png' width='32'/> 12 - Phnom Penh ✔️
 
-13 - Preah Vihear
+<img src='out/KH/13.png' width='32'/> 13 - Preah Vihear ✔️
 
-14 - Prey Veng
+<img src='out/KH/14.png' width='32'/> 14 - Prey Veng ✔️
 
 <img src='out/KH/15.png' width='32'/> 15 - Pursat ✔️
 
-16 - Ratanakiri
+<img src='out/KH/16.png' width='32'/> 16 - Ratanakiri ✔️
 
-17 - Siem Reap
+<img src='out/KH/17.png' width='32'/> 17 - Siem Reap ✔️
 
-18 - Sihanoukville
+<img src='out/KH/18.png' width='32'/> 18 - Sihanoukville ✔️
 
-19 - Stung Treng
+<img src='out/KH/19.png' width='32'/> 19 - Stung Treng ✔️
 
-20 - Svay Rieng
+<img src='out/KH/20.png' width='32'/> 20 - Svay Rieng ✔️
 
-21 - Takeo
+<img src='out/KH/21.png' width='32'/> 21 - Takeo ✔️
 
 </details>
 
 
 <details>
-<summary>Cameroon (8/10)</summary>
-AD - Adamawa
+<summary>Cameroon ✔️ (10/10)</summary>
+<img src='out/CM/AD.png' width='32'/> AD - Adamawa ✔️
 
-CE - Centre
+<img src='out/CM/CE.png' width='32'/> CE - Centre ✔️
 
 <img src='out/CM/ES.png' width='32'/> ES - East ✔️
 
@@ -1503,22 +1503,22 @@ CE - Centre
 
 
 <details>
-<summary>Cape Verde (8/23)</summary>
+<summary>Cape Verde (14/23)</summary>
 <img src='out/CV/B.png' width='32'/> B - Barlavento Islands ✔️
 
-BV - Boa Vista
+<img src='out/CV/BV.png' width='32'/> BV - Boa Vista ✔️
 
-BR - Brava
+<img src='out/CV/BR.png' width='32'/> BR - Brava ✔️
 
-MA - Maio Municipality
+<img src='out/CV/MA.png' width='32'/> MA - Maio Municipality ✔️
 
 <img src='out/CV/MO.png' width='32'/> MO - Mosteiros ✔️
 
-PA - Paul
+<img src='out/CV/PA.png' width='32'/> PA - Paul ✔️
 
-PN - Porto Novo
+<img src='out/CV/PN.png' width='32'/> PN - Porto Novo ✔️
 
-PR - Praia
+<img src='out/CV/PR.png' width='32'/> PR - Praia ✔️
 
 RB - Ribeira Brava Municipality
 
@@ -1554,18 +1554,18 @@ TS - Tarrafal de São Nicolau
 
 
 <details>
-<summary>Central African Republic (1/17)</summary>
+<summary>Central African Republic (5/17)</summary>
 BB - Bamingui-Bangoran Prefecture
 
 <img src='out/CF/BGF.png' width='32'/> BGF - Bangui ✔️
 
-BK - Basse-Kotto Prefecture
+<img src='out/CF/BK.png' width='32'/> BK - Basse-Kotto Prefecture ✔️
 
-HM - Haut-Mbomou Prefecture
+<img src='out/CF/HM.png' width='32'/> HM - Haut-Mbomou Prefecture ✔️
 
-HK - Haute-Kotto Prefecture
+<img src='out/CF/HK.png' width='32'/> HK - Haute-Kotto Prefecture ✔️
 
-KG - Kémo Prefecture
+<img src='out/CF/KG.png' width='32'/> KG - Kémo Prefecture ✔️
 
 LB - Lobaye Prefecture
 
@@ -1593,7 +1593,7 @@ VK - Vakaga Prefecture
 
 
 <details>
-<summary>Chad (0/23)</summary>
+<summary>Chad (2/23)</summary>
 BG - Bahr el Gazel
 
 BA - Batha
@@ -1632,9 +1632,9 @@ OD - Ouaddaï
 
 SA - Salamat
 
-SI - Sila
+<img src='out/TD/SI.png' width='32'/> SI - Sila ✔️
 
-TA - Tandjilé
+<img src='out/TD/TA.png' width='32'/> TA - Tandjilé ✔️
 
 TI - Tibesti
 
@@ -1836,8 +1836,8 @@ XZ - Xizang
 
 
 <details>
-<summary>Congo (1/12)</summary>
-11 - Bouenza Department
+<summary>Congo (2/12)</summary>
+<img src='out/CG/11.png' width='32'/> 11 - Bouenza Department ✔️
 
 <img src='out/CG/BZV.png' width='32'/> BZV - Brazzaville ✔️
 
@@ -3178,7 +3178,7 @@ SV - Savannah
 
 
 <details>
-<summary>Greece (10/38)</summary>
+<summary>Greece (12/38)</summary>
 13 - Achaea Regional Unit
 
 01 - Aetolia-Acarnania Regional Unit
@@ -3221,9 +3221,9 @@ A - East Macedonia and Thrace
 
 <img src='out/GR/F.png' width='32'/> F - Ionian Islands Region ✔️
 
-41 - Karditsa Regional Unit
+<img src='out/GR/41.png' width='32'/> 41 - Karditsa Regional Unit ✔️
 
-56 - Kastoria Regional Unit
+<img src='out/GR/56.png' width='32'/> 56 - Kastoria Regional Unit ✔️
 
 23 - Kefalonia Prefecture
 
@@ -3325,7 +3325,7 @@ C - West Macedonia Region
 
 
 <details>
-<summary>Guinea (2/40)</summary>
+<summary>Guinea (5/40)</summary>
 BE - Beyla Prefecture
 
 BF - Boffa Prefecture
@@ -3386,11 +3386,11 @@ MC - Macenta Prefecture
 
 ML - Mali Prefecture
 
-MM - Mamou Prefecture
+<img src='out/GN/MM.png' width='32'/> MM - Mamou Prefecture ✔️
 
-M - Mamou Region
+<img src='out/GN/M.png' width='32'/> M - Mamou Region ✔️
 
-MD - Mandiana Prefecture
+<img src='out/GN/MD.png' width='32'/> MD - Mandiana Prefecture ✔️
 
 NZ - Nzérékoré Prefecture
 
@@ -3831,7 +3831,7 @@ NYL - Yuen Long
 
 
 <details>
-<summary>Iran (11/31)</summary>
+<summary>Iran (12/31)</summary>
 30 - Alborz
 
 <img src='out/IR/24.png' width='32'/> 24 - Ardabil ✔️
@@ -3884,7 +3884,7 @@ NYL - Yuen Long
 
 11 - Sistan and Baluchestan
 
-29 - South Khorasan
+<img src='out/IR/29.png' width='32'/> 29 - South Khorasan ✔️
 
 <img src='out/IR/23.png' width='32'/> 23 - Tehran ✔️
 
@@ -4980,7 +4980,7 @@ K - Thaba-Tseka District
 
 
 <details>
-<summary>Libya (0/21)</summary>
+<summary>Libya (2/21)</summary>
 WA - Al Wahat District
 
 BA - Benghazi
@@ -5019,9 +5019,9 @@ TB - Tripoli District
 
 WD - Wadi al Hayaa District
 
-WS - Wadi al Shatii District
+<img src='out/LY/WS.png' width='32'/> WS - Wadi al Shatii District ✔️
 
-ZA - Zawiya District
+<img src='out/LY/ZA.png' width='32'/> ZA - Zawiya District ✔️
 
 </details>
 
@@ -5408,22 +5408,22 @@ US - Upper South Province
 
 
 <details>
-<summary>Mali (0/11)</summary>
+<summary>Mali (7/11)</summary>
 BKO - Bamako
 
-7 - Gao Region
+<img src='out/ML/7.png' width='32'/> 7 - Gao Region ✔️
 
-1 - Kayes Region
+<img src='out/ML/1.png' width='32'/> 1 - Kayes Region ✔️
 
-8 - Kidal Region
+<img src='out/ML/8.png' width='32'/> 8 - Kidal Region ✔️
 
-2 - Koulikoro Region
+<img src='out/ML/2.png' width='32'/> 2 - Koulikoro Region ✔️
 
-9 - Ménaka Region
+<img src='out/ML/9.png' width='32'/> 9 - Ménaka Region ✔️
 
-5 - Mopti Region
+<img src='out/ML/5.png' width='32'/> 5 - Mopti Region ✔️
 
-4 - Ségou Region
+<img src='out/ML/4.png' width='32'/> 4 - Ségou Region ✔️
 
 3 - Sikasso Region
 
@@ -5729,7 +5729,7 @@ RR - Rivière du Rempart
 
 
 <details>
-<summary>Moldova (35/36)</summary>
+<summary>Moldova ✔️ (36/36)</summary>
 <img src='out/MD/AN.png' width='32'/> AN - Anenii Noi District ✔️
 
 <img src='out/MD/BA.png' width='32'/> BA - Bălți Municipality ✔️
@@ -5798,7 +5798,7 @@ RR - Rivière du Rempart
 
 <img src='out/MD/TE.png' width='32'/> TE - Telenești District ✔️
 
-SN - Transnistria autonomous territorial unit
+<img src='out/MD/SN.png' width='32'/> SN - Transnistria autonomous territorial unit ✔️
 
 <img src='out/MD/UN.png' width='32'/> UN - Ungheni District ✔️
 
@@ -5806,8 +5806,8 @@ SN - Transnistria autonomous territorial unit
 
 
 <details>
-<summary>Monaco (0/3)</summary>
-CL - La Colle
+<summary>Monaco (1/3)</summary>
+<img src='out/MC/CL.png' width='32'/> CL - La Colle ✔️
 
 CO - La Condamine
 
@@ -5913,7 +5913,7 @@ MG - Moneghetti
 
 
 <details>
-<summary>Morocco (42/87)</summary>
+<summary>Morocco (44/87)</summary>
 <img src='out/MA/AGD.png' width='32'/> AGD - Agadir-Ida-Ou-Tanane ✔️
 
 HAO - Al Haouz
@@ -6068,9 +6068,9 @@ SKH - Skhirate-Témara
 
 <img src='out/MA/TAO.png' width='32'/> TAO - Taounate ✔️
 
-TAI - Taourirt
+<img src='out/MA/TAI.png' width='32'/> TAI - Taourirt ✔️
 
-TAF - Tarfaya (EH-partial)
+<img src='out/MA/TAF.png' width='32'/> TAF - Tarfaya (EH-partial) ✔️
 
 <img src='out/MA/TAR.png' width='32'/> TAR - Taroudannt ✔️
 
@@ -6512,7 +6512,7 @@ MBH - Marlborough Region
 
 
 <details>
-<summary>North Macedonia (73/84)</summary>
+<summary>North Macedonia (75/84)</summary>
 <img src='out/MK/01.png' width='32'/> 01 - Aerodrom Municipality ✔️
 
 <img src='out/MK/02.png' width='32'/> 02 - Aračinovo Municipality ✔️
@@ -6567,7 +6567,7 @@ MBH - Marlborough Region
 
 20 - Gradsko Municipality
 
-85 - Greater Skopje
+<img src='out/MK/85.png' width='32'/> 85 - Greater Skopje ✔️
 
 <img src='out/MK/34.png' width='32'/> 34 - Ilinden Municipality ✔️
 
@@ -6579,7 +6579,7 @@ MBH - Marlborough Region
 
 <img src='out/MK/36.png' width='32'/> 36 - Kavadarci Municipality ✔️
 
-40 - Kičevo Municipality
+<img src='out/MK/40.png' width='32'/> 40 - Kičevo Municipality ✔️
 
 <img src='out/MK/39.png' width='32'/> 39 - Kisela Voda Municipality ✔️
 
@@ -7501,7 +7501,7 @@ US - Umm Salal Municipality
 
 
 <details>
-<summary>Romania (18/42)</summary>
+<summary>Romania (26/42)</summary>
 <img src='out/RO/AB.png' width='32'/> AB - Alba ✔️
 
 <img src='out/RO/AR.png' width='32'/> AR - Arad County ✔️
@@ -7564,23 +7564,23 @@ NT - Neamț County
 
 OT - Olt County
 
-PH - Prahova County
+<img src='out/RO/PH.png' width='32'/> PH - Prahova County ✔️
 
-SJ - Sălaj County
+<img src='out/RO/SJ.png' width='32'/> SJ - Sălaj County ✔️
 
 <img src='out/RO/SM.png' width='32'/> SM - Satu Mare County ✔️
 
-SB - Sibiu County
+<img src='out/RO/SB.png' width='32'/> SB - Sibiu County ✔️
 
-SV - Suceava County
+<img src='out/RO/SV.png' width='32'/> SV - Suceava County ✔️
 
-TR - Teleorman County
+<img src='out/RO/TR.png' width='32'/> TR - Teleorman County ✔️
 
-TM - Timiș County
+<img src='out/RO/TM.png' width='32'/> TM - Timiș County ✔️
 
-TL - Tulcea County
+<img src='out/RO/TL.png' width='32'/> TL - Tulcea County ✔️
 
-VL - Vâlcea County
+<img src='out/RO/VL.png' width='32'/> VL - Vâlcea County ✔️
 
 VS - Vaslui County
 
@@ -7840,10 +7840,10 @@ TA - Republic of Tatarstan
 
 
 <details>
-<summary>Saint Vincent And The Grenadines (0/6)</summary>
+<summary>Saint Vincent And The Grenadines (1/6)</summary>
 01 - Charlotte Parish
 
-06 - Grenadines Parish
+<img src='out/VC/06.png' width='32'/> 06 - Grenadines Parish ✔️
 
 02 - Saint Andrew Parish
 
@@ -8591,20 +8591,20 @@ W - Western Area
 
 
 <details>
-<summary>Somalia (2/16)</summary>
-AW - Awdal Region
+<summary>Somalia (8/16)</summary>
+<img src='out/SO/AW.png' width='32'/> AW - Awdal Region ✔️
 
-BK - Bakool
+<img src='out/SO/BK.png' width='32'/> BK - Bakool ✔️
 
 <img src='out/SO/BN.png' width='32'/> BN - Banaadir ✔️
 
-BR - Bari
+<img src='out/SO/BR.png' width='32'/> BR - Bari ✔️
 
-BY - Bay
+<img src='out/SO/BY.png' width='32'/> BY - Bay ✔️
 
-GA - Galguduud
+<img src='out/SO/GA.png' width='32'/> GA - Galguduud ✔️
 
-GE - Gedo
+<img src='out/SO/GE.png' width='32'/> GE - Gedo ✔️
 
 HI - Hiran
 
@@ -8826,10 +8826,10 @@ CC - Caceres
 
 
 <details>
-<summary>Sri Lanka (9/33)</summary>
-52 - Ampara District
+<summary>Sri Lanka (13/33)</summary>
+<img src='out/LK/52.png' width='32'/> 52 - Ampara District ✔️
 
-71 - Anuradhapura District
+<img src='out/LK/71.png' width='32'/> 71 - Anuradhapura District ✔️
 
 81 - Badulla District
 
@@ -8885,11 +8885,11 @@ CC - Caceres
 
 <img src='out/LK/3.png' width='32'/> 3 - Southern Province ✔️
 
-53 - Trincomalee District
+<img src='out/LK/53.png' width='32'/> 53 - Trincomalee District ✔️
 
 <img src='out/LK/8.png' width='32'/> 8 - Uva Province ✔️
 
-44 - Vavuniya District
+<img src='out/LK/44.png' width='32'/> 44 - Vavuniya District ✔️
 
 <img src='out/LK/1.png' width='32'/> 1 - Western Province ✔️
 
@@ -8897,16 +8897,16 @@ CC - Caceres
 
 
 <details>
-<summary>Sudan (9/18)</summary>
+<summary>Sudan (11/18)</summary>
 <img src='out/SD/GZ.png' width='32'/> GZ - Al Jazirah ✔️
 
 <img src='out/SD/GD.png' width='32'/> GD - Al Qadarif ✔️
 
-NB - Blue Nile
+<img src='out/SD/NB.png' width='32'/> NB - Blue Nile ✔️
 
 <img src='out/SD/DC.png' width='32'/> DC - Central Darfur ✔️
 
-DE - East Darfur
+<img src='out/SD/DE.png' width='32'/> DE - East Darfur ✔️
 
 KA - Kassala
 
@@ -8963,14 +8963,14 @@ SI - Sipaliwini District
 
 
 <details>
-<summary>Swaziland (0/4)</summary>
+<summary>Swaziland (1/4)</summary>
 HH - Hhohho District
 
 LU - Lubombo District
 
 MA - Manzini District
 
-SH - Shiselweni District
+<img src='out/SZ/SH.png' width='32'/> SH - Shiselweni District ✔️
 
 </details>
 
@@ -9175,7 +9175,7 @@ SU - Sughd Province
 
 
 <details>
-<summary>Tanzania (3/31)</summary>
+<summary>Tanzania (4/31)</summary>
 <img src='out/TZ/01.png' width='32'/> 01 - Arusha ✔️
 
 <img src='out/TZ/02.png' width='32'/> 02 - Dar es Salaam ✔️
@@ -9222,7 +9222,7 @@ SU - Sughd Province
 
 22 - Shinyanga
 
-30 - Simiyu
+<img src='out/TZ/30.png' width='32'/> 30 - Simiyu ✔️
 
 23 - Singida
 
@@ -9403,7 +9403,7 @@ S - Pattaya
 
 
 <details>
-<summary>The Bahamas (1/42)</summary>
+<summary>The Bahamas (11/42)</summary>
 AK - Acklins
 
 <img src='out/BS/AC.png' width='32'/> AC - Acklins and Crooked Islands ✔️
@@ -9428,25 +9428,25 @@ EG - East Grand Bahama
 
 EX - Exuma
 
-FP - Freeport
+<img src='out/BS/FP.png' width='32'/> FP - Freeport ✔️
 
-FC - Fresh Creek
+<img src='out/BS/FC.png' width='32'/> FC - Fresh Creek ✔️
 
-GH - Governor's Harbour
+<img src='out/BS/GH.png' width='32'/> GH - Governor's Harbour ✔️
 
-GC - Grand Cay
+<img src='out/BS/GC.png' width='32'/> GC - Grand Cay ✔️
 
-GT - Green Turtle Cay
+<img src='out/BS/GT.png' width='32'/> GT - Green Turtle Cay ✔️
 
-HI - Harbour Island
+<img src='out/BS/HI.png' width='32'/> HI - Harbour Island ✔️
 
-HR - High Rock
+<img src='out/BS/HR.png' width='32'/> HR - High Rock ✔️
 
-HT - Hope Town
+<img src='out/BS/HT.png' width='32'/> HT - Hope Town ✔️
 
-IN - Inagua
+<img src='out/BS/IN.png' width='32'/> IN - Inagua ✔️
 
-KB - Kemps Bay
+<img src='out/BS/KB.png' width='32'/> KB - Kemps Bay ✔️
 
 LI - Long Island
 
@@ -9492,8 +9492,8 @@ WG - West Grand Bahama
 
 
 <details>
-<summary>Togo (0/5)</summary>
-C - Centrale Region
+<summary>Togo (1/5)</summary>
+<img src='out/TG/C.png' width='32'/> C - Centrale Region ✔️
 
 K - Kara Region
 
@@ -9817,7 +9817,7 @@ VAI - Vaitupu
 
 
 <details>
-<summary>Uganda (3/125)</summary>
+<summary>Uganda (17/125)</summary>
 314 - Abim District
 
 301 - Adjumani District
@@ -9840,9 +9840,9 @@ VAI - Vaitupu
 
 217 - Budaka District
 
-218 - Bududa District
+<img src='out/UG/218.png' width='32'/> 218 - Bududa District ✔️
 
-201 - Bugiri District
+<img src='out/UG/201.png' width='32'/> 201 - Bugiri District ✔️
 
 420 - Buhweju District
 
@@ -9930,17 +9930,17 @@ E - Eastern Region
 
 407 - Kibaale District
 
-103 - Kiboga District
+<img src='out/UG/103.png' width='32'/> 103 - Kiboga District ✔️
 
-227 - Kibuku District
+<img src='out/UG/227.png' width='32'/> 227 - Kibuku District ✔️
 
-419 - Kiruhura District
+<img src='out/UG/419.png' width='32'/> 419 - Kiruhura District ✔️
 
-421 - Kiryandongo District
+<img src='out/UG/421.png' width='32'/> 421 - Kiryandongo District ✔️
 
-408 - Kisoro District
+<img src='out/UG/408.png' width='32'/> 408 - Kisoro District ✔️
 
-305 - Kitgum District
+<img src='out/UG/305.png' width='32'/> 305 - Kitgum District ✔️
 
 319 - Koboko District
 
@@ -10020,11 +10020,11 @@ E - Eastern Region
 
 N - Northern Region
 
-424 - Ntoroko District
+<img src='out/UG/424.png' width='32'/> 424 - Ntoroko District ✔️
 
-411 - Ntungamo District
+<img src='out/UG/411.png' width='32'/> 411 - Ntungamo District ✔️
 
-328 - Nwoya District
+<img src='out/UG/328.png' width='32'/> 328 - Nwoya District ✔️
 
 331 - Omoro District
 
@@ -10062,18 +10062,18 @@ N - Northern Region
 
 113 - Wakiso District
 
-W - Western Region
+<img src='out/UG/W.png' width='32'/> W - Western Region ✔️
 
-313 - Yumbe District
+<img src='out/UG/313.png' width='32'/> 313 - Yumbe District ✔️
 
-330 - Zombo District
+<img src='out/UG/330.png' width='32'/> 330 - Zombo District ✔️
 
 </details>
 
 
 <details>
-<summary>Ukraine (22/27)</summary>
-43 - Autonomous Republic of Crimea
+<summary>Ukraine (24/27)</summary>
+<img src='out/UA/43.png' width='32'/> 43 - Autonomous Republic of Crimea ✔️
 
 <img src='out/UA/71.png' width='32'/> 71 - Cherkaska oblast ✔️
 
@@ -10123,7 +10123,7 @@ W - Western Region
 
 <img src='out/UA/21.png' width='32'/> 21 - Zakarpatska Oblast ✔️
 
-23 - Zaporizka oblast
+<img src='out/UA/23.png' width='32'/> 23 - Zaporizka oblast ✔️
 
 <img src='out/UA/18.png' width='32'/> 18 - Zhytomyrska oblast ✔️
 
@@ -10150,7 +10150,7 @@ W - Western Region
 
 
 <details>
-<summary>United Kingdom (93/247)</summary>
+<summary>United Kingdom (113/247)</summary>
 <img src='out/GB/ABE.png' width='32'/> ABE - Aberdeen ✔️
 
 <img src='out/GB/ABD.png' width='32'/> ABD - Aberdeenshire ✔️
@@ -10297,19 +10297,19 @@ DRS - Derry City and Strabane
 
 <img src='out/GB/DEV.png' width='32'/> DEV - Devon ✔️
 
-DNC - Doncaster
+<img src='out/GB/DNC.png' width='32'/> DNC - Doncaster ✔️
 
 <img src='out/GB/DOR.png' width='32'/> DOR - Dorset ✔️
 
-DOW - Down District Council
+<img src='out/GB/DOW.png' width='32'/> DOW - Down District Council ✔️
 
-DUD - Dudley
+<img src='out/GB/DUD.png' width='32'/> DUD - Dudley ✔️
 
-DGY - Dumfries and Galloway
+<img src='out/GB/DGY.png' width='32'/> DGY - Dumfries and Galloway ✔️
 
 <img src='out/GB/DND.png' width='32'/> DND - Dundee ✔️
 
-DGN - Dungannon and South Tyrone Borough Council
+<img src='out/GB/DGN.png' width='32'/> DGN - Dungannon and South Tyrone Borough Council ✔️
 
 EAY - East Ayrshire
 
@@ -10383,7 +10383,7 @@ LMV - Limavady Borough Council
 
 <img src='out/GB/LIN.png' width='32'/> LIN - Lincolnshire ✔️
 
-LBC - Lisburn and Castlereagh
+<img src='out/GB/LBC.png' width='32'/> LBC - Lisburn and Castlereagh ✔️
 
 LSB - Lisburn City Council
 
@@ -10487,19 +10487,19 @@ NTA - Newtownabbey Borough Council
 
 NAY - North Ayrshire
 
-NDN - North Down Borough Council
+<img src='out/GB/NDN.png' width='32'/> NDN - North Down Borough Council ✔️
 
-NEL - North East Lincolnshire
+<img src='out/GB/NEL.png' width='32'/> NEL - North East Lincolnshire ✔️
 
-NLK - North Lanarkshire
+<img src='out/GB/NLK.png' width='32'/> NLK - North Lanarkshire ✔️
 
-NLN - North Lincolnshire
+<img src='out/GB/NLN.png' width='32'/> NLN - North Lincolnshire ✔️
 
-NSM - North Somerset
+<img src='out/GB/NSM.png' width='32'/> NSM - North Somerset ✔️
 
-NTY - North Tyneside
+<img src='out/GB/NTY.png' width='32'/> NTY - North Tyneside ✔️
 
-NYK - North Yorkshire
+<img src='out/GB/NYK.png' width='32'/> NYK - North Yorkshire ✔️
 
 <img src='out/GB/NTH.png' width='32'/> NTH - Northamptonshire ✔️
 
@@ -10565,19 +10565,19 @@ SFT - Sefton
 
 <img src='out/GB/SHR.png' width='32'/> SHR - Shropshire ✔️
 
-SLG - Slough
+<img src='out/GB/SLG.png' width='32'/> SLG - Slough ✔️
 
-SOL - Solihull
+<img src='out/GB/SOL.png' width='32'/> SOL - Solihull ✔️
 
 <img src='out/GB/SOM.png' width='32'/> SOM - Somerset ✔️
 
-SAY - South Ayrshire
+<img src='out/GB/SAY.png' width='32'/> SAY - South Ayrshire ✔️
 
-SGC - South Gloucestershire
+<img src='out/GB/SGC.png' width='32'/> SGC - South Gloucestershire ✔️
 
-SLK - South Lanarkshire
+<img src='out/GB/SLK.png' width='32'/> SLK - South Lanarkshire ✔️
 
-STY - South Tyneside
+<img src='out/GB/STY.png' width='32'/> STY - South Tyneside ✔️
 
 <img src='out/GB/SOS.png' width='32'/> SOS - Southend-on-Sea ✔️
 
@@ -10619,7 +10619,7 @@ VGL - Vale of Glamorgan
 
 <img src='out/GB/WLS.png' width='32'/> WLS - Wales ✔️
 
-WLL - Walsall
+<img src='out/GB/WLL.png' width='32'/> WLL - Walsall ✔️
 
 WRT - Warrington
 
