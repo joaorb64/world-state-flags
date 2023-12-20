@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3359
+FLAGS: 3370
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -1160,10 +1160,10 @@ SE - South-East District
 
 
 <details>
-<summary>Brunei (0/4)</summary>
-BE - Belait District
+<summary>Brunei (2/4)</summary>
+<img src='out/BN/BE.png' width='32'/> BE - Belait District ✔️
 
-BM - Brunei-Muara District
+<img src='out/BN/BM.png' width='32'/> BM - Brunei-Muara District ✔️
 
 TE - Temburong District
 
@@ -3660,14 +3660,14 @@ NYL - Yuen Long
 
 
 <details>
-<summary>Iceland (0/8)</summary>
+<summary>Iceland (2/8)</summary>
 1 - Capital Region
 
 7 - Eastern Region
 
-6 - Northeastern Region
+<img src='out/IS/6.png' width='32'/> 6 - Northeastern Region ✔️
 
-5 - Northwestern Region
+<img src='out/IS/5.png' width='32'/> 5 - Northwestern Region ✔️
 
 2 - Southern Peninsula Region
 
@@ -4658,7 +4658,7 @@ XI - Xiangkhouang Province
 
 
 <details>
-<summary>Latvia (64/118)</summary>
+<summary>Latvia (65/118)</summary>
 001 - Aglona Municipality
 
 <img src='out/LV/002.png' width='32'/> 002 - Aizkraukle Municipality ✔️
@@ -4789,7 +4789,7 @@ XI - Xiangkhouang Province
 
 <img src='out/LV/062.png' width='32'/> 062 - Mārupe Municipality ✔️
 
-060 - Mazsalaca Municipality
+<img src='out/LV/060.png' width='32'/> 060 - Mazsalaca Municipality ✔️
 
 063 - Mērsrags Municipality
 
@@ -5618,12 +5618,12 @@ BKO - Bamako
 
 
 <details>
-<summary>Mauritius (6/12)</summary>
+<summary>Mauritius (7/12)</summary>
 AG - Agalega Islands
 
 BL - Black River
 
-FL - Flacq
+<img src='out/MU/FL.png' width='32'/> FL - Flacq ✔️
 
 GP - Grand Port
 
@@ -8826,7 +8826,7 @@ CC - Caceres
 
 
 <details>
-<summary>Sri Lanka (13/33)</summary>
+<summary>Sri Lanka (14/33)</summary>
 <img src='out/LK/52.png' width='32'/> 52 - Ampara District ✔️
 
 <img src='out/LK/71.png' width='32'/> 71 - Anuradhapura District ✔️
@@ -8837,7 +8837,7 @@ CC - Caceres
 
 <img src='out/LK/2.png' width='32'/> 2 - Central Province ✔️
 
-11 - Colombo District
+<img src='out/LK/11.png' width='32'/> 11 - Colombo District ✔️
 
 <img src='out/LK/5.png' width='32'/> 5 - Eastern Province ✔️
 
@@ -9175,7 +9175,7 @@ SU - Sughd Province
 
 
 <details>
-<summary>Tanzania (4/31)</summary>
+<summary>Tanzania (6/31)</summary>
 <img src='out/TZ/01.png' width='32'/> 01 - Arusha ✔️
 
 <img src='out/TZ/02.png' width='32'/> 02 - Dar es Salaam ✔️
@@ -9200,9 +9200,9 @@ SU - Sughd Province
 
 13 - Mara
 
-14 - Mbeya
+<img src='out/TZ/14.png' width='32'/> 14 - Mbeya ✔️
 
-16 - Morogoro
+<img src='out/TZ/16.png' width='32'/> 16 - Morogoro ✔️
 
 17 - Mtwara
 
@@ -10150,7 +10150,7 @@ N - Northern Region
 
 
 <details>
-<summary>United Kingdom (113/247)</summary>
+<summary>United Kingdom (114/247)</summary>
 <img src='out/GB/ABE.png' width='32'/> ABE - Aberdeen ✔️
 
 <img src='out/GB/ABD.png' width='32'/> ABD - Aberdeenshire ✔️
@@ -10601,7 +10601,7 @@ SWD - Swindon
 
 TAM - Tameside
 
-TFW - Telford and Wrekin
+<img src='out/GB/TFW.png' width='32'/> TFW - Telford and Wrekin ✔️
 
 THR - Thurrock
 
@@ -11099,7 +11099,7 @@ ST - Saint Thomas
 
 
 <details>
-<summary>Yemen (0/21)</summary>
+<summary>Yemen (1/21)</summary>
 AD - 'Adan
 
 AM - 'Amran
@@ -11124,7 +11124,7 @@ HD - Hadhramaut
 
 HJ - Hajjah
 
-IB - Ibb
+<img src='out/YE/IB.png' width='32'/> IB - Ibb ✔️
 
 LA - Lahij
 
