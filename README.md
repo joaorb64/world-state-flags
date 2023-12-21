@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3370
+FLAGS: 3371
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -9817,7 +9817,7 @@ VAI - Vaitupu
 
 
 <details>
-<summary>Uganda (17/125)</summary>
+<summary>Uganda (18/125)</summary>
 314 - Abim District
 
 301 - Adjumani District
@@ -9862,7 +9862,7 @@ VAI - Vaitupu
 
 430 - Bunyangabu District
 
-402 - Bushenyi District
+<img src='out/UG/402.png' width='32'/> 402 - Bushenyi District ✔️
 
 202 - Busia District
 
