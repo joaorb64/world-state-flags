@@ -3072,9 +3072,9 @@ W - West Coast Division
 
 <details>
 <summary>Georgia (6/14)</summary>
-<img src='out/GE/AJ.png' width='32'/> AJ - Adjara ✔️
+AB - Abkhazia
 
-AB - Autonomous Republic of Abkhazia
+<img src='out/GE/AJ.png' width='32'/> AJ - Adjara ✔️
 
 GU - Guria
 
