@@ -7322,23 +7322,23 @@ WSA - Western Samar
 
 <img src='out/PR/019.png' width='32'/> 019 - Barranquitas ✔️
 
-<img src='out/PR/BY.png' width='32'/> BY - Bayamon ✔️
-
 <img src='out/PR/021.png' width='32'/> 021 - Bayamón ✔️
+
+<img src='out/PR/BY.png' width='32'/> BY - Bayamon ✔️
 
 <img src='out/PR/023.png' width='32'/> 023 - Cabo Rojo ✔️
 
-<img src='out/PR/CG.png' width='32'/> CG - Caguas ✔️
-
 <img src='out/PR/025.png' width='32'/> 025 - Caguas ✔️
+
+<img src='out/PR/CG.png' width='32'/> CG - Caguas ✔️
 
 <img src='out/PR/027.png' width='32'/> 027 - Camuy ✔️
 
 <img src='out/PR/029.png' width='32'/> 029 - Canóvanas ✔️
 
-<img src='out/PR/CL.png' width='32'/> CL - Carolina ✔️
-
 <img src='out/PR/031.png' width='32'/> 031 - Carolina ✔️
+
+<img src='out/PR/CL.png' width='32'/> CL - Carolina ✔️
 
 <img src='out/PR/033.png' width='32'/> 033 - Cataño ✔️
 
@@ -7370,9 +7370,9 @@ WSA - Western Samar
 
 <img src='out/PR/059.png' width='32'/> 059 - Guayanilla ✔️
 
-<img src='out/PR/GN.png' width='32'/> GN - Guaynabo ✔️
-
 <img src='out/PR/061.png' width='32'/> 061 - Guaynabo ✔️
+
+<img src='out/PR/GN.png' width='32'/> GN - Guaynabo ✔️
 
 <img src='out/PR/063.png' width='32'/> 063 - Gurabo ✔️
 
@@ -7408,9 +7408,9 @@ WSA - Western Samar
 
 <img src='out/PR/095.png' width='32'/> 095 - Maunabo ✔️
 
-<img src='out/PR/MG.png' width='32'/> MG - Mayagüez ✔️
-
 <img src='out/PR/097.png' width='32'/> 097 - Mayagüez ✔️
+
+<img src='out/PR/MG.png' width='32'/> MG - Mayagüez ✔️
 
 <img src='out/PR/099.png' width='32'/> 099 - Moca ✔️
 
@@ -7426,9 +7426,9 @@ WSA - Western Samar
 
 <img src='out/PR/111.png' width='32'/> 111 - Peñuelas ✔️
 
-<img src='out/PR/PO.png' width='32'/> PO - Ponce ✔️
-
 <img src='out/PR/113.png' width='32'/> 113 - Ponce ✔️
+
+<img src='out/PR/PO.png' width='32'/> PO - Ponce ✔️
 
 <img src='out/PR/115.png' width='32'/> 115 - Quebradillas ✔️
 
@@ -7454,13 +7454,13 @@ WSA - Western Samar
 
 <img src='out/PR/135.png' width='32'/> 135 - Toa Alta ✔️
 
-<img src='out/PR/TB.png' width='32'/> TB - Toa Baja ✔️
-
 <img src='out/PR/137.png' width='32'/> 137 - Toa Baja ✔️
 
-<img src='out/PR/TA.png' width='32'/> TA - Trujillo Alto ✔️
+<img src='out/PR/TB.png' width='32'/> TB - Toa Baja ✔️
 
 <img src='out/PR/139.png' width='32'/> 139 - Trujillo Alto ✔️
+
+<img src='out/PR/TA.png' width='32'/> TA - Trujillo Alto ✔️
 
 <img src='out/PR/141.png' width='32'/> 141 - Utuado ✔️
 
@@ -9120,9 +9120,9 @@ TA - Tartus
 
 <img src='out/TW/CYQ.png' width='32'/> CYQ - Chiayi ✔️
 
-<img src='out/TW/HSQ.png' width='32'/> HSQ - Hsinchu ✔️
-
 <img src='out/TW/HSZ.png' width='32'/> HSZ - Hsinchu ✔️
+
+<img src='out/TW/HSQ.png' width='32'/> HSQ - Hsinchu ✔️
 
 <img src='out/TW/HUA.png' width='32'/> HUA - Hualien ✔️
 
