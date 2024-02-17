@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3371
+FLAGS: 3372
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -362,7 +362,7 @@ TP - Tropojë District
 
 
 <details>
-<summary>Antigua And Barbuda (2/8)</summary>
+<summary>Antigua and Barbuda (2/8)</summary>
 <img src='out/AG/10.png' width='32'/> 10 - Barbuda ✔️
 
 <img src='out/AG/11.png' width='32'/> 11 - Redonda ✔️
@@ -2418,35 +2418,6 @@ TA - Tadjourah Region
 
 
 <details>
-<summary>East Timor ✔️ (12/12)</summary>
-<img src='out/TL/AL.png' width='32'/> AL - Aileu municipality ✔️
-
-<img src='out/TL/AN.png' width='32'/> AN - Ainaro Municipality ✔️
-
-<img src='out/TL/BA.png' width='32'/> BA - Baucau Municipality ✔️
-
-<img src='out/TL/BO.png' width='32'/> BO - Bobonaro Municipality ✔️
-
-<img src='out/TL/CO.png' width='32'/> CO - Cova Lima Municipality ✔️
-
-<img src='out/TL/DI.png' width='32'/> DI - Dili municipality ✔️
-
-<img src='out/TL/ER.png' width='32'/> ER - Ermera District ✔️
-
-<img src='out/TL/LA.png' width='32'/> LA - Lautém Municipality ✔️
-
-<img src='out/TL/LI.png' width='32'/> LI - Liquiçá Municipality ✔️
-
-<img src='out/TL/MT.png' width='32'/> MT - Manatuto District ✔️
-
-<img src='out/TL/MF.png' width='32'/> MF - Manufahi Municipality ✔️
-
-<img src='out/TL/VI.png' width='32'/> VI - Viqueque Municipality ✔️
-
-</details>
-
-
-<details>
 <summary>Ecuador ✔️ (24/24)</summary>
 <img src='out/EC/A.png' width='32'/> A - Azuay ✔️
 
@@ -2662,6 +2633,19 @@ DK - Southern Red Sea Region
 <img src='out/EE/84.png' width='32'/> 84 - Viljandi County ✔️
 
 <img src='out/EE/86.png' width='32'/> 86 - Võru County ✔️
+
+</details>
+
+
+<details>
+<summary>Eswatini (1/4)</summary>
+HH - Hhohho District
+
+LU - Lubombo District
+
+MA - Manzini District
+
+<img src='out/SZ/SH.png' width='32'/> SH - Shiselweni District ✔️
 
 </details>
 
@@ -3681,7 +3665,7 @@ NYL - Yuen Long
 
 
 <details>
-<summary>India ✔️ (36/36)</summary>
+<summary>India (37/36)</summary>
 <img src='out/IN/AN.png' width='32'/> AN - Andaman and Nicobar Islands ✔️
 
 <img src='out/IN/AP.png' width='32'/> AP - Andhra Pradesh ✔️
@@ -3750,7 +3734,7 @@ NYL - Yuen Long
 
 <img src='out/IN/UP.png' width='32'/> UP - Uttar Pradesh ✔️
 
-<img src='out/IN/UT.png' width='32'/> UT - Uttarakhand ✔️
+<img src='out/IN/UK.png' width='32'/> UK - Uttarakhand ✔️
 
 <img src='out/IN/WB.png' width='32'/> WB - West Bengal ✔️
 
@@ -6873,7 +6857,7 @@ NB - Ngöbe-Buglé Comarca
 
 
 <details>
-<summary>Papua new Guinea ✔️ (21/21)</summary>
+<summary>Papua New Guinea ✔️ (21/21)</summary>
 <img src='out/PG/NSB.png' width='32'/> NSB - Bougainville ✔️
 
 <img src='out/PG/CPM.png' width='32'/> CPM - Central Province ✔️
@@ -7776,7 +7760,7 @@ TA - Republic of Tatarstan
 
 
 <details>
-<summary>Saint Kitts And Nevis (2/15)</summary>
+<summary>Saint Kitts and Nevis (2/15)</summary>
 01 - Christ Church Nichola Town Parish
 
 <img src='out/KN/N.png' width='32'/> N - Nevis ✔️
@@ -7840,7 +7824,7 @@ TA - Republic of Tatarstan
 
 
 <details>
-<summary>Saint Vincent And The Grenadines (1/6)</summary>
+<summary>Saint Vincent and the Grenadines (1/6)</summary>
 01 - Charlotte Parish
 
 <img src='out/VC/06.png' width='32'/> 06 - Grenadines Parish ✔️
@@ -8776,7 +8760,7 @@ CC - Caceres
 
 <img src='out/ES/GC.png' width='32'/> GC - Las Palmas ✔️
 
-<img src='out/ES/LE.png' width='32'/> LE - Léon ✔️
+<img src='out/ES/LE.png' width='32'/> LE - León ✔️
 
 <img src='out/ES/L.png' width='32'/> L - Lleida ✔️
 
@@ -8958,19 +8942,6 @@ SA - Saramacca District
 SI - Sipaliwini District
 
 <img src='out/SR/WA.png' width='32'/> WA - Wanica District ✔️
-
-</details>
-
-
-<details>
-<summary>Swaziland (1/4)</summary>
-HH - Hhohho District
-
-LU - Lubombo District
-
-MA - Manzini District
-
-<img src='out/SZ/SH.png' width='32'/> SH - Shiselweni District ✔️
 
 </details>
 
@@ -9492,6 +9463,35 @@ WG - West Grand Bahama
 
 
 <details>
+<summary>Timor-Leste ✔️ (12/12)</summary>
+<img src='out/TL/AL.png' width='32'/> AL - Aileu municipality ✔️
+
+<img src='out/TL/AN.png' width='32'/> AN - Ainaro Municipality ✔️
+
+<img src='out/TL/BA.png' width='32'/> BA - Baucau Municipality ✔️
+
+<img src='out/TL/BO.png' width='32'/> BO - Bobonaro Municipality ✔️
+
+<img src='out/TL/CO.png' width='32'/> CO - Cova Lima Municipality ✔️
+
+<img src='out/TL/DI.png' width='32'/> DI - Dili municipality ✔️
+
+<img src='out/TL/ER.png' width='32'/> ER - Ermera District ✔️
+
+<img src='out/TL/LA.png' width='32'/> LA - Lautém Municipality ✔️
+
+<img src='out/TL/LI.png' width='32'/> LI - Liquiçá Municipality ✔️
+
+<img src='out/TL/MT.png' width='32'/> MT - Manatuto District ✔️
+
+<img src='out/TL/MF.png' width='32'/> MF - Manufahi Municipality ✔️
+
+<img src='out/TL/VI.png' width='32'/> VI - Viqueque Municipality ✔️
+
+</details>
+
+
+<details>
 <summary>Togo (1/5)</summary>
 <img src='out/TG/C.png' width='32'/> C - Centrale Region ✔️
 
@@ -9522,7 +9522,7 @@ S - Savanes Region
 
 
 <details>
-<summary>Trinidad And Tobago (5/16)</summary>
+<summary>Trinidad and Tobago (5/16)</summary>
 <img src='out/TT/ARI.png' width='32'/> ARI - Arima ✔️
 
 <img src='out/TT/CHA.png' width='32'/> CHA - Chaguanas ✔️
