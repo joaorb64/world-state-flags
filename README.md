@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3137
+FLAGS: 3138
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -4003,7 +4003,7 @@ D - Southern District
 
 
 <details>
-<summary>Italy (116/111)</summary>
+<summary>Italy (117/111)</summary>
 <img src='out/IT/65.png' width='32'/> 65 - Abruzzo ✔️
 
 <img src='out/IT/AG.png' width='32'/> AG - Agrigento ✔️
@@ -4192,7 +4192,7 @@ SU - South Sardinia
 
 <img src='out/IT/TA.png' width='32'/> TA - Taranto ✔️
 
-TE - Teramo
+<img src='out/IT/TE.png' width='32'/> TE - Teramo ✔️
 
 <img src='out/IT/TR.png' width='32'/> TR - Terni ✔️
 
