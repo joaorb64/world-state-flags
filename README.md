@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3138
+FLAGS: 3148
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -4003,7 +4003,7 @@ D - Southern District
 
 
 <details>
-<summary>Italy (117/111)</summary>
+<summary>Italy (119/111)</summary>
 <img src='out/IT/65.png' width='32'/> 65 - Abruzzo ✔️
 
 <img src='out/IT/AG.png' width='32'/> AG - Agrigento ✔️
@@ -4128,7 +4128,7 @@ VS - Medio Campidano
 
 <img src='out/IT/NO.png' width='32'/> NO - Novara ✔️
 
-NU - Nuoro
+<img src='out/IT/NU.png' width='32'/> NU - Nuoro ✔️
 
 <img src='out/IT/OR.png' width='32'/> OR - Oristano ✔️
 
@@ -4184,7 +4184,7 @@ PU - Pesaro and Urbino
 
 <img src='out/IT/SI.png' width='32'/> SI - Siena ✔️
 
-SR - Siracusa
+<img src='out/IT/SR.png' width='32'/> SR - Siracusa ✔️
 
 <img src='out/IT/SO.png' width='32'/> SO - Sondrio ✔️
 
@@ -9612,7 +9612,7 @@ WTO - Western Tobago
 
 
 <details>
-<summary>Turkey (74/81)</summary>
+<summary>Turkey (79/81)</summary>
 <img src='out/TR/01.png' width='32'/> 01 - Adana ✔️
 
 <img src='out/TR/02.png' width='32'/> 02 - Adıyaman ✔️
@@ -9627,7 +9627,7 @@ WTO - Western Tobago
 
 <img src='out/TR/06.png' width='32'/> 06 - Ankara ✔️
 
-07 - Antalya
+<img src='out/TR/07.png' width='32'/> 07 - Antalya ✔️
 
 <img src='out/TR/75.png' width='32'/> 75 - Ardahan ✔️
 
@@ -9637,7 +9637,7 @@ WTO - Western Tobago
 
 <img src='out/TR/10.png' width='32'/> 10 - Balıkesir ✔️
 
-74 - Bartın
+<img src='out/TR/74.png' width='32'/> 74 - Bartın ✔️
 
 <img src='out/TR/72.png' width='32'/> 72 - Batman ✔️
 
@@ -9647,9 +9647,9 @@ WTO - Western Tobago
 
 <img src='out/TR/12.png' width='32'/> 12 - Bingöl ✔️
 
-13 - Bitlis
+<img src='out/TR/13.png' width='32'/> 13 - Bitlis ✔️
 
-14 - Bolu
+<img src='out/TR/14.png' width='32'/> 14 - Bolu ✔️
 
 <img src='out/TR/15.png' width='32'/> 15 - Burdur ✔️
 
@@ -9735,7 +9735,7 @@ WTO - Western Tobago
 
 <img src='out/TR/50.png' width='32'/> 50 - Nevşehir ✔️
 
-51 - Niğde
+<img src='out/TR/51.png' width='32'/> 51 - Niğde ✔️
 
 <img src='out/TR/52.png' width='32'/> 52 - Ordu ✔️
 
@@ -10957,7 +10957,7 @@ XO - Xorazm Region
 
 
 <details>
-<summary>Vietnam (58/63)</summary>
+<summary>Vietnam (61/63)</summary>
 <img src='out/VN/44.png' width='32'/> 44 - An Giang ✔️
 
 <img src='out/VN/43.png' width='32'/> 43 - Bà Rịa-Vũng Tàu ✔️
@@ -11040,7 +11040,7 @@ XO - Xorazm Region
 
 <img src='out/VN/22.png' width='32'/> 22 - Nghệ An ✔️
 
-18 - Ninh Bình
+<img src='out/VN/18.png' width='32'/> 18 - Ninh Bình ✔️
 
 <img src='out/VN/36.png' width='32'/> 36 - Ninh Thuận ✔️
 
@@ -11048,9 +11048,9 @@ XO - Xorazm Region
 
 <img src='out/VN/32.png' width='32'/> 32 - Phú Yên ✔️
 
-24 - Quảng Bình
+<img src='out/VN/24.png' width='32'/> 24 - Quảng Bình ✔️
 
-27 - Quảng Nam
+<img src='out/VN/27.png' width='32'/> 27 - Quảng Nam ✔️
 
 <img src='out/VN/29.png' width='32'/> 29 - Quảng Ngãi ✔️
 
