@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3148
+FLAGS: 3150
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -10957,7 +10957,7 @@ XO - Xorazm Region
 
 
 <details>
-<summary>Vietnam (61/63)</summary>
+<summary>Vietnam ✔️ (63/63)</summary>
 <img src='out/VN/44.png' width='32'/> 44 - An Giang ✔️
 
 <img src='out/VN/43.png' width='32'/> 43 - Bà Rịa-Vũng Tàu ✔️
@@ -11064,13 +11064,13 @@ XO - Xorazm Region
 
 <img src='out/VN/37.png' width='32'/> 37 - Tây Ninh ✔️
 
-20 - Thái Bình
+<img src='out/VN/20.png' width='32'/> 20 - Thái Bình ✔️
 
 <img src='out/VN/69.png' width='32'/> 69 - Thái Nguyên ✔️
 
 <img src='out/VN/21.png' width='32'/> 21 - Thanh Hóa ✔️
 
-26 - Thừa Thiên-Huế
+<img src='out/VN/26.png' width='32'/> 26 - Thừa Thiên-Huế ✔️
 
 <img src='out/VN/46.png' width='32'/> 46 - Tiền Giang ✔️
 
