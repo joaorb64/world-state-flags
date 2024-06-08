@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3150
+FLAGS: 3142
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -1998,18 +1998,18 @@ ZZ - Zanzan Region
 
 
 <details>
-<summary>Cuba ✔️ (16/16)</summary>
-<img src='out/CU/15.png' width='32'/> 15 - Artemisa Province ✔️
+<summary>Cuba (9/16)</summary>
+15 - Artemisa Province
 
 <img src='out/CU/09.png' width='32'/> 09 - Camagüey Province ✔️
 
 <img src='out/CU/08.png' width='32'/> 08 - Ciego de Ávila Province ✔️
 
-<img src='out/CU/06.png' width='32'/> 06 - Cienfuegos Province ✔️
+06 - Cienfuegos Province
 
 <img src='out/CU/12.png' width='32'/> 12 - Granma Province ✔️
 
-<img src='out/CU/14.png' width='32'/> 14 - Guantánamo Province ✔️
+14 - Guantánamo Province
 
 <img src='out/CU/03.png' width='32'/> 03 - Havana Province ✔️
 
@@ -2019,17 +2019,17 @@ ZZ - Zanzan Region
 
 <img src='out/CU/10.png' width='32'/> 10 - Las Tunas Province ✔️
 
-<img src='out/CU/04.png' width='32'/> 04 - Matanzas Province ✔️
+04 - Matanzas Province
 
 <img src='out/CU/16.png' width='32'/> 16 - Mayabeque Province ✔️
 
-<img src='out/CU/01.png' width='32'/> 01 - Pinar del Río Province ✔️
+01 - Pinar del Río Province
 
-<img src='out/CU/07.png' width='32'/> 07 - Sancti Spíritus Province ✔️
+07 - Sancti Spíritus Province
 
 <img src='out/CU/13.png' width='32'/> 13 - Santiago de Cuba Province ✔️
 
-<img src='out/CU/05.png' width='32'/> 05 - Villa Clara Province ✔️
+05 - Villa Clara Province
 
 </details>
 
@@ -4642,7 +4642,7 @@ XI - Xiangkhouang Province
 
 
 <details>
-<summary>Latvia (64/118)</summary>
+<summary>Latvia (63/118)</summary>
 001 - Aglona Municipality
 
 <img src='out/LV/002.png' width='32'/> 002 - Aizkraukle Municipality ✔️
@@ -4705,7 +4705,7 @@ XI - Xiangkhouang Province
 
 <img src='out/LV/031.png' width='32'/> 031 - Garkalne Municipality ✔️
 
-<img src='out/LV/032.png' width='32'/> 032 - Grobiņa Municipality ✔️
+032 - Grobiņa Municipality
 
 <img src='out/LV/033.png' width='32'/> 033 - Gulbene Municipality ✔️
 
