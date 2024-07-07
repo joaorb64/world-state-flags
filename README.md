@@ -2678,6 +2678,23 @@ SH - Shiselweni District
 
 
 <details>
+<summary>Faroe Islands (0/6)</summary>
+EY - Eysturoy
+
+NO - Northern Isles
+
+SA - Sandoy
+
+ST - Streymoy
+
+SU - Suðuroy
+
+VA - Vágar
+
+</details>
+
+
+<details>
 <summary>Fiji Islands (0/19)</summary>
 01 - Ba
 
@@ -5508,9 +5525,9 @@ BKO - Bamako
 
 <img src='out/MT/46.png' width='32'/> 46 - Rabat ✔️
 
-<img src='out/MT/50.png' width='32'/> 50 - Saint Lawrence ✔️
-
 <img src='out/MT/49.png' width='32'/> 49 - San Ġwann ✔️
+
+<img src='out/MT/50.png' width='32'/> 50 - San Lawrenz ✔️
 
 <img src='out/MT/52.png' width='32'/> 52 - Sannat ✔️
 
@@ -6857,7 +6874,7 @@ NB - Ngöbe-Buglé Comarca
 
 
 <details>
-<summary>Papua New Guinea ✔️ (21/21)</summary>
+<summary>Papua New Guinea (21/22)</summary>
 <img src='out/PG/NSB.png' width='32'/> NSB - Bougainville ✔️
 
 <img src='out/PG/CPM.png' width='32'/> CPM - Central Province ✔️
@@ -6865,6 +6882,8 @@ NB - Ngöbe-Buglé Comarca
 <img src='out/PG/CPK.png' width='32'/> CPK - Chimbu Province ✔️
 
 <img src='out/PG/EBR.png' width='32'/> EBR - East New Britain ✔️
+
+ESW - East Sepik
 
 <img src='out/PG/EHG.png' width='32'/> EHG - Eastern Highlands Province ✔️
 
@@ -7202,37 +7221,37 @@ WSA - Western Samar
 
 <details>
 <summary>Poland ✔️ (16/16)</summary>
-<img src='out/PL/WP.png' width='32'/> WP - Greater Poland Voivodeship ✔️
+30 - Greater Poland
 
-<img src='out/PL/KP.png' width='32'/> KP - Kuyavian-Pomeranian Voivodeship ✔️
+26 - Holy Cross
 
-<img src='out/PL/MA.png' width='32'/> MA - Lesser Poland Voivodeship ✔️
+04 - Kuyavia-Pomerania
 
-<img src='out/PL/DS.png' width='32'/> DS - Lower Silesian Voivodeship ✔️
+12 - Lesser Poland
 
-<img src='out/PL/LU.png' width='32'/> LU - Lublin Voivodeship ✔️
+02 - Lower Silesia
 
-<img src='out/PL/LB.png' width='32'/> LB - Lubusz Voivodeship ✔️
+06 - Lublin
 
-<img src='out/PL/LD.png' width='32'/> LD - Łódź Voivodeship ✔️
+08 - Lubusz
 
-<img src='out/PL/MZ.png' width='32'/> MZ - Masovian Voivodeship ✔️
+10 - Łódź
 
-<img src='out/PL/OP.png' width='32'/> OP - Opole Voivodeship ✔️
+14 - Mazovia
 
-<img src='out/PL/PK.png' width='32'/> PK - Podkarpackie Voivodeship ✔️
+20 - Podlaskie
 
-<img src='out/PL/PD.png' width='32'/> PD - Podlaskie Voivodeship ✔️
+22 - Pomerania
 
-<img src='out/PL/PM.png' width='32'/> PM - Pomeranian Voivodeship ✔️
+24 - Silesia
 
-<img src='out/PL/SL.png' width='32'/> SL - Silesian Voivodeship ✔️
+18 - Subcarpathia
 
-<img src='out/PL/SK.png' width='32'/> SK - Świętokrzyskie Voivodeship ✔️
+16 - Upper Silesia
 
-<img src='out/PL/WN.png' width='32'/> WN - Warmian-Masurian Voivodeship ✔️
+28 - Warmia-Masuria
 
-<img src='out/PL/ZP.png' width='32'/> ZP - West Pomeranian Voivodeship ✔️
+32 - West Pomerania
 
 </details>
 
