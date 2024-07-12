@@ -10,75 +10,75 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3170
+FLAGS: 3142
 
 <details>
-<summary>Afghanistan ✔️ (33/33)</summary>
-<img src='out/AF/BDS.png' width='32'/> BDS - Badakhshan ✔️
+<summary>Afghanistan (5/33)</summary>
+BDS - Badakhshan
 
-<img src='out/AF/BDG.png' width='32'/> BDG - Badghis ✔️
+BDG - Badghis
 
-<img src='out/AF/BGL.png' width='32'/> BGL - Baghlan ✔️
+BGL - Baghlan
 
 <img src='out/AF/BAL.png' width='32'/> BAL - Balkh ✔️
 
 <img src='out/AF/BAM.png' width='32'/> BAM - Bamyan ✔️
 
-<img src='out/AF/DAY.png' width='32'/> DAY - Daykundi ✔️
+DAY - Daykundi
 
-<img src='out/AF/FRA.png' width='32'/> FRA - Farah ✔️
+FRA - Farah
 
-<img src='out/AF/FYB.png' width='32'/> FYB - Faryab ✔️
+FYB - Faryab
 
-<img src='out/AF/GHA.png' width='32'/> GHA - Ghazni ✔️
+GHA - Ghazni
 
-<img src='out/AF/GHO.png' width='32'/> GHO - Ghōr ✔️
+GHO - Ghōr
 
-<img src='out/AF/HEL.png' width='32'/> HEL - Helmand ✔️
+HEL - Helmand
 
 <img src='out/AF/HER.png' width='32'/> HER - Herat ✔️
 
-<img src='out/AF/JOW.png' width='32'/> JOW - Jowzjan ✔️
+JOW - Jowzjan
 
 <img src='out/AF/KAB.png' width='32'/> KAB - Kabul ✔️
 
 <img src='out/AF/KAN.png' width='32'/> KAN - Kandahar ✔️
 
-<img src='out/AF/KAP.png' width='32'/> KAP - Kapisa ✔️
+KAP - Kapisa
 
-<img src='out/AF/KHO.png' width='32'/> KHO - Khost ✔️
+KHO - Khost
 
-<img src='out/AF/KNR.png' width='32'/> KNR - Kunar ✔️
+KNR - Kunar
 
-<img src='out/AF/KDZ.png' width='32'/> KDZ - Kunduz Province ✔️
+KDZ - Kunduz Province
 
-<img src='out/AF/LAG.png' width='32'/> LAG - Laghman ✔️
+LAG - Laghman
 
-<img src='out/AF/LOG.png' width='32'/> LOG - Logar ✔️
+LOG - Logar
 
-<img src='out/AF/NAN.png' width='32'/> NAN - Nangarhar ✔️
+NAN - Nangarhar
 
-<img src='out/AF/NIM.png' width='32'/> NIM - Nimruz ✔️
+NIM - Nimruz
 
-<img src='out/AF/NUR.png' width='32'/> NUR - Nuristan ✔️
+NUR - Nuristan
 
-<img src='out/AF/PIA.png' width='32'/> PIA - Paktia ✔️
+PIA - Paktia
 
-<img src='out/AF/PKA.png' width='32'/> PKA - Paktika ✔️
+PKA - Paktika
 
-<img src='out/AF/PAN.png' width='32'/> PAN - Panjshir ✔️
+PAN - Panjshir
 
-<img src='out/AF/PAR.png' width='32'/> PAR - Parwan ✔️
+PAR - Parwan
 
-<img src='out/AF/SAM.png' width='32'/> SAM - Samangan ✔️
+SAM - Samangan
 
-<img src='out/AF/SAR.png' width='32'/> SAR - Sar-e Pol ✔️
+SAR - Sar-e Pol
 
-<img src='out/AF/TAK.png' width='32'/> TAK - Takhar ✔️
+TAK - Takhar
 
-<img src='out/AF/URU.png' width='32'/> URU - Urozgan ✔️
+URU - Urozgan
 
-<img src='out/AF/ZAB.png' width='32'/> ZAB - Zabul ✔️
+ZAB - Zabul
 
 </details>
 
