@@ -3055,23 +3055,6 @@ W - Western Division
 
 
 <details>
-<summary>Gambia The (0/6)</summary>
-B - Banjul
-
-M - Central River Division
-
-L - Lower River Division
-
-N - North Bank Division
-
-U - Upper River Division
-
-W - West Coast Division
-
-</details>
-
-
-<details>
 <summary>Georgia (4/14)</summary>
 AB - Abkhazia
 
@@ -3279,48 +3262,50 @@ C - West Macedonia Region
 
 
 <details>
-<summary>Guatemala ✔️ (21/21)</summary>
-<img src='out/GT/AV.png' width='32'/> AV - Alta Verapaz Department ✔️
+<summary>Guatemala (21/22)</summary>
+16 - Alta Verapaz 
 
-<img src='out/GT/BV.png' width='32'/> BV - Baja Verapaz Department ✔️
+15 - Baja Verapaz 
 
-<img src='out/GT/CM.png' width='32'/> CM - Chimaltenango Department ✔️
+04 - Chimaltenango 
 
-<img src='out/GT/CQ.png' width='32'/> CQ - Chiquimula Department ✔️
+20 - Chiquimula 
 
-<img src='out/GT/PR.png' width='32'/> PR - El Progreso Department ✔️
+02 - El Progreso 
 
-<img src='out/GT/ES.png' width='32'/> ES - Escuintla Department ✔️
+05 - Escuintla 
 
-<img src='out/GT/GU.png' width='32'/> GU - Guatemala Department ✔️
+01 - Guatemala 
 
-<img src='out/GT/HU.png' width='32'/> HU - Huehuetenango Department ✔️
+13 - Huehuetenango 
 
-<img src='out/GT/IZ.png' width='32'/> IZ - Izabal Department ✔️
+18 - Izabal 
 
-<img src='out/GT/JA.png' width='32'/> JA - Jalapa Department ✔️
+21 - Jalapa 
 
-<img src='out/GT/JU.png' width='32'/> JU - Jutiapa Department ✔️
+22 - Jutiapa 
 
-<img src='out/GT/PE.png' width='32'/> PE - Petén Department ✔️
+17 - Petén 
 
-<img src='out/GT/QZ.png' width='32'/> QZ - Quetzaltenango Department ✔️
+09 - Quetzaltenango 
 
-<img src='out/GT/QC.png' width='32'/> QC - Quiché Department ✔️
+14 - Quiché 
 
-<img src='out/GT/RE.png' width='32'/> RE - Retalhuleu Department ✔️
+11 - Retalhuleu 
 
-<img src='out/GT/SA.png' width='32'/> SA - Sacatepéquez Department ✔️
+03 - Sacatepéquez 
 
-<img src='out/GT/SM.png' width='32'/> SM - San Marcos Department ✔️
+12 - San Marcos 
 
-<img src='out/GT/SR.png' width='32'/> SR - Santa Rosa Department ✔️
+06 - Santa Rosa 
 
-<img src='out/GT/SO.png' width='32'/> SO - Sololá Department ✔️
+07 - Sololá 
 
-<img src='out/GT/SU.png' width='32'/> SU - Suchitepéquez Department ✔️
+10 - Suchitepéquez 
 
-<img src='out/GT/TO.png' width='32'/> TO - Totonicapán Department ✔️
+08 - Totonicapán 
+
+19 - Zacapa
 
 </details>
 
@@ -3759,7 +3744,7 @@ NYL - Yuen Long
 
 
 <details>
-<summary>Indonesia ✔️ (34/34)</summary>
+<summary>Indonesia (34/38)</summary>
 <img src='out/ID/AC.png' width='32'/> AC - Aceh ✔️
 
 <img src='out/ID/BA.png' width='32'/> BA - Bali ✔️
@@ -3809,6 +3794,14 @@ NYL - Yuen Long
 <img src='out/ID/PA.png' width='32'/> PA - Papua ✔️
 
 <img src='out/ID/PB.png' width='32'/> PB - Papua Barat ✔️
+
+PD - Papua Barat Daya
+
+PE - Papua Pegunungan
+
+PS - Papua Selatan
+
+PT - Papua Tengah
 
 <img src='out/ID/RI.png' width='32'/> RI - Riau ✔️
 
@@ -9477,6 +9470,23 @@ SE - South Eleuthera
 SW - Spanish Wells
 
 WG - West Grand Bahama
+
+</details>
+
+
+<details>
+<summary>The Gambia  (0/6)</summary>
+B - Banjul
+
+M - Central River Division
+
+L - Lower River Division
+
+N - North Bank Division
+
+U - Upper River Division
+
+W - West Coast Division
 
 </details>
 
