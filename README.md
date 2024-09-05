@@ -3101,7 +3101,7 @@ SK - Shida Kartli
 
 <img src='out/DE/HH.png' width='32'/> HH - Hamburg ✔️
 
-<img src='out/DE/HE.png' width='32'/> HE - Hesse ✔️
+<img src='out/DE/HE.png' width='32'/> HE - Hessen ✔️
 
 <img src='out/DE/NI.png' width='32'/> NI - Lower Saxony ✔️
 
