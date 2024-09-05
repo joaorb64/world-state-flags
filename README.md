@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3143
+FLAGS: 3146
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -3744,7 +3744,7 @@ NYL - Yuen Long
 
 
 <details>
-<summary>Indonesia (34/38)</summary>
+<summary>Indonesia (37/38)</summary>
 <img src='out/ID/AC.png' width='32'/> AC - Aceh ✔️
 
 <img src='out/ID/BA.png' width='32'/> BA - Bali ✔️
@@ -3795,13 +3795,13 @@ NYL - Yuen Long
 
 <img src='out/ID/PB.png' width='32'/> PB - Papua Barat ✔️
 
-PD - Papua Barat Daya
+<img src='out/ID/PD.png' width='32'/> PD - Papua Barat Daya ✔️
 
 PE - Papua Pegunungan
 
-PS - Papua Selatan
+<img src='out/ID/PS.png' width='32'/> PS - Papua Selatan ✔️
 
-PT - Papua Tengah
+<img src='out/ID/PT.png' width='32'/> PT - Papua Tengah ✔️
 
 <img src='out/ID/RI.png' width='32'/> RI - Riau ✔️
 
