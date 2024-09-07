@@ -968,44 +968,46 @@ WAR - Warwick
 
 
 <details>
-<summary>Bhutan (0/19)</summary>
-33 - Bumthang District
+<summary>Bhutan (0/20)</summary>
+33 - Bumthang 
 
-12 - Chukha District
+12 - Chukha 
 
-22 - Dagana District
+22 - Dagana 
 
-GA - Gasa District
+GA - Gasa 
 
-13 - Haa District
+13 - Haa 
 
-44 - Lhuntse District
+44 - Lhuntse 
 
-42 - Mongar District
+42 - Mongar 
 
-11 - Paro District
+11 - Paro 
 
-43 - Pemagatshel District
+43 - Pemagatshel 
 
-23 - Punakha District
+23 - Punakha 
 
-45 - Samdrup Jongkhar District
+45 - Samdrup Jongkhar 
 
-14 - Samtse District
+14 - Samtse 
 
-31 - Sarpang District
+31 - Sarpang 
 
-15 - Thimphu District
+15 - Thimphu 
 
-41 - Trashigang District
+TY - Trashi Yangtse	
 
-32 - Trongsa District
+41 - Trashigang 
 
-21 - Tsirang District
+32 - Trongsa 
 
-24 - Wangdue Phodrang District
+21 - Tsirang 
 
-34 - Zhemgang District
+24 - Wangdue Phodrang 
+
+34 - Zhemgang 
 
 </details>
 
@@ -6214,44 +6216,20 @@ CA - Zambezi Region
 
 
 <details>
-<summary>Nepal (0/19)</summary>
-BA - Bagmati Zone
+<summary>Nepal (0/7)</summary>
+P3 - Bagmati
 
-BH - Bheri Zone
+P4 - Gandaki
 
-1 - Central Region
+P6 - Karnali
 
-DH - Dhaulagiri Zone
+P1 - Koshi
 
-4 - Eastern Development Region
+P5 - Lumbini
 
-5 - Far-Western Development Region
+P2 - Madhesh
 
-GA - Gandaki Zone
-
-JA - Janakpur Zone
-
-KA - Karnali Zone
-
-KO - Kosi Zone
-
-LU - Lumbini Zone
-
-MA - Mahakali Zone
-
-ME - Mechi Zone
-
-2 - Mid-Western Region
-
-NA - Narayani Zone
-
-RA - Rapti Zone
-
-SA - Sagarmatha Zone
-
-SE - Seti Zone
-
-3 - Western Region
+P7 - Sudurpashchim
 
 </details>
 
