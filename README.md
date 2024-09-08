@@ -10,7 +10,7 @@ This repo will update itself once a day.
 
 ## Stats
 
-FLAGS: 3146
+FLAGS: 3148
 
 <details>
 <summary>Afghanistan (5/33)</summary>
@@ -677,146 +677,22 @@ ZAR - Zardab District
 
 
 <details>
-<summary>Bangladesh (0/70)</summary>
-05 - Bagerhat District
+<summary>Bangladesh (1/8)</summary>
+A - Barisal 
 
-33 - Bahadia
+B - Chittagong 
 
-01 - Bandarban District
+<img src='out/BD/C.png' width='32'/> C - Dhaka  ✔️
 
-02 - Barguna District
+D - Khulna 
 
-06 - Barisal District
+H - Mymensingh 
 
-A - Barisal Division
+E - Rajshahi 
 
-07 - Bhola District
+F - Rangpur 
 
-03 - Bogra District
-
-04 - Brahmanbaria District
-
-09 - Chandpur District
-
-45 - Chapai Nawabganj District
-
-10 - Chittagong District
-
-B - Chittagong Division
-
-12 - Chuadanga District
-
-08 - Comilla District
-
-11 - Cox's Bazar District
-
-13 - Dhaka District
-
-C - Dhaka Division
-
-14 - Dinajpur District
-
-15 - Faridpur District
-
-16 - Feni District
-
-19 - Gaibandha District
-
-18 - Gazipur District
-
-17 - Gopalganj District
-
-20 - Habiganj District
-
-21 - Jamalpur District
-
-22 - Jessore District
-
-25 - Jhalokati District
-
-23 - Jhenaidah District
-
-24 - Joypurhat District
-
-29 - Khagrachari District
-
-27 - Khulna District
-
-D - Khulna Division
-
-26 - Kishoreganj District
-
-28 - Kurigram District
-
-30 - Kushtia District
-
-31 - Lakshmipur District
-
-32 - Lalmonirhat District
-
-36 - Madaripur District
-
-39 - Meherpur District
-
-38 - Moulvibazar District
-
-35 - Munshiganj District
-
-34 - Mymensingh District
-
-H - Mymensingh Division
-
-48 - Naogaon District
-
-43 - Narail District
-
-40 - Narayanganj District
-
-44 - Natore District
-
-41 - Netrokona District
-
-46 - Nilphamari District
-
-47 - Noakhali District
-
-49 - Pabna District
-
-52 - Panchagarh District
-
-51 - Patuakhali District
-
-50 - Pirojpur District
-
-53 - Rajbari District
-
-54 - Rajshahi District
-
-E - Rajshahi Division
-
-56 - Rangamati Hill District
-
-55 - Rangpur District
-
-F - Rangpur Division
-
-58 - Satkhira District
-
-62 - Shariatpur District
-
-57 - Sherpur District
-
-59 - Sirajganj District
-
-61 - Sunamganj District
-
-60 - Sylhet District
-
-G - Sylhet Division
-
-63 - Tangail District
-
-64 - Thakurgaon District
+G - Sylhet 
 
 </details>
 
@@ -3746,7 +3622,7 @@ NYL - Yuen Long
 
 
 <details>
-<summary>Indonesia (37/38)</summary>
+<summary>Indonesia ✔️ (38/38)</summary>
 <img src='out/ID/AC.png' width='32'/> AC - Aceh ✔️
 
 <img src='out/ID/BA.png' width='32'/> BA - Bali ✔️
@@ -3799,7 +3675,7 @@ NYL - Yuen Long
 
 <img src='out/ID/PD.png' width='32'/> PD - Papua Barat Daya ✔️
 
-PE - Papua Pegunungan
+<img src='out/ID/PE.png' width='32'/> PE - Papua Pegunungan ✔️
 
 <img src='out/ID/PS.png' width='32'/> PS - Papua Selatan ✔️
 
